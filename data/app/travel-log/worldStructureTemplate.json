@@ -8,7 +8,25 @@
           "name": "",
           "category": "",
           "purpose": "",
-          "notes": ""
+          "notes": "",
+          "links": [
+            {
+              "url": "",
+              "title": "AppStore"
+            },
+            {
+              "url": "",
+              "title": "PlayStore"
+            },
+            {
+              "url": "",
+              "title": "FDroid"
+            },
+            {
+              "url": "",
+              "title": "DroidIfy"
+            }
+          ]
         }
       ],
       "wishlist": [

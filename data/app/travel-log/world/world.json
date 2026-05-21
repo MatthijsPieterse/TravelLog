@@ -1,0 +1,417 @@
+{
+  "name": "world",
+  "data": [
+    {
+      "intro": "This is a travel log containing my experiences around the world.",
+      "recommendedApps": [
+        {
+          "name": "Google Maps",
+          "category": "navigation",
+          "purpose": "Global navigation, saved places, transit routes, and offline maps.",
+          "notes": "Essential baseline navigation app almost everywhere.",
+          "links": [
+            {
+              "url": "",
+              "title": "PlayStore"
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Organic Maps",
+          "category": "navigation",
+          "purpose": "Offline maps with walking trails and remote-area coverage.",
+          "notes": "Very useful where mobile signal is unreliable.",
+          "links": [
+            {
+              "url": "https://f-droid.org/en/packages/app.organicmaps/",
+              "title": "FDroid"
+            },
+            {
+              "url": "https://play.google.com/store/apps/details?id=app.organicmaps",
+              "title": "PlayStore"
+            },
+            {
+              "url": "https://apps.apple.com/nl/app/organic-maps-offline-map-gps/id1567437057?l=en-GB",
+              "title": "AppStore"
+            }
+          ]
+        },
+        {
+          "name": "Rome2Rio",
+          "category": "transport",
+          "purpose": "Compare routes between cities using flights, trains, buses, ferries, and cars.",
+          "notes": "Best for early-stage route planning.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Omio",
+          "category": "transport",
+          "purpose": "Book trains, buses, and flights across multiple regions.",
+          "notes": "Especially strong in Europe and North America.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Skyscanner",
+          "category": "transport",
+          "purpose": "Compare global flight prices across airlines.",
+          "notes": "Good for flexible-date searches.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Google Flights",
+          "category": "transport",
+          "purpose": "Search flights, compare prices, and track fare changes.",
+          "notes": "Great for exploring cheap destinations from a starting airport.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "AirWander",
+          "category": "transport",
+          "purpose": "Find multi-city flights and stopover ideas.",
+          "notes": "Useful for turning layovers into extra destinations.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Booking.com",
+          "category": "accomadation",
+          "purpose": "Book hotels, hostels, and apartments worldwide.",
+          "notes": "Strong global coverage.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Airbnb",
+          "category": "accomadation",
+          "purpose": "Short-term apartment rentals and unique stays.",
+          "notes": "Useful for longer stays.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Hostelworld",
+          "category": "accomadation",
+          "purpose": "Find and book hostels around the world.",
+          "notes": "Best for backpacking, solo travel, and meeting other travellers.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "FlixBus",
+          "category": "transport",
+          "purpose": "Book affordable long-distance bus routes.",
+          "notes": "Very useful in Europe and some other regions.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Uber",
+          "category": "transport",
+          "purpose": "Ride-hailing across multiple continents.",
+          "notes": "Availability varies by country.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Google Translate",
+          "category": "language",
+          "purpose": "Translate text, speech, and images between languages.",
+          "notes": "Offline language packs available.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Wise",
+          "category": "finance",
+          "purpose": "International payments and multi-currency account management.",
+          "notes": "Useful for transfers, travel spending, and better exchange rates.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Revolut",
+          "category": "finance",
+          "purpose": "Multi-currency spending, budgeting, and travel card payments.",
+          "notes": "Good backup card and useful for tracking travel expenses.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "WieBetaaltWat",
+          "category": "finance",
+          "purpose": "Split costs with friends during trips.",
+          "notes": "Useful for group travel, shared accommodation, food, fuel, and activities.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "GetYourGuide",
+          "category": "activities",
+          "purpose": "Book tours, attractions, day trips, and experiences.",
+          "notes": "Good for organized activities in popular destinations.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Klook",
+          "category": "activities",
+          "purpose": "Book activities, transport passes, attractions, and experiences.",
+          "notes": "Especially useful in Asia, but available in many global destinations.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "TripAdvisor",
+          "category": "activities",
+          "purpose": "Find reviews for attractions, restaurants, hotels, and tours.",
+          "notes": "Useful for checking whether places are worth visiting.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Worldpackers",
+          "category": "work",
+          "purpose": "Find volunteer and work-exchange opportunities while travelling.",
+          "notes": "Useful for longer, cheaper, and more social travel.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Workaway",
+          "category": "work",
+          "purpose": "Find cultural exchange, volunteering, and work-stay opportunities.",
+          "notes": "Good for slow travel and staying longer in one place.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        },
+        {
+          "name": "Survival Manual",
+          "category": "utilities",
+          "purpose": "Offline emergency and survival reference.",
+          "notes": "Helpful in remote areas.",
+          "links": [
+            {
+              "url": "",
+              "title": ""
+            },
+            {
+              "url": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "wishlist": [
+        {
+          "type": "country",
+          "name": "Portugal",
+          "priority": "high",
+          "notes": "Visit Portugal and explore its cities, coastline, food, and culture."
+        },
+        {
+          "type": "route",
+          "name": "Full Balkans roadtrip",
+          "priority": "high",
+          "notes": "Do a full roadtrip around the Balkans."
+        },
+        {
+          "type": "experience",
+          "name": "Caves underneath Budapest",
+          "priority": "medium",
+          "notes": "Explore the cave systems underneath Budapest."
+        },
+        {
+          "type": "city",
+          "name": "St Petersburg",
+          "priority": "medium",
+          "notes": "Visit St Petersburg."
+        },
+        {
+          "type": "route",
+          "name": "Sweden east coast to Nordkapp and Norway west coast roadtrip",
+          "priority": "high",
+          "notes": "Roadtrip up the east coast of Sweden to the Nordkapp, then travel down the west coast of Norway."
+        }
+      ],
+      "favoriteHighlights": [
+        {
+          "type": "city",
+          "name": "Andorra la Vella",
+          "location": "Andorra",
+          "notes": "Visited Andorra la Vella."
+        },
+        {
+          "type": "experience",
+          "name": "Wine tour in Etyek",
+          "location": "Etyek, Hungary",
+          "notes": "Went on a wine tour in Etyek."
+        }
+      ],
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": "03-05-2026"
+      }
+    }
+  ]
+}
