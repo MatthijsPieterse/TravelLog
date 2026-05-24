@@ -104,7 +104,12 @@
         {
           "name": "honduras",
           "territories": []
-        },
+        }
+      ]
+    },
+    {
+      "name": "caribbean",
+      "nations": [
         {
           "name": "cuba",
           "territories": []
@@ -590,6 +595,14 @@
         {
           "name": "cyprus",
           "territories": []
+        },
+        {
+          "name": "armenia",
+          "territories": []
+        },
+        {
+          "name": "georgia",
+          "territories": []
         }
       ]
     },
@@ -823,7 +836,7 @@
       ]
     },
     {
-      "name": "central asia",
+      "name": "west asia",
       "nations": [
         {
           "name": "kazakhstan",
@@ -843,6 +856,10 @@
         },
         {
           "name": "uzbekistan",
+          "territories": []
+        },
+        {
+          "name": "azerbaijan",
           "territories": []
         }
       ]
@@ -909,24 +926,20 @@
         {
           "name": "yemen",
           "territories": []
+        },
+        {
+          "name": "afghanistan",
+          "territories": []
+        },
+        {
+          "name": "pakistan",
+          "territories": []
         }
       ]
     },
     {
       "name": "asia",
       "nations": [
-        {
-          "name": "afghanistan",
-          "territories": []
-        },
-        {
-          "name": "armenia",
-          "territories": []
-        },
-        {
-          "name": "azerbaijan",
-          "territories": []
-        },
         {
           "name": "bangladesh",
           "territories": []
@@ -993,10 +1006,6 @@
           "territories": []
         },
         {
-          "name": "pakistan",
-          "territories": []
-        },
-        {
           "name": "philippines",
           "territories": []
         },
@@ -1026,6 +1035,10 @@
         },
         {
           "name": "vietnam",
+          "territories": []
+        },
+        {
+          "name": "maldives",
           "territories": []
         }
       ]
