@@ -1,0 +1,1 @@
+import{t as e}from"./react-query-C8dBfShE.js";import{F as t}from"./travel-log-shared-Da6n_Y-F.js";import{n,t as r}from"./queryKeys-Ci7OlFVV.js";var i=async()=>t(n.travelLogMaster()),a=()=>e({queryKey:r.travelLogMaster,queryFn:i,staleTime:1/0});export{a as t};
