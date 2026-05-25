@@ -1,0 +1,1254 @@
+{
+  "name": "netherlands",
+  "data": [],
+  "places": [
+    {
+      "name": "Oploo",
+      "englishName": "",
+      "coordinates": [
+        5.873846,
+        51.607283
+      ]
+    },
+    {
+      "name": "Utrecht",
+      "englishName": "",
+      "coordinates": [
+        5.121582,
+        52.090705
+      ]
+    },
+    {
+      "name": "Venray",
+      "englishName": "",
+      "coordinates": [
+        5.975383,
+        51.527026
+      ]
+    },
+    {
+      "name": "Stevensbeek",
+      "englishName": "",
+      "coordinates": [
+        5.915442,
+        51.604063
+      ]
+    },
+    {
+      "name": "Westerbeek",
+      "englishName": "",
+      "coordinates": [
+        5.863745,
+        51.582219
+      ]
+    },
+    {
+      "name": "Sint Anthonis",
+      "englishName": "",
+      "coordinates": [
+        5.881675,
+        51.626922
+      ]
+    },
+    {
+      "name": "Ledeacker",
+      "englishName": "",
+      "coordinates": [
+        5.872596,
+        51.636561
+      ]
+    },
+    {
+      "name": "Rijkevoort",
+      "englishName": "",
+      "coordinates": [
+        5.885017,
+        51.65762
+      ]
+    },
+    {
+      "name": "Boxmeer",
+      "englishName": "",
+      "coordinates": [
+        5.945096,
+        51.648649
+      ]
+    },
+    {
+      "name": "Sambeek",
+      "englishName": "",
+      "coordinates": [
+        5.965749,
+        51.635687
+      ]
+    },
+    {
+      "name": "Vortum-Mullem",
+      "englishName": "",
+      "coordinates": [
+        5.978192,
+        51.620834
+      ]
+    },
+    {
+      "name": "Overloon",
+      "englishName": "",
+      "coordinates": [
+        5.946963,
+        51.571118
+      ]
+    },
+    {
+      "name": "Holthees",
+      "englishName": "",
+      "coordinates": [
+        6.005223,
+        51.57403
+      ]
+    },
+    {
+      "name": "Vierlingsbeek",
+      "englishName": "",
+      "coordinates": [
+        6.009153,
+        51.596439
+      ]
+    },
+    {
+      "name": "Maashees",
+      "englishName": "",
+      "coordinates": [
+        6.034864,
+        51.570759
+      ]
+    },
+    {
+      "name": "Oud Bergen",
+      "englishName": "",
+      "coordinates": [
+        6.032555,
+        51.599945
+      ]
+    },
+    {
+      "name": "Nieuw Bergen",
+      "englishName": "",
+      "coordinates": [
+        6.053149,
+        51.604972
+      ]
+    },
+    {
+      "name": "Afferden",
+      "englishName": "",
+      "coordinates": [
+        6.01423,
+        51.634625
+      ]
+    },
+    {
+      "name": "Heijen",
+      "englishName": "",
+      "coordinates": [
+        5.980515,
+        51.674211
+      ]
+    },
+    {
+      "name": "Beugen",
+      "englishName": "",
+      "coordinates": [
+        5.940011,
+        51.67385
+      ]
+    },
+    {
+      "name": "Gennep",
+      "englishName": "",
+      "coordinates": [
+        5.973455,
+        51.695085
+      ]
+    },
+    {
+      "name": "Ottersum",
+      "englishName": "",
+      "coordinates": [
+        5.982403,
+        51.702532
+      ]
+    },
+    {
+      "name": "Milsbeek",
+      "englishName": "",
+      "coordinates": [
+        5.949948,
+        51.724361
+      ]
+    },
+    {
+      "name": "Middelaar",
+      "englishName": "",
+      "coordinates": [
+        5.915627,
+        51.724044
+      ]
+    },
+    {
+      "name": "Plasmolen",
+      "englishName": "",
+      "coordinates": [
+        5.922364,
+        51.737237
+      ]
+    },
+    {
+      "name": "Ven-Zelderheide",
+      "englishName": "",
+      "coordinates": [
+        6.023368,
+        51.711892
+      ]
+    },
+    {
+      "name": "Oeffelt",
+      "englishName": "",
+      "coordinates": [
+        5.933614,
+        51.699643
+      ]
+    },
+    {
+      "name": "Sint Agatha",
+      "englishName": "",
+      "coordinates": [
+        5.910463,
+        51.713989
+      ]
+    },
+    {
+      "name": "Cuijk",
+      "englishName": "",
+      "coordinates": [
+        5.880045,
+        51.729938
+      ]
+    },
+    {
+      "name": "Mook",
+      "englishName": "",
+      "coordinates": [
+        5.884224,
+        51.752582
+      ]
+    },
+    {
+      "name": "Katwijk",
+      "englishName": "",
+      "coordinates": [
+        5.87277,
+        51.750643
+      ]
+    },
+    {
+      "name": "Molenhoek",
+      "englishName": "",
+      "coordinates": [
+        5.871612,
+        51.766294
+      ]
+    },
+    {
+      "name": "Malden",
+      "englishName": "",
+      "coordinates": [
+        5.853917,
+        51.780224
+      ]
+    },
+    {
+      "name": "Heumen",
+      "englishName": "",
+      "coordinates": [
+        5.844226,
+        51.765381
+      ]
+    },
+    {
+      "name": "Linden",
+      "englishName": "",
+      "coordinates": [
+        5.82816,
+        51.748521
+      ]
+    },
+    {
+      "name": "Beers",
+      "englishName": "",
+      "coordinates": [
+        5.829911,
+        51.724853
+      ]
+    },
+    {
+      "name": "Mill",
+      "englishName": "",
+      "coordinates": [
+        5.784115,
+        51.68632
+      ]
+    },
+    {
+      "name": "Sint Hubert",
+      "englishName": "",
+      "coordinates": [
+        5.810143,
+        51.678196
+      ]
+    },
+    {
+      "name": "Langenboom",
+      "englishName": "",
+      "coordinates": [
+        5.72868,
+        51.700557
+      ]
+    },
+    {
+      "name": "Wilbertoord",
+      "englishName": "",
+      "coordinates": [
+        5.773902,
+        51.65533
+      ]
+    },
+    {
+      "name": "Wanroij",
+      "englishName": "",
+      "coordinates": [
+        5.820186,
+        51.656976
+      ]
+    },
+    {
+      "name": "Haps",
+      "englishName": "",
+      "coordinates": [
+        5.862862,
+        51.688648
+      ]
+    },
+    {
+      "name": "Landhorst",
+      "englishName": "",
+      "coordinates": [
+        5.789826,
+        51.617695
+      ]
+    },
+    {
+      "name": "Venhorst",
+      "englishName": "",
+      "coordinates": [
+        5.738692,
+        51.608153
+      ]
+    },
+    {
+      "name": "Elsendorp",
+      "englishName": "",
+      "coordinates": [
+        5.768698,
+        51.581331
+      ]
+    },
+    {
+      "name": "De Rips",
+      "englishName": "",
+      "coordinates": [
+        5.810618,
+        51.55079
+      ]
+    },
+    {
+      "name": "Handel",
+      "englishName": "",
+      "coordinates": [
+        5.713557,
+        51.579408
+      ]
+    },
+    {
+      "name": "Gemert",
+      "englishName": "",
+      "coordinates": [
+        5.686459,
+        51.558983
+      ]
+    },
+    {
+      "name": "Boekel",
+      "englishName": "",
+      "coordinates": [
+        5.67268,
+        51.6029
+      ]
+    },
+    {
+      "name": "De Mortel",
+      "englishName": "",
+      "coordinates": [
+        5.708906,
+        51.540329
+      ]
+    },
+    {
+      "name": "Milheeze",
+      "englishName": "",
+      "coordinates": [
+        5.779287,
+        51.502777
+      ]
+    },
+    {
+      "name": "Bakel",
+      "englishName": "",
+      "coordinates": [
+        5.739709,
+        51.503653
+      ]
+    },
+    {
+      "name": "Vredepeel",
+      "englishName": "",
+      "coordinates": [
+        5.869493,
+        51.540973
+      ]
+    },
+    {
+      "name": "Merselo",
+      "englishName": "",
+      "coordinates": [
+        5.928029,
+        51.528333
+      ]
+    },
+    {
+      "name": "Ysselsteyn",
+      "englishName": "",
+      "coordinates": [
+        5.896157,
+        51.489904
+      ]
+    },
+    {
+      "name": "Oostrum",
+      "englishName": "",
+      "coordinates": [
+        6.018465,
+        51.529164
+      ]
+    },
+    {
+      "name": "Smakt",
+      "englishName": "",
+      "coordinates": [
+        6.004185,
+        51.566286
+      ]
+    },
+    {
+      "name": "Well",
+      "englishName": "",
+      "coordinates": [
+        6.09313,
+        51.554565
+      ]
+    },
+    {
+      "name": "Horst",
+      "englishName": "",
+      "coordinates": [
+        6.053924,
+        51.4525
+      ]
+    },
+    {
+      "name": "Melderslo",
+      "englishName": "",
+      "coordinates": [
+        6.085408,
+        51.461723
+      ]
+    },
+    {
+      "name": "Sevenum",
+      "englishName": "",
+      "coordinates": [
+        6.037002,
+        51.412351
+      ]
+    },
+    {
+      "name": "Kronenberg",
+      "englishName": "",
+      "coordinates": [
+        5.999483,
+        51.415755
+      ]
+    },
+    {
+      "name": "Maasbree",
+      "englishName": "",
+      "coordinates": [
+        6.047487,
+        51.358674
+      ]
+    },
+    {
+      "name": "Koningslust",
+      "englishName": "",
+      "coordinates": [
+        5.995095,
+        51.356518
+      ]
+    },
+    {
+      "name": "Grashoek",
+      "englishName": "",
+      "coordinates": [
+        5.940724,
+        51.361563
+      ]
+    },
+    {
+      "name": "Evertsoord",
+      "englishName": "",
+      "coordinates": [
+        5.958432,
+        51.40391
+      ]
+    },
+    {
+      "name": "Beringe",
+      "englishName": "",
+      "coordinates": [
+        5.947891,
+        51.336825
+      ]
+    },
+    {
+      "name": "Panningen",
+      "englishName": "",
+      "coordinates": [
+        5.981942,
+        51.328799
+      ]
+    },
+    {
+      "name": "Helden",
+      "englishName": "",
+      "coordinates": [
+        6.000167,
+        51.320333
+      ]
+    },
+    {
+      "name": "Kessel",
+      "englishName": "",
+      "coordinates": [
+        6.057341,
+        51.291249
+      ]
+    },
+    {
+      "name": "Baarlo",
+      "englishName": "",
+      "coordinates": [
+        6.096724,
+        51.331955
+      ]
+    },
+    {
+      "name": "Hout-Blerick",
+      "englishName": "",
+      "coordinates": [
+        6.126945,
+        51.359877
+      ]
+    },
+    {
+      "name": "Blerick",
+      "englishName": "",
+      "coordinates": [
+        6.149161,
+        51.367649
+      ]
+    },
+    {
+      "name": "Venlo",
+      "englishName": "",
+      "coordinates": [
+        6.168894,
+        51.370211
+      ]
+    },
+    {
+      "name": "Boekend",
+      "englishName": "",
+      "coordinates": [
+        6.117195,
+        51.378025
+      ]
+    },
+    {
+      "name": "Grubbenvorst",
+      "englishName": "",
+      "coordinates": [
+        6.148421,
+        51.419531
+      ]
+    },
+    {
+      "name": "Velden",
+      "englishName": "",
+      "coordinates": [
+        6.163323,
+        51.415593
+      ]
+    },
+    {
+      "name": "Lottum",
+      "englishName": "",
+      "coordinates": [
+        6.16172,
+        51.461042
+      ]
+    },
+    {
+      "name": "Arcen",
+      "englishName": "",
+      "coordinates": [
+        6.178507,
+        51.476261
+      ]
+    },
+    {
+      "name": "Broekhuizen",
+      "englishName": "",
+      "coordinates": [
+        6.163176,
+        51.487711
+      ]
+    },
+    {
+      "name": "Siebengewald",
+      "englishName": "",
+      "coordinates": [
+        6.106579,
+        51.649476
+      ]
+    },
+    {
+      "name": "Tegelen",
+      "englishName": "",
+      "coordinates": [
+        6.13622,
+        51.342931
+      ]
+    },
+    {
+      "name": "Steyl",
+      "englishName": "",
+      "coordinates": [
+        6.121215,
+        51.332235
+      ]
+    },
+    {
+      "name": "Swalmen",
+      "englishName": "",
+      "coordinates": [
+        6.03565,
+        51.231394
+      ]
+    },
+    {
+      "name": "Belfeld",
+      "englishName": "",
+      "coordinates": [
+        6.112817,
+        51.310963
+      ]
+    },
+    {
+      "name": "Roermond",
+      "englishName": "",
+      "coordinates": [
+        5.988264,
+        51.19339
+      ]
+    },
+    {
+      "name": "Echt",
+      "englishName": "",
+      "coordinates": [
+        5.871976,
+        51.107302
+      ]
+    },
+    {
+      "name": "Egchel",
+      "englishName": "",
+      "coordinates": [
+        5.970473,
+        51.312632
+      ]
+    },
+    {
+      "name": "Heythuysen",
+      "englishName": "",
+      "coordinates": [
+        5.900926,
+        51.250199
+      ]
+    },
+    {
+      "name": "America",
+      "englishName": "",
+      "coordinates": [
+        5.979901,
+        51.437149
+      ]
+    },
+    {
+      "name": "Valkenburg",
+      "englishName": "",
+      "coordinates": [
+        5.831252,
+        50.864753
+      ]
+    },
+    {
+      "name": "Maastricht",
+      "englishName": "",
+      "coordinates": [
+        5.690976,
+        50.851244
+      ]
+    },
+    {
+      "name": "Schin op Geul",
+      "englishName": "",
+      "coordinates": [
+        5.869206,
+        50.85246
+      ]
+    },
+    {
+      "name": "Oud-Valkenburg",
+      "englishName": "",
+      "coordinates": [
+        5.853974,
+        50.854823
+      ]
+    },
+    {
+      "name": "Vaals",
+      "englishName": "",
+      "coordinates": [
+        6.01905,
+        50.771016
+      ]
+    },
+    {
+      "name": "Vijlen",
+      "englishName": "",
+      "coordinates": [
+        5.964384,
+        50.787811
+      ]
+    },
+    {
+      "name": "Weert",
+      "englishName": "",
+      "coordinates": [
+        5.706561,
+        51.253849
+      ]
+    },
+    {
+      "name": "Nederweert",
+      "englishName": "",
+      "coordinates": [
+        5.749603,
+        51.285641
+      ]
+    },
+    {
+      "name": "Someren",
+      "englishName": "",
+      "coordinates": [
+        5.713367,
+        51.385888
+      ]
+    },
+    {
+      "name": "Helmond",
+      "englishName": "",
+      "coordinates": [
+        5.655769,
+        51.479096
+      ]
+    },
+    {
+      "name": "Deurne",
+      "englishName": "",
+      "coordinates": [
+        5.79463,
+        51.463853
+      ]
+    },
+    {
+      "name": "Eindhoven",
+      "englishName": "",
+      "coordinates": [
+        5.478638,
+        51.439261
+      ]
+    },
+    {
+      "name": "'s-Hertogenbosch",
+      "englishName": "",
+      "coordinates": [
+        5.303114,
+        51.688938
+      ]
+    },
+    {
+      "name": "Middelburg",
+      "englishName": "",
+      "coordinates": [
+        3.613751,
+        51.499678
+      ]
+    },
+    {
+      "name": "Simonshaven",
+      "englishName": "",
+      "coordinates": [
+        4.289648,
+        51.821921
+      ]
+    },
+    {
+      "name": "Rotterdam",
+      "englishName": "",
+      "coordinates": [
+        4.477751,
+        51.924442
+      ]
+    },
+    {
+      "name": "Schiedam",
+      "englishName": "",
+      "coordinates": [
+        4.401914,
+        51.91718
+      ]
+    },
+    {
+      "name": "Capelle aan den IJssel",
+      "englishName": "",
+      "coordinates": [
+        4.58836,
+        51.931255
+      ]
+    },
+    {
+      "name": "Den Haag",
+      "englishName": "",
+      "coordinates": [
+        4.311347,
+        52.079983
+      ]
+    },
+    {
+      "name": "Amersfoort",
+      "englishName": "",
+      "coordinates": [
+        5.389674,
+        52.15626
+      ]
+    },
+    {
+      "name": "Zwolle",
+      "englishName": "",
+      "coordinates": [
+        6.094387,
+        52.508978
+      ]
+    },
+    {
+      "name": "Deventer",
+      "englishName": "",
+      "coordinates": [
+        6.15846,
+        52.253229
+      ]
+    },
+    {
+      "name": "Nijmegen",
+      "englishName": "",
+      "coordinates": [
+        5.86376,
+        51.847488
+      ]
+    },
+    {
+      "name": "Elst",
+      "englishName": "",
+      "coordinates": [
+        5.845256,
+        51.918792
+      ]
+    },
+    {
+      "name": "Zutphen",
+      "englishName": "",
+      "coordinates": [
+        6.194772,
+        52.139694
+      ]
+    },
+    {
+      "name": "Almelo",
+      "englishName": "",
+      "coordinates": [
+        6.663616,
+        52.356356
+      ]
+    },
+    {
+      "name": "Den Burg",
+      "englishName": "",
+      "coordinates": [
+        4.796738,
+        53.055232
+      ]
+    },
+    {
+      "name": "Oudeschild",
+      "englishName": "",
+      "coordinates": [
+        4.845691,
+        53.038389
+      ]
+    },
+    {
+      "name": "'t Horntje",
+      "englishName": "",
+      "coordinates": [
+        4.785465,
+        53.005644
+      ]
+    },
+    {
+      "name": "Den Helder",
+      "englishName": "",
+      "coordinates": [
+        4.760279,
+        52.957976
+      ]
+    },
+    {
+      "name": "Schagen",
+      "englishName": "",
+      "coordinates": [
+        4.80446,
+        52.788239
+      ]
+    },
+    {
+      "name": "Noord-Scharwoude",
+      "englishName": "",
+      "coordinates": [
+        4.811112,
+        52.703125
+      ]
+    },
+    {
+      "name": "Zuid-Scharwoude",
+      "englishName": "",
+      "coordinates": [
+        4.809355,
+        52.691674
+      ]
+    },
+    {
+      "name": "Zijdewind",
+      "englishName": "",
+      "coordinates": [
+        4.838194,
+        52.743716
+      ]
+    },
+    {
+      "name": "Broek op Langedijk",
+      "englishName": "",
+      "coordinates": [
+        4.803108,
+        52.675121
+      ]
+    },
+    {
+      "name": "Heerhugowaard",
+      "englishName": "",
+      "coordinates": [
+        4.832666,
+        52.663148
+      ]
+    },
+    {
+      "name": "Alkmaar",
+      "englishName": "",
+      "coordinates": [
+        4.750379,
+        52.631259
+      ]
+    },
+    {
+      "name": "Amsterdam",
+      "englishName": "",
+      "coordinates": [
+        4.892457,
+        52.373075
+      ]
+    },
+    {
+      "name": "Almen",
+      "englishName": "",
+      "coordinates": [
+        6.301559,
+        52.157282
+      ]
+    },
+    {
+      "name": "Emmen",
+      "englishName": "",
+      "coordinates": [
+        6.893901,
+        52.788937
+      ]
+    },
+    {
+      "name": "Noord-Sleen",
+      "englishName": "",
+      "coordinates": [
+        6.797934,
+        52.793196
+      ]
+    },
+    {
+      "name": "Sleen",
+      "englishName": "",
+      "coordinates": [
+        6.803129,
+        52.772369
+      ]
+    },
+    {
+      "name": "Amerika",
+      "englishName": "",
+      "coordinates": [
+        6.365967,
+        53.09465
+      ]
+    },
+    {
+      "name": "Maassluis",
+      "englishName": "",
+      "coordinates": [
+        4.254119,
+        51.921991
+      ]
+    },
+    {
+      "name": "Rhenen",
+      "englishName": "",
+      "coordinates": [
+        5.572236,
+        51.960866
+      ]
+    },
+    {
+      "name": "Vught",
+      "englishName": "",
+      "coordinates": [
+        5.289338,
+        51.656815
+      ]
+    },
+    {
+      "name": "Wageningen",
+      "englishName": "",
+      "coordinates": [
+        5.666281,
+        51.966302
+      ]
+    },
+    {
+      "name": "Aijen",
+      "englishName": "",
+      "coordinates": [
+        6.042699,
+        51.584143
+      ]
+    },
+    {
+      "name": "Reuver",
+      "englishName": "",
+      "coordinates": [
+        6.077975,
+        51.283932
+      ]
+    },
+    {
+      "name": "Vianen",
+      "englishName": "",
+      "coordinates": [
+        5.857273,
+        51.717783
+      ]
+    },
+    {
+      "name": "Ewinkel",
+      "englishName": "",
+      "coordinates": [
+        5.858826,
+        51.734101
+      ]
+    },
+    {
+      "name": "Wanssum",
+      "englishName": "",
+      "coordinates": [
+        6.0787,
+        51.535821
+      ]
+    },
+    {
+      "name": "Groeningen",
+      "englishName": "",
+      "coordinates": [
+        5.999001,
+        51.607273
+      ]
+    },
+    {
+      "name": "Schafferden",
+      "englishName": "",
+      "coordinates": [
+        5.989787,
+        51.588481
+      ]
+    },
+    {
+      "name": "De Boer",
+      "englishName": "",
+      "coordinates": [
+        5.808797,
+        51.668983
+      ]
+    },
+    {
+      "name": "Geijsteren",
+      "englishName": "",
+      "coordinates": [
+        6.050113,
+        51.550683
+      ]
+    },
+    {
+      "name": "Arnhem",
+      "englishName": "",
+      "coordinates": [
+        5.910858,
+        51.984257
+      ]
+    },
+    {
+      "name": "Oirlo",
+      "englishName": "",
+      "coordinates": [
+        6.036361,
+        51.510947
+      ]
+    },
+    {
+      "name": "Breda",
+      "englishName": "",
+      "coordinates": [
+        4.776023,
+        51.588784
+      ]
+    },
+    {
+      "name": "Castenray",
+      "englishName": "",
+      "coordinates": [
+        6.034808,
+        51.489486
+      ]
+    },
+    {
+      "name": "Escharen",
+      "englishName": "",
+      "coordinates": [
+        5.747139,
+        51.743408
+      ]
+    },
+    {
+      "name": "Zeeland",
+      "englishName": "",
+      "coordinates": [
+        5.672908,
+        51.694642
+      ]
+    },
+    {
+      "name": "Volkel",
+      "englishName": "",
+      "coordinates": [
+        5.655705,
+        51.644077
+      ]
+    },
+    {
+      "name": "Tilburg",
+      "englishName": "",
+      "coordinates": [
+        5.08858,
+        51.556253
+      ]
+    },
+    {
+      "name": "Oostvoorne",
+      "englishName": "",
+      "coordinates": [
+        4.103894,
+        51.914272
+      ]
+    },
+    {
+      "name": "Brielle",
+      "englishName": "",
+      "coordinates": [
+        4.162629,
+        51.901663
+      ]
+    }
+  ]
+}

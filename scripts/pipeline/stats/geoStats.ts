@@ -1,10 +1,10 @@
-import type { VisitedGeoJSON, GeoPoint } from "../../types.ts";
+import type { VisitedGeoJSON, VisitedFeature } from "../../types.ts";
 
 export const getGeoStats = (
   visitedGeoJSON: VisitedGeoJSON,
 ): {
-  northernmost: GeoPoint;
-  southernmost: GeoPoint;
+  northernmost: VisitedFeature;
+  southernmost: VisitedFeature;
 } => {
   if (!visitedGeoJSON.features.length) throw new Error("No features provided");
 
@@ -23,14 +23,22 @@ export const getGeoStats = (
     },
   );
 
-  const northernmost: GeoPoint = {
-    name: north.properties?.name || "N/A",
-    coordinates: north.geometry.coordinates,
+  const northernmost: VisitedFeature = {
+    geometry: {
+      coordinates: north.geometry.coordinates,
+    },
+    properties: {
+      name: north.properties?.name || "N/A",
+    },
   };
 
-  const southernmost: GeoPoint = {
-    name: south.properties?.name || "N/A",
-    coordinates: south.geometry.coordinates,
+  const southernmost: VisitedFeature = {
+    geometry: {
+      coordinates: south.geometry.coordinates,
+    },
+    properties: {
+      name: south.properties?.name || "N/A",
+    },
   };
 
   return { northernmost, southernmost };

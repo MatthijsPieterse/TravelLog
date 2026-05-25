@@ -10,7 +10,7 @@ const ICON_RATIO = 41 / 25;
 const SHADOW_RATIO = 41 / 41;
 const iconCache: Record<number, Icon> = {};
 
-export function createIcon(size: number): Icon {
+export const createIcon = (size: number): Icon => {
   if (iconCache[size]) return iconCache[size];
 
   const iconHeight = Math.round(size * ICON_RATIO);
@@ -29,4 +29,4 @@ export function createIcon(size: number): Icon {
 
   iconCache[size] = icon;
   return icon;
-}
+};

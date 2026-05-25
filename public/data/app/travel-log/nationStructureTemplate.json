@@ -1,0 +1,81 @@
+{
+  "name": "",
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": null,
+        "affordability": null,
+        "transportRating": null,
+        "foodRating": null,
+        "returnInterest": {
+          "level": null,
+          "note": ""
+        }
+      },
+      "description": {
+        "intro": "",
+        "pros": [],
+        "cons": [],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [],
+        "personalNotes": []
+      },
+      "travelPracticalities": {
+        "visaNotes": "",
+        "currencyNotes": "",
+        "paymentMethods": [],
+        "transportTips": [],
+        "languageTips": [],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "",
+            "notes": ""
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [],
+        "foodNotes": []
+      },
+      "regionsOverview": [
+        {
+          "name": "",
+          "knownFor": [],
+          "notes": []
+        }
+      ],
+      "recommendedApps": [
+        {
+          "name": "",
+          "category": "",
+          "purpose": "",
+          "notes": ""
+        }
+      ],
+      "recommendationsFromOthers": {
+        "<list>": [
+          {
+            "name": "",
+            "notes": [],
+            "area": ""
+          }
+        ]
+      },
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "",
+      "englishName": "",
+      "coordinates": [0, 0]
+    }
+  ]
+}

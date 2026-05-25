@@ -1,0 +1,30 @@
+{
+  "name": "austria",
+  "data": [],
+  "places": [
+    {
+      "name": "Feldkirch",
+      "englishName": "",
+      "coordinates": [
+        9.598174,
+        47.237567
+      ]
+    },
+    {
+      "name": "Linz",
+      "englishName": "",
+      "coordinates": [
+        14.286198,
+        48.305909
+      ]
+    },
+    {
+      "name": "Wien",
+      "englishName": "",
+      "coordinates": [
+        16.372503,
+        48.208353
+      ]
+    }
+  ]
+}

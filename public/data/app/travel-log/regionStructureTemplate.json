@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "coverImg": "",
+  "data": [
+    {
+      "description": {
+        "intro": "",
+        "tips": [],
+        "personalNotes": []
+      },
+      "transportSystems": {
+        "commonTransportTypes": [
+          {
+            "type": "",
+            "notes": ""
+          }
+        ],
+        "majorTravelCorridors": [
+          {
+            "route": "",
+            "transportType": "",
+            "notes": ""
+          }
+        ]
+      },
+      "favourites": {
+        "countries": [
+          {
+            "name": "",
+            "knownFor": [],
+            "notes": ""
+          }
+        ],
+        "places": [
+          {
+            "name": "",
+            "country": "",
+            "knownFor": [],
+            "notes": ""
+          }
+        ]
+      },
+      "recommendedApps": [
+        {
+          "name": "",
+          "category": "",
+          "purpose": "",
+          "notes": ""
+        }
+      ],
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ]
+}

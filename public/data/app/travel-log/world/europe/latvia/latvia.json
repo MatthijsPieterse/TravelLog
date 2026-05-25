@@ -1,0 +1,14 @@
+{
+  "name": "latvia",
+  "data": [],
+  "places": [
+    {
+      "name": "Rīga",
+      "englishName": "",
+      "coordinates": [
+        24.105186,
+        56.949398
+      ]
+    }
+  ]
+}

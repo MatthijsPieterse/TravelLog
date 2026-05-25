@@ -6,20 +6,30 @@ import {
   LayersControl,
   LayerGroup,
 } from "react-leaflet";
+import type { FeatureCollection, GeoJsonObject, Point } from "geojson";
 import type { LatLngExpression } from "leaflet";
 import { useState } from "react";
-import { DynamicMarker } from "./DynamicMarker";
-import Spinner from "../../../shared/components/ui/Spinner";
+import { DynamicMarker } from "#features/map/components/DynamicMarker";
+import Spinner from "#shared/components/ui/Spinner";
 
-// hooks & utils
-import { useMapData } from "../api/useMapData";
-import { countryStyle, tileStyle } from "../utils/mapUtils";
-import { ZoomTracker } from "./ZoomTracker";
+import { useMapData } from "#features/map/api/useMapData";
+import { ZoomTracker } from "#features/map/components/ZoomTracker";
+import { nationStyle, tileStyle } from "#features/map/utils/mapUtils";
 
 interface MapProps {
   defaultCenter: LatLngExpression;
   defaultZoom: number;
 }
+
+type VisitedPlaceProperties = {
+  name?: string;
+};
+
+const isPointFeatureCollection = (
+  value: GeoJsonObject,
+): value is FeatureCollection<Point, VisitedPlaceProperties> => {
+  return value.type === "FeatureCollection";
+};
 
 const MapComponent = ({ defaultCenter, defaultZoom }: MapProps) => {
   const { data, isLoading, error } = useMapData();
@@ -34,8 +44,12 @@ const MapComponent = ({ defaultCenter, defaultZoom }: MapProps) => {
     );
   if (!data) return <Spinner />;
 
-  const { countries, visitedNames, visitedPlaces, landTiles1, landTiles05 } =
+  const { nations, visitedNames, visitedPlaces, landTiles1, landTiles05 } =
     data;
+
+  const placeFeatures = isPointFeatureCollection(visitedPlaces)
+    ? visitedPlaces.features
+    : [];
 
   return (
     <MapContainer
@@ -44,47 +58,48 @@ const MapComponent = ({ defaultCenter, defaultZoom }: MapProps) => {
       className="h-full w-full z-0"
     >
       <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-      {/* <TileLayer url="https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png" /> */}
 
       <ZoomTracker setZoom={setZoom} />
 
       <LayersControl position="topright">
-        <LayersControl.Overlay checked name="Visited Countries">
+        <LayersControl.Overlay checked name="Visited Nations">
           <LayerGroup>
-            {countries && (
-              <GeoJSON data={countries} style={countryStyle(visitedNames)} />
+            {nations && (
+              <GeoJSON data={nations} style={nationStyle(visitedNames)} />
             )}
           </LayerGroup>
         </LayersControl.Overlay>
 
         <LayersControl.Overlay checked name="Visited Places">
           <LayerGroup>
-            {(visitedPlaces as any)?.features.map(
-              (
-                place: any, // eslint-disable-line @typescript-eslint/no-explicit-any
-              ) => (
+            {placeFeatures.map((place, index) => {
+              const coordinates = place.geometry?.coordinates;
+              const name = place.properties?.name;
+
+              if (!coordinates || !name) {
+                return null;
+              }
+
+              return (
                 <DynamicMarker
-                  key={place.properties.name}
-                  position={[
-                    place.geometry.coordinates[1],
-                    place.geometry.coordinates[0],
-                  ]}
+                  key={`${name}-${index}`}
+                  position={[coordinates[1], coordinates[0]]}
                   zoom={zoom}
                 >
-                  {place.properties.name}
+                  {name}
                 </DynamicMarker>
-              ),
-            )}
+              );
+            })}
           </LayerGroup>
         </LayersControl.Overlay>
 
-        <LayersControl.Overlay name="Tile Overlay (1°)">
+        <LayersControl.Overlay name="Tile Overlay (1 deg)">
           <LayerGroup>
             {landTiles1 && <GeoJSON data={landTiles1} style={tileStyle} />}
           </LayerGroup>
         </LayersControl.Overlay>
 
-        <LayersControl.Overlay name="Tile Overlay (0.5°)">
+        <LayersControl.Overlay name="Tile Overlay (0.5 deg)">
           <LayerGroup>
             {landTiles05 && <GeoJSON data={landTiles05} style={tileStyle} />}
           </LayerGroup>

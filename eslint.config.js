@@ -19,5 +19,25 @@ export default defineConfig([
       ecmaVersion: 2020,
       globals: globals.browser,
     },
+    rules: {
+      "no-restricted-imports": [
+        "error",
+        {
+          patterns: ["../*", "!../index.css", "../../*", "../../../*", "../../../../*"],
+        },
+      ],
+    },
+  },
+  {
+    files: ["**/*.tsx"],
+    rules: {
+      "func-style": ["error", "expression", { allowArrowFunctions: true }],
+    },
+  },
+  {
+    files: ["src/features/**/utils/**/*.ts", "src/shared/lib/**/*.ts"],
+    rules: {
+      "func-style": ["error", "declaration", { allowArrowFunctions: true }],
+    },
   },
 ])

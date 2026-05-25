@@ -6,7 +6,7 @@ import type { VisitedGeoJSON } from "../types.ts";
 import type { DashboardData } from "../../src/shared/types/dashboardData.ts";
 
 interface DashboardDataParams {
-  visitedCountries: VisitedGeoJSON;
+  visitedNations: VisitedGeoJSON;
   visitedPlaces: VisitedGeoJSON;
   landTiles1: number[];
   landTiles05: number[];
@@ -15,10 +15,10 @@ interface DashboardDataParams {
 export const buildDashboardData = (
   params: DashboardDataParams,
 ): DashboardData => {
-  const { visitedCountries, visitedPlaces, landTiles1, landTiles05 } = params;
+  const { visitedNations, visitedPlaces, landTiles1, landTiles05 } = params;
 
   // Global Stats
-  const globalStats = getGlobalStats(visitedCountries, visitedPlaces);
+  const globalStats = getGlobalStats(visitedNations, visitedPlaces);
 
   // Tile Stats
   const grid1Stats = getVisitedTileStats(visitedPlaces, landTiles1, 1);
@@ -34,9 +34,9 @@ export const buildDashboardData = (
   // Compile Dashboard Stats
   return {
     globalStats: {
-      totalCountries: globalStats.totalCountries,
-      totalCities: globalStats.totalCities,
-      totalContinents: globalStats.totalContinents,
+      totalNations: globalStats.totalNations,
+      totalPlaces: globalStats.totalPlaces,
+      totalRegions: globalStats.totalRegions,
     },
     tileStats: {
       grid1: {
@@ -52,12 +52,12 @@ export const buildDashboardData = (
     },
     geoStats: {
       northernmost: {
-        name: geoStats.northernmost.name,
-        coordinates: geoStats.northernmost.coordinates,
+        name: geoStats.northernmost.properties.name,
+        coordinates: geoStats.northernmost.geometry.coordinates,
       },
       southernmost: {
-        name: geoStats.southernmost.name,
-        coordinates: geoStats.southernmost.coordinates,
+        name: geoStats.southernmost.properties.name,
+        coordinates: geoStats.southernmost.geometry.coordinates,
       },
       highestpoint: {
         name: "Lang Biang Mountain",
@@ -133,13 +133,13 @@ export const buildDashboardData = (
     },
     cultural: {
       languagesHeard: {
-        inPlaceSimple: 21, // Could be calculated based on countries/ regions info json, but for now hardcoded
-        inPlaceDetailed: 23, // Could be calculated based on countries/ regions info json, but for now hardcoded
+        inPlaceSimple: 21, // Could be calculated based on nations/ regions info json, but for now hardcoded
+        inPlaceDetailed: 23, // Could be calculated based on nations/ regions info json, but for now hardcoded
         allSimple: 36,
         allDetailed: 43,
       },
       cuisinesTried: 33,
-      currenciesUsed: 10, // Could be calculated based on countries info json, but for now hardcoded
+      currenciesUsed: 10, // Could be calculated based on nations info json, but for now hardcoded
       UNESCO: "N/A",
       timeZones: {
         visited: 4, // Could be calculated based on visited places, but for now hardcoded
@@ -153,8 +153,8 @@ export const buildDashboardData = (
     personal: {
       favouriteTravelDestinations: {
         overall: {
-          countries: ["Philippines", "Vietnam", "Andorra", "Italy", "Spain"],
-          cities: [
+          nations: ["Philippines", "Vietnam", "Andorra", "Italy", "Spain"],
+          places: [
             "Budapest",
             "Andorra la Vella",
             "Prague",
@@ -162,10 +162,10 @@ export const buildDashboardData = (
             "Valencia",
           ],
         },
-        byContinent: {
+        byRegion: {
           Europe: {
-            countries: ["Andorra", "Italy", "Spain", "Hungary", "Switzerland"],
-            cities: [
+            nations: ["Andorra", "Italy", "Spain", "Hungary", "Switzerland"],
+            places: [
               "Budapest",
               "Andorra la Vella",
               "Prague",
@@ -174,12 +174,12 @@ export const buildDashboardData = (
             ],
           },
           Asia: {
-            countries: ["Philippines", "Vietnam"],
-            cities: ["Da Lat", "Ho Chi Minh City"],
+            nations: ["Philippines", "Vietnam"],
+            places: ["Da Lat", "Ho Chi Minh City"],
           },
         },
         netherlands: {
-          cities: ["Valkenburg", "Utrecht", "Zutphen"],
+          places: ["Valkenburg", "Utrecht", "Zutphen"],
         },
       },
     },

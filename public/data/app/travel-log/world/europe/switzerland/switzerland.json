@@ -1,0 +1,30 @@
+{
+  "name": "switzerland",
+  "data": [],
+  "places": [
+    {
+      "name": "Lugano",
+      "englishName": "",
+      "coordinates": [
+        8.952027,
+        46.00501
+      ]
+    },
+    {
+      "name": "Zürich",
+      "englishName": "",
+      "coordinates": [
+        8.541034,
+        47.374455
+      ]
+    },
+    {
+      "name": "Sargans",
+      "englishName": "",
+      "coordinates": [
+        9.4402,
+        47.048264
+      ]
+    }
+  ]
+}

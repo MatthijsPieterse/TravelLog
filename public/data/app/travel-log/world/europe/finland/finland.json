@@ -1,0 +1,62 @@
+{
+  "name": "finland",
+  "data": [],
+  "places": [
+    {
+      "name": "Tampere",
+      "englishName": "",
+      "coordinates": [
+        23.760313,
+        61.498021
+      ]
+    },
+    {
+      "name": "Helsinki",
+      "englishName": "",
+      "coordinates": [
+        24.942748,
+        60.167488
+      ]
+    },
+    {
+      "name": "Hämeenlinna",
+      "englishName": "",
+      "coordinates": [
+        24.466541,
+        60.994858
+      ]
+    },
+    {
+      "name": "Ivalo",
+      "englishName": "",
+      "coordinates": [
+        27.534811,
+        68.658818
+      ]
+    },
+    {
+      "name": "Inari",
+      "englishName": "",
+      "coordinates": [
+        27.026076,
+        68.906245
+      ]
+    },
+    {
+      "name": "Rovaniemi",
+      "englishName": "",
+      "coordinates": [
+        25.731221,
+        66.502566
+      ]
+    },
+    {
+      "name": "Turku",
+      "englishName": "",
+      "coordinates": [
+        22.267052,
+        60.451754
+      ]
+    }
+  ]
+}

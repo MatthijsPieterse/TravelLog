@@ -20,6 +20,14 @@ Welcome to my personal travel log! This is where I keep track of all the countri
 - TypeScript
 - Tailwind CSS
 
+## Sources and Tools
+Besides my own writing and pictures, these are some of the tools and sources I used to create this travel log and dashboard:
+- [https://objectivelists.com/regions-of-the-world/](Objective Lists)
+- [https://www.naturalearthdata.com/](Natural Earth)
+- [https://www.geonames.org/](GeoNames)
+- [https://mapshaper.org/](Map Shaper)
+- [https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/base-topography/#november](Blue Marble (November) Image)
+
 ## License
 This project is licensed under the [PolyForm Noncommercial 1.0.0 License](LICENSE).
 Free for personal use; commercial use requires permission.

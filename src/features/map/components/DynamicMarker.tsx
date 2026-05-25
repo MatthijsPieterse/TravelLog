@@ -1,7 +1,7 @@
 import { type ReactNode } from "react";
 import { Marker, Popup } from "react-leaflet";
 import type { LatLngExpression } from "leaflet";
-import { createIcon } from "./CreateIcon";
+import { createIcon } from "#features/map/components/CreateIcon";
 
 interface Props {
   position: LatLngExpression;

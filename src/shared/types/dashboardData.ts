@@ -1,8 +1,8 @@
 export interface DashboardData {
   globalStats: {
-    totalCountries: number;
-    totalCities: number;
-    totalContinents: number;
+    totalNations: number;
+    totalPlaces: number;
+    totalRegions: number;
   };
   tileStats: {
     grid1: { visited: number; total: number; percentage: number };
@@ -53,9 +53,9 @@ export interface DashboardData {
   };
   personal: {
     favouriteTravelDestinations: {
-      overall: { countries: string[]; cities: string[] };
-      byContinent: Record<string, { countries: string[]; cities: string[] }>;
-      netherlands: { cities: string[] };
+      overall: { nations: string[]; places: string[] };
+      byRegion: Record<string, { nations: string[]; places: string[] }>;
+      netherlands: { places: string[] };
     };
   };
 }

@@ -6,6 +6,12 @@
 
 @source inline("{bg,text,border}-{red,blue,green,yellow,emerald,lime,cyan,sky,orange,amber,indigo,violet,rose,teal,slate,purple,zinc,neutral,stone,taupe,mauve,mist,gray,olive}-{50,{100..900..100},950}");
 
+@utility bg-mainPage {
+  background:
+    radial-gradient(circle at top, rgba(251,191,36,0.10), transparent 28%),
+    linear-gradient(to bottom, #faf7f2, #f5f1ea);
+}
+
 :root {
   /* --color-primary: #0b4d3b,
   --color-primaryDark: #053127, */

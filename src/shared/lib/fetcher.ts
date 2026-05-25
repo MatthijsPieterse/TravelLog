@@ -8,10 +8,12 @@ export async function fetcher<T = unknown>(url: string): Promise<T> {
     throw new Error(`HTTP error! status: ${response.status}`);
   }
 
-  return response.json();
+  return response.json() as Promise<T>;
 }
 
 /**
  * Get the base URL for data fetching
  */
-export const getBaseUrl = () => import.meta.env.BASE_URL ?? "/";
+export function getBaseUrl() {
+  return import.meta.env.BASE_URL ?? "/";
+}

@@ -1,10 +1,10 @@
 import { useEffect, useState, useMemo } from "react";
-import { cities } from "../data/cities";
-import { getTimeInTZ, getUTCOffset } from "../utils/timeUtils";
-import { describeArc } from "../utils/svgHelpers";
-import ClockHands from "./ClockHands";
+import ClockHands from "#features/clock/components/ClockHands";
+import { cities } from "#features/clock/data/cities";
+import { describeArc } from "#features/clock/utils/svgHelpers";
+import { getTimeInTZ, getUTCOffset } from "#features/clock/utils/timeUtils";
 
-export default function WorldClock() {
+const WorldClock = () => {
   const [time, setTime] = useState(new Date());
   const localTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
 
@@ -117,4 +117,6 @@ export default function WorldClock() {
       </svg>
     </div>
   );
-}
+};
+
+export default WorldClock;

@@ -1,0 +1,22 @@
+{
+  "name": "liechtenstein",
+  "data": [],
+  "places": [
+    {
+      "name": "Vaduz",
+      "englishName": "",
+      "coordinates": [
+        9.522796,
+        47.139287
+      ]
+    },
+    {
+      "name": "Schaan",
+      "englishName": "",
+      "coordinates": [
+        9.510313,
+        47.166339
+      ]
+    }
+  ]
+}

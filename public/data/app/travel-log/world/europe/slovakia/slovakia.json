@@ -1,0 +1,22 @@
+{
+  "name": "slovakia",
+  "data": [],
+  "places": [
+    {
+      "name": "Bratislava",
+      "englishName": "",
+      "coordinates": [
+        17.109306,
+        48.1517
+      ]
+    },
+    {
+      "name": "Staré Mesto",
+      "englishName": "",
+      "coordinates": [
+        17.112329,
+        48.140589
+      ]
+    }
+  ]
+}

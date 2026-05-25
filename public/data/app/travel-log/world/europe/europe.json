@@ -1,0 +1,116 @@
+{
+  "name": "europe",
+  "coverImg": "1_20240216_174529.jpg",
+  "data": [
+    {
+      "description": {
+        "intro": "Europe offers a lot of history and diversity within a relatively small area, making it ideal for many different kinds of trips.",
+        "tips": [
+          "Take your time walking around cities. They are usually very walkable, and you can discover a lot of hidden gems that you would miss if you only stuck to the main tourist attractions."
+        ],
+        "personalNotes": [
+          "Because Europe is so dense, and because the Schengen Area allows you to cross many borders easily, it is amazing to travel around. Just make sure you have enough money.",
+          "The English level is generally very good, especially in the western and northern part of Europe, which makes it easy to get around and communicate with locals."
+        ]
+      },
+      "transportSystems": {
+        "commonTransportTypes": [
+          {
+            "type": "Train",
+            "notes": [
+              "Most of Europe has an extensive train network, making it easy to travel between cities and countries.",
+              "Between major hubs, you can usually take direct high-speed trains, and regional trains are also widely available for shorter distances, especially in the western part of Europe.",
+              "Long-distance train travel is usually more expensive than budget airlines, but it can sometimes be more convenient and relaxing.",
+              "You can get a Eurail or Interrail pass for flexible and cost-effective train travel across multiple countries."
+            ]
+          },
+          {
+            "type": "Bus",
+            "notes": [
+              "Bus travel is often the cheapest way to get around.",
+              "There are many companies that offer long-distance bus routes across Europe for very affordable prices."
+            ]
+          },
+          {
+            "type": "Budget Airlines",
+            "notes": [
+              "Budget airlines like Ryanair, EasyJet, and Wizz Air offer very cheap flights between many European cities.",
+              "Be aware of additional fees for baggage and seat selection when booking budget airline tickets."
+            ]
+          },
+          {
+            "type": "Car",
+            "notes": [
+              "A car can be a great way to explore more rural areas and smaller towns that are less accessible by public transport.",
+              "In some parts of Europe, driving can get pretty expensive because of fuel prices and toll fees."
+            ]
+          },
+          {
+            "type": "Ferry",
+            "notes": [
+              "Ferries are widely available in the north and south of Europe. They can be used to travel between countries or islands and can be quite cheap depending on the route and company.",
+              "Some ferry companies allow you to use a Eurail or Interrail pass for discounted or free travel on certain routes."
+            ]
+          }
+        ],
+        "majorTravelCorridors": [
+          {
+            "route": "",
+            "transportType": "",
+            "notes": ""
+          }
+        ]
+      },
+      "favourites": {
+        "nations": [
+          "Andorra", 
+          "Italy", 
+          "Spain", 
+          "Hungary", 
+          "Switzerland"
+        ],
+        "places": [
+          {
+            "name": "Budapest",
+            "country": "Hungary"
+          },
+          {
+            "name": "Andorra la Vella",
+            "country": "Andorra"
+          },
+          {
+            "name": "Prague",
+            "country": "Czech Republic"
+          },
+          {
+            "name": "Vilnius",
+            "country": "Lithuania"
+          },
+          {
+            "name": "Valencia",
+            "country": "Spain"
+          }
+        ]
+      },
+      "recommendedApps": [
+        {
+          "name": "Rail Planner",
+          "category": "Transport",
+          "purpose": "Plan Eurail/ Interrail train routes across Europe.",
+          "notes": "Useful for checking routes, schedules, and pass-friendly train options."
+        },
+        {
+          "name": "Trainline",
+          "category": "Transport",
+          "purpose": "Search and book train tickets across multiple European countries.",
+          "notes": "Helpful for comparing routes and prices, especially for individual train tickets."
+        }
+      ],
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": "03-05-2026"
+      }
+    }
+  ]
+}

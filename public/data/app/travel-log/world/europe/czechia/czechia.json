@@ -1,0 +1,30 @@
+{
+  "name": "czechia",
+  "data": [],
+  "places": [
+    {
+      "name": "Brno",
+      "englishName": "",
+      "coordinates": [
+        16.611338,
+        49.192244
+      ]
+    },
+    {
+      "name": "Praha",
+      "englishName": "",
+      "coordinates": [
+        14.421252,
+        50.087466
+      ]
+    },
+    {
+      "name": "Plzeň",
+      "englishName": "",
+      "coordinates": [
+        13.377524,
+        49.747741
+      ]
+    }
+  ]
+}

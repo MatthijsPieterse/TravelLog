@@ -1,0 +1,86 @@
+{
+  "name": "france",
+  "data": [],
+  "places": [
+    {
+      "name": "Nancy",
+      "englishName": "",
+      "coordinates": [
+        6.183394,
+        48.693727
+      ]
+    },
+    {
+      "name": "Bordeaux",
+      "englishName": "",
+      "coordinates": [
+        -0.580037,
+        44.841226
+      ]
+    },
+    {
+      "name": "Cenon",
+      "englishName": "",
+      "coordinates": [
+        -0.523987,
+        44.855288
+      ]
+    },
+    {
+      "name": "Floirac",
+      "englishName": "",
+      "coordinates": [
+        -0.520822,
+        44.832701
+      ]
+    },
+    {
+      "name": "Paris",
+      "englishName": "",
+      "coordinates": [
+        2.348392,
+        48.853496
+      ]
+    },
+    {
+      "name": "Agen",
+      "englishName": "",
+      "coordinates": [
+        0.617612,
+        44.201583
+      ]
+    },
+    {
+      "name": "Toulouse",
+      "englishName": "",
+      "coordinates": [
+        1.444252,
+        43.604468
+      ]
+    },
+    {
+      "name": "Nîmes",
+      "englishName": "",
+      "coordinates": [
+        4.360069,
+        43.837424
+      ]
+    },
+    {
+      "name": "Marseille",
+      "englishName": "",
+      "coordinates": [
+        5.369953,
+        43.296175
+      ]
+    },
+    {
+      "name": "Nice",
+      "englishName": "",
+      "coordinates": [
+        7.268391,
+        43.700936
+      ]
+    }
+  ]
+}

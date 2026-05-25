@@ -1,0 +1,189 @@
+{
+  "name": "philippines",
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★★★",
+        "affordability": "★★★★★",
+        "transportRating": "★★☆☆☆",
+        "foodRating": "★★★⯪☆",
+        "returnInterest": {
+          "level": "★★★★★",
+          "note": "Definitely wants to come back as soon as possible."
+        }
+      },
+      "description": {
+        "intro": "The Philippines stood out for its amazing food, beautiful seas, nature, and relaxing atmosphere, especially outside the major cities in the province.",
+        "pros": [
+          "Beautiful beaches and seas",
+          "Great nature and island scenery",
+          "Cheap overall costs"
+        ],
+        "cons": [
+        ],
+        "tips": [
+          "Visit the province outside the big cities for the best beaches, scenery, and atmosphere."
+        ],
+        "thingsToKnow": [
+          "Smaller islands can experience temporary power outages during the day."
+        ],
+        "culturalNotes": [
+          "Indoor spaces are often kept very cool with strong ventilation and cooling."
+        ],
+        "personalNotes": [
+          "Loved trying pork lechon, adobo, and pork sisig.",
+          "Enjoyed boat rides and relaxing by the sea while looking at distant islands.",
+          "Personally really enjoyed the atmosphere in the Philippines.",
+          "Thought the experience felt absolutely amazing."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "Did not need a visa for entry, but needed to complete an Electronic Travel Declaration within 72 hours before the flight using https://etravel.gov.ph/. After arrival and scanning the declaration, I was allowed to stay up to 30 days visa-free.",
+        "currencyNotes": "The local currency is the Philippine Peso (PHP). Cash is the primary payment method; especially in the province, but cards are commonly accepted in cities.",
+        "paymentMethods": [
+          "Cash",
+          "Card"
+        ],
+        "transportTips": [
+          "Taxis near locations such as: airports, big malls, and boat ports usually charge higher prices; especially for foreigners",
+          "Ferries may depart on time but often arrive later than estimated.",
+          "Bangka (bangca) boats are commonly used by locals for island transport.",
+          "Due to heavy traffic in large cities, cars and taxis can be quite slow."
+        ],
+        "languageTips": [
+          "The two official languages are Tagalog and English.",
+          "People usually speak perfect/very good English.",
+          "Some people in the province may not be able to speak English.",
+          "The Philippines has many languages and dialects.",
+          "Tagalog is mainly spoken in the north near Manila.",
+          "Bisaya (Cebuano) is commonly spoken in the central Philippines near Cebu.",
+          "Bisaya contains many Spanish-influenced words."
+        ],
+        "packingNotes": [
+        ],
+        "seasonalNotes": [
+          {
+            "season": "Rainy/Wet Season (June to October)",
+            "notes": "Very hot and sunny weather, but very bearable near coastal island areas."
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Pork lechon",
+          "Adobo",
+          "Pork sisig"
+        ],
+        "foodNotes": [
+          "Food was amazing."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Cebu",
+          "knownFor": [
+            "Pork lechon",
+            "White sand beaches",
+            "Diving spots",
+            "Oldest city in the Philippines"
+          ],
+          "notes": []
+        },
+        {
+          "name": "Leyte",
+          "knownFor": [
+            "Mountains",
+            "Beaches",
+            "Lake Danao"
+          ],
+          "notes": []
+        }
+      ],
+      "recommendedApps": [
+      ],
+      "recommendationsFromOthers": {
+        "<list>": []
+      },
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": "Cebu City",
+      "englishName": "",
+      "coordinates": [
+        123.90192,
+        10.293564
+      ]
+    },
+    {
+      "name": "Ormoc",
+      "englishName": "",
+      "coordinates": [
+        124.60908,
+        11.005292
+      ]
+    },
+    {
+      "name": "Baybay",
+      "englishName": "",
+      "coordinates": [
+        124.79775,
+        10.677803
+      ]
+    },
+    {
+      "name": "Puertobello",
+      "englishName": "",
+      "coordinates": [
+        124.49049,
+        10.680663
+      ]
+    },
+    {
+      "name": "Poro",
+      "englishName": "",
+      "coordinates": [
+        124.40734,
+        10.628766
+      ]
+    },
+    {
+      "name": "Cabonga-an",
+      "englishName": "",
+      "coordinates": [
+        124.34241,
+        10.688578
+      ]
+    },
+    {
+      "name": "Tulang Diot",
+      "englishName": "",
+      "coordinates": [
+        124.32474,
+        10.715539
+      ]
+    },
+    {
+      "name": "Mandaue",
+      "englishName": "",
+      "coordinates": [
+        123.94273,
+        10.326906
+      ]
+    },
+    {
+      "name": "Liloan",
+      "englishName": "",
+      "coordinates": [
+        123.99876,
+        10.399849
+      ]
+    }
+  ]
+}

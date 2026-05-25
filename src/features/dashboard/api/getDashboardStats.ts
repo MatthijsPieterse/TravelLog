@@ -1,6 +1,7 @@
 import type { DashboardData } from "#shared/types/dashboardData";
-import { fetcher, getBaseUrl } from "#shared/lib/fetcher";
+import { DATA_PATHS } from "#shared/constants/dataPaths";
+import { fetcher } from "#shared/lib/fetcher";
 
 export async function getDashboardStats(): Promise<DashboardData> {
-  return fetcher<DashboardData>(`${getBaseUrl()}data/app/dashboardStats.json`);
+  return fetcher<DashboardData>(DATA_PATHS.dashboardStats());
 }

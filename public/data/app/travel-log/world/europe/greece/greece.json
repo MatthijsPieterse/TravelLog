@@ -1,0 +1,30 @@
+{
+  "name": "greece",
+  "data": [],
+  "places": [
+    {
+      "name": "Λίνδος",
+      "englishName": "",
+      "coordinates": [
+        28.085479,
+        36.091557
+      ]
+    },
+    {
+      "name": "Λάρδος",
+      "englishName": "",
+      "coordinates": [
+        28.016549,
+        36.093915
+      ]
+    },
+    {
+      "name": "Παραδείσι",
+      "englishName": "",
+      "coordinates": [
+        28.083741,
+        36.39976
+      ]
+    }
+  ]
+}

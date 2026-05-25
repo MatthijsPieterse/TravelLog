@@ -1,0 +1,30 @@
+{
+  "name": "belgium",
+  "data": [],
+  "places": [
+    {
+      "name": "Gent",
+      "englishName": "",
+      "coordinates": [
+        3.725031,
+        51.053823
+      ]
+    },
+    {
+      "name": "Zaventem",
+      "englishName": "",
+      "coordinates": [
+        4.473001,
+        50.880621
+      ]
+    },
+    {
+      "name": "Rijkevorsel",
+      "englishName": "",
+      "coordinates": [
+        4.758514,
+        51.350371
+      ]
+    }
+  ]
+}

@@ -4,11 +4,11 @@ interface ClockHandsProps {
   secondDeg: number;
 }
 
-export default function ClockHands({
+const ClockHands = ({
   hourDeg,
   minuteDeg,
   secondDeg,
-}: ClockHandsProps) {
+}: ClockHandsProps) => {
   return (
     <>
       <line
@@ -41,4 +41,6 @@ export default function ClockHands({
       <circle cx="150" cy="150" r="4" fill="black" />
     </>
   );
-}
+};
+
+export default ClockHands;

@@ -40,22 +40,22 @@ export const mainStatsMapping: StatCard[] = [
     color: "emerald",
     darkTheme: true,
     icon: Flag,
-    subtext: "Countries Visited",
-    getValue: (data) => data.globalStats.totalCountries,
+    subtext: "Nations Visited",
+    getValue: (data) => data.globalStats.totalNations,
   },
   {
     color: "emerald",
     darkTheme: true,
     icon: Building2,
-    subtext: "Cities Visited",
-    getValue: (data) => data.globalStats.totalCities,
+    subtext: "Places Visited",
+    getValue: (data) => data.globalStats.totalPlaces,
   },
   {
     color: "emerald",
     darkTheme: true,
     icon: Map,
-    subtext: "Continents Visited",
-    getValue: (data) => data.globalStats.totalContinents,
+    subtext: "Regions Visited",
+    getValue: (data) => data.globalStats.totalRegions,
   },
   {
     color: "emerald",
@@ -220,16 +220,16 @@ export const tripRecordsMapping: StatCard[] = [
 export const personalFavoritesMapping: StatCard[] = [
   {
     color: "rose",
-    title: "Favorite Countries",
+    title: "Favorite Nations",
     icon: Heart,
     getValue: (data) =>
-      data.personal.favouriteTravelDestinations.overall.countries.join(", "),
+      data.personal.favouriteTravelDestinations.overall.nations.join(", "),
   },
   {
     color: "yellow",
-    title: "Favorite Cities",
+    title: "Favorite Places",
     icon: Building2,
     getValue: (data) =>
-      data.personal.favouriteTravelDestinations.overall.cities.join(", "),
+      data.personal.favouriteTravelDestinations.overall.places.join(", "),
   },
 ];

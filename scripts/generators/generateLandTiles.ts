@@ -1,26 +1,26 @@
 import fs from "fs";
 import * as turf from "@turf/turf";
 import type { Feature, Polygon } from "geojson";
-import type { Point } from "../types.ts";
+import type { Coordinates } from "../types.ts";
 import { encodeTile } from "../utils/tileUtils.ts";
 import {
   writeJSON,
   joinPath,
   DIR_TILES,
-  COUNTRIESPOLYGONS_FILE,
+  NATIONSPOLYGONS_FILE,
 } from "../utils/fileUtils.ts";
 
 const GRID_SIZES = [1, 0.5];
 
-const getTileXY = (coord: Point, gridSize: number) => {
+const getTileXY = (coord: Coordinates, gridSize: number) => {
   const [lon, lat] = coord;
   const x = Math.floor((lon + 180) / gridSize);
   const y = Math.floor((lat + 90) / gridSize);
   return [x, y];
 };
 
-// Load countries
-const countries = JSON.parse(fs.readFileSync(COUNTRIESPOLYGONS_FILE, "utf8"));
+// Load nations
+const nations = JSON.parse(fs.readFileSync(NATIONSPOLYGONS_FILE, "utf8"));
 
 // Generate land tiles for a grid size
 const generateLandTiles = (gridSize: number) => {
@@ -29,9 +29,9 @@ const generateLandTiles = (gridSize: number) => {
 
   const landTiles = new Set<number>();
 
-  countries.features.forEach((feature: any, i: number) => {
+  nations.features.forEach((feature: any, i: number) => {
     if (i % 10 === 0)
-      console.log(`Processing feature ${i + 1}/${countries.features.length}`);
+      console.log(`Processing feature ${i + 1}/${nations.features.length}`);
 
     if (!["Polygon", "MultiPolygon"].includes(feature.geometry.type)) return;
 

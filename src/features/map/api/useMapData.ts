@@ -1,45 +1,48 @@
 // src/features/map/api/useMapData.ts
 import { useQuery } from "@tanstack/react-query";
-import type { GeoJsonObject } from "geojson";
-import { fetcher, getBaseUrl } from "#shared/lib/fetcher";
-import { countryNameMap } from "../../../shared/utils/countryNameMap";
+import type { FeatureCollection, GeoJsonObject, GeoJsonProperties } from "geojson";
+import { DATA_PATHS } from "#shared/constants/dataPaths";
+import { QUERY_KEYS } from "#shared/constants/queryKeys";
+import { fetcher } from "#shared/lib/fetcher";
+import { nationNameMap } from "#features/map/mapping/nationNameMap";
 
 interface MapData {
-  countries: GeoJsonObject;
+  nations: GeoJsonObject;
   visitedNames: string[];
   visitedPlaces: GeoJsonObject;
   landTiles1: GeoJsonObject;
   landTiles05: GeoJsonObject;
 }
 
-const fetchMapData = async (): Promise<MapData> => {
-  const base = getBaseUrl();
+type NamedFeatureCollection = FeatureCollection<GeoJSON.Geometry, GeoJsonProperties & { name?: string }>;
 
+const fetchMapData = async (): Promise<MapData> => {
   const [
-    countriesData,
-    visitedCountriesData,
+    nationsData,
+    visitedNationsData,
     visitedPlacesData,
     landTiles1Data,
     landTiles05Data,
   ] = await Promise.all([
-    fetcher<GeoJsonObject>(`${base}data/source/countriesPolygons.geojson`),
-    fetcher<GeoJsonObject>(`${base}data/source/visitedCountries.geojson`),
-    fetcher<GeoJsonObject>(`${base}data/source/visitedPlaces.geojson`),
-    fetcher<GeoJsonObject>(`${base}data/app/overlays/tileOverlay_1.geojson`),
-    fetcher<GeoJsonObject>(`${base}data/app/overlays/tileOverlay_0.5.geojson`),
+    fetcher<GeoJsonObject>(DATA_PATHS.nationsPolygons()),
+    fetcher<GeoJsonObject>(DATA_PATHS.visitedNations()),
+    fetcher<GeoJsonObject>(DATA_PATHS.visitedPlaces()),
+    fetcher<GeoJsonObject>(DATA_PATHS.tileOverlay1()),
+    fetcher<GeoJsonObject>(DATA_PATHS.tileOverlay05()),
   ]);
 
-  // Extract visited country names in local mapping
-  const visitedNames =
-    (visitedCountriesData as any)?.features // eslint-disable-line @typescript-eslint/no-explicit-any
-      ?.map((f: any) => f?.properties?.name) // eslint-disable-line @typescript-eslint/no-explicit-any
-      .filter((name: string | undefined): name is string => Boolean(name))
-      .map(
-        (englishName: string) => countryNameMap[englishName] ?? englishName,
-      ) || [];
+  const visitedFeatures =
+    visitedNationsData.type === "FeatureCollection"
+      ? (visitedNationsData as NamedFeatureCollection).features
+      : [];
+
+  const visitedNames = visitedFeatures
+    .map((f) => f?.properties?.name)
+    .filter((name): name is string => Boolean(name))
+    .map((englishName) => nationNameMap[englishName] ?? englishName);
 
   return {
-    countries: countriesData,
+    nations: nationsData,
     visitedNames,
     visitedPlaces: visitedPlacesData,
     landTiles1: landTiles1Data,
@@ -49,9 +52,9 @@ const fetchMapData = async (): Promise<MapData> => {
 
 export const useMapData = () => {
   return useQuery<MapData>({
-    queryKey: ["mapData"],
+    queryKey: QUERY_KEYS.mapData,
     queryFn: fetchMapData,
-    staleTime: 1000 * 60 * 5, // cache for 5 min
+    staleTime: 1000 * 60 * 5,
     refetchOnWindowFocus: false,
   });
 };

@@ -1,0 +1,22 @@
+{
+  "name": "hungary",
+  "data": [],
+  "places": [
+    {
+      "name": "Budapest",
+      "englishName": "",
+      "coordinates": [
+        19.040232,
+        47.497884
+      ]
+    },
+    {
+      "name": "Etyek",
+      "englishName": "",
+      "coordinates": [
+        18.750466,
+        47.444881
+      ]
+    }
+  ]
+}

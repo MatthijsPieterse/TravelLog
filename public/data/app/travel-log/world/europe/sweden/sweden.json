@@ -1,0 +1,14 @@
+{
+  "name": "sweden",
+  "data": [],
+  "places": [
+    {
+      "name": "Stockholm",
+      "englishName": "",
+      "coordinates": [
+        18.071092,
+        59.325117
+      ]
+    }
+  ]
+}

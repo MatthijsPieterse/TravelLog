@@ -1,0 +1,55 @@
+{
+  "name": "World",
+  "data": [
+    {
+      "intro": "",
+      "recommendedApps": [
+        {
+          "name": "",
+          "category": "",
+          "purpose": "",
+          "notes": "",
+          "links": [
+            {
+              "url": "",
+              "title": "AppStore"
+            },
+            {
+              "url": "",
+              "title": "PlayStore"
+            },
+            {
+              "url": "",
+              "title": "FDroid"
+            },
+            {
+              "url": "",
+              "title": "DroidIfy"
+            }
+          ]
+        }
+      ],
+      "wishlist": [
+        {
+          "type": "country | city | region | route | experience",
+          "name": "",
+          "priority": "",
+          "notes": ""
+        }
+      ],
+      "favoriteHighlights": [
+        {
+          "type": "country | city | region | place | experience",
+          "name": "",
+          "location": "",
+          "notes": ""
+        }
+      ],
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ]
+}

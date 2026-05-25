@@ -1,0 +1,1167 @@
+{
+  "regions": [
+    {
+      "name": "north america",
+      "nations": [
+        {
+          "name": "united states of america",
+          "territories": [
+            {
+              "name": "american samoa",
+              "type": "unincorporated territory"
+            },
+            {
+              "name": "guam",
+              "type": "unincorporated territory"
+            },
+            {
+              "name": "northern mariana islands",
+              "type": "unincorporated territory"
+            },
+            {
+              "name": "puerto rico",
+              "type": "unincorporated territory"
+            },
+            {
+              "name": "united states virgin islands",
+              "type": "unincorporated territory"
+            },
+            {
+              "name": "baker island",
+              "type": "minor outlying island"
+            },
+            {
+              "name": "howland island",
+              "type": "minor outlying island"
+            },
+            {
+              "name": "jarvis island",
+              "type": "minor outlying island"
+            },
+            {
+              "name": "johnston atoll",
+              "type": "minor outlying island"
+            },
+            {
+              "name": "kingman reef",
+              "type": "minor outlying island"
+            },
+            {
+              "name": "midway atoll",
+              "type": "minor outlying island"
+            },
+            {
+              "name": "navassa island",
+              "type": "minor outlying island"
+            },
+            {
+              "name": "palmyra atoll",
+              "type": "incorporated territory"
+            },
+            {
+              "name": "wake island",
+              "type": "minor outlying island"
+            }
+          ]
+        },
+        {
+          "name": "canada",
+          "territories": []
+        }
+      ]
+    },
+    {
+      "name": "central america",
+      "nations": [
+        {
+          "name": "mexico",
+          "territories": []
+        },
+        {
+          "name": "belize",
+          "territories": []
+        },
+        {
+          "name": "panama",
+          "territories": []
+        },
+        {
+          "name": "costa rica",
+          "territories": []
+        },
+        {
+          "name": "nicaragua",
+          "territories": []
+        },
+        {
+          "name": "guatemala",
+          "territories": []
+        },
+        {
+          "name": "el salvador",
+          "territories": []
+        },
+        {
+          "name": "honduras",
+          "territories": []
+        }
+      ]
+    },
+    {
+      "name": "caribbean",
+      "nations": [
+        {
+          "name": "cuba",
+          "territories": []
+        },
+        {
+          "name": "haiti",
+          "territories": []
+        },
+        {
+          "name": "dominican republic",
+          "territories": []
+        },
+        {
+          "name": "jamaica",
+          "territories": []
+        },
+        {
+          "name": "trinidad and tobago",
+          "territories": []
+        },
+        {
+          "name": "grenada",
+          "territories": []
+        },
+        {
+          "name": "saint vincent and the grenadines",
+          "territories": []
+        },
+        {
+          "name": "barbados",
+          "territories": []
+        },
+        {
+          "name": "saint lucia",
+          "territories": []
+        },
+        {
+          "name": "dominica",
+          "territories": []
+        },
+        {
+          "name": "antigua and barbuda",
+          "territories": []
+        },
+        {
+          "name": "saint kitts and nevis",
+          "territories": []
+        },
+        {
+          "name": "the bahamas",
+          "territories": []
+        }
+      ]
+    },
+    {
+      "name": "south america",
+      "nations": [
+        {
+          "name": "argentina",
+          "territories": []
+        },
+        {
+          "name": "bolivia",
+          "territories": []
+        },
+        {
+          "name": "brazil",
+          "territories": []
+        },
+        {
+          "name": "chile",
+          "territories": []
+        },
+        {
+          "name": "colombia",
+          "territories": []
+        },
+        {
+          "name": "ecuador",
+          "territories": []
+        },
+        {
+          "name": "guyana",
+          "territories": []
+        },
+        {
+          "name": "paraguay",
+          "territories": []
+        },
+        {
+          "name": "peru",
+          "territories": []
+        },
+        {
+          "name": "suriname",
+          "territories": []
+        },
+        {
+          "name": "uruguay",
+          "territories": []
+        },
+        {
+          "name": "venezuela",
+          "territories": []
+        }
+      ]
+    },
+    {
+      "name": "europe",
+      "nations": [
+        {
+          "name": "france",
+          "territories": [
+            {
+              "name": "guadeloupe",
+              "type": "overseas department"
+            },
+            {
+              "name": "martinique",
+              "type": "overseas department"
+            },
+            {
+              "name": "french guiana",
+              "type": "overseas department"
+            },
+            {
+              "name": "mayotte",
+              "type": "overseas department"
+            },
+            {
+              "name": "reunion",
+              "type": "overseas department"
+            },
+            {
+              "name": "saint pierre and miquelon",
+              "type": "overseas collectivity"
+            },
+            {
+              "name": "saint barthelemy",
+              "type": "overseas collectivity"
+            },
+            {
+              "name": "saint martin",
+              "type": "overseas collectivity"
+            },
+            {
+              "name": "french polynesia",
+              "type": "overseas collectivity"
+            },
+            {
+              "name": "new caledonia",
+              "type": "sui generis collectivity"
+            },
+            {
+              "name": "wallis and futuna",
+              "type": "overseas collectivity"
+            },
+            {
+              "name": "clipperton island",
+              "type": "dependent territory"
+            },
+            {
+              "name": "french southern and antarctic lands",
+              "type": "overseas territory"
+            }
+          ]
+        },
+        {
+          "name": "netherlands",
+          "territories": [
+            {
+              "name": "aruba",
+              "type": "constituent country"
+            },
+            {
+              "name": "curacao",
+              "type": "constituent country"
+            },
+            {
+              "name": "sint maarten",
+              "type": "constituent country"
+            },
+            {
+              "name": "bonaire",
+              "type": "special municipality"
+            },
+            {
+              "name": "sint eustatius",
+              "type": "special municipality"
+            },
+            {
+              "name": "saba",
+              "type": "special municipality"
+            }
+          ]
+        },
+        {
+          "name": "northern cyprus",
+          "territories": []
+        },
+        {
+          "name": "denmark",
+          "territories": [
+            {
+              "name": "greenland",
+              "type": "autonomous territory"
+            },
+            {
+              "name": "faroe islands",
+              "type": "autonomous territory"
+            }
+          ]
+        },
+        {
+          "name": "finland",
+          "territories": [
+            {
+              "name": "aland",
+              "type": "autonomous region"
+            }
+          ]
+        },
+        {
+          "name": "united kingdom",
+          "territories": [
+            {
+              "name": "anguilla",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "bermuda",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "british indian ocean territory",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "british virgin islands",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "cayman islands",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "falkland islands",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "gibraltar",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "guernsey",
+              "type": "crown dependency"
+            },
+            {
+              "name": "isle of man",
+              "type": "crown dependency"
+            },
+            {
+              "name": "jersey",
+              "type": "crown dependency"
+            },
+            {
+              "name": "montserrat",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "pitcairn islands",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "saint helena, ascension and tristan da cunha",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "south georgia and the south sandwich islands",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "turks and caicos islands",
+              "type": "british overseas territory"
+            },
+            {
+              "name": "british antarctic territory",
+              "type": "british overseas territory"
+            }
+          ]
+        },
+        {
+          "name": "norway",
+          "territories": [
+            {
+              "name": "svalbard",
+              "type": "dependent territory"
+            },
+            {
+              "name": "jan mayen",
+              "type": "dependent territory"
+            },
+            {
+              "name": "bouvet island",
+              "type": "dependency"
+            },
+            {
+              "name": "peter i island",
+              "type": "dependency"
+            },
+            {
+              "name": "queen maud land",
+              "type": "dependency"
+            }
+          ]
+        },
+        {
+          "name": "portugal",
+          "territories": [
+            {
+              "name": "azores",
+              "type": "autonomous region"
+            },
+            {
+              "name": "madeira",
+              "type": "autonomous region"
+            }
+          ]
+        },
+        {
+          "name": "spain",
+          "territories": [
+            {
+              "name": "canary islands",
+              "type": "autonomous community"
+            }
+          ]
+        },
+        {
+          "name": "andorra",
+          "territories": []
+        },
+        {
+          "name": "austria",
+          "territories": []
+        },
+        {
+          "name": "belarus",
+          "territories": []
+        },
+        {
+          "name": "belgium",
+          "territories": []
+        },
+        {
+          "name": "bosnia and herzegovina",
+          "territories": []
+        },
+        {
+          "name": "bulgaria",
+          "territories": []
+        },
+        {
+          "name": "croatia",
+          "territories": []
+        },
+        {
+          "name": "czechia",
+          "territories": []
+        },
+        {
+          "name": "estonia",
+          "territories": []
+        },
+        {
+          "name": "germany",
+          "territories": []
+        },
+        {
+          "name": "greece",
+          "territories": []
+        },
+        {
+          "name": "hungary",
+          "territories": []
+        },
+        {
+          "name": "iceland",
+          "territories": []
+        },
+        {
+          "name": "ireland",
+          "territories": []
+        },
+        {
+          "name": "italy",
+          "territories": []
+        },
+        {
+          "name": "kosovo",
+          "territories": []
+        },
+        {
+          "name": "latvia",
+          "territories": []
+        },
+        {
+          "name": "liechtenstein",
+          "territories": []
+        },
+        {
+          "name": "lithuania",
+          "territories": []
+        },
+        {
+          "name": "luxembourg",
+          "territories": []
+        },
+        {
+          "name": "malta",
+          "territories": []
+        },
+        {
+          "name": "moldova",
+          "territories": []
+        },
+        {
+          "name": "monaco",
+          "territories": []
+        },
+        {
+          "name": "montenegro",
+          "territories": []
+        },
+        {
+          "name": "north macedonia",
+          "territories": []
+        },
+        {
+          "name": "poland",
+          "territories": []
+        },
+        {
+          "name": "romania",
+          "territories": []
+        },
+        {
+          "name": "russia",
+          "territories": []
+        },
+        {
+          "name": "san marino",
+          "territories": []
+        },
+        {
+          "name": "serbia",
+          "territories": []
+        },
+        {
+          "name": "slovakia",
+          "territories": []
+        },
+        {
+          "name": "slovenia",
+          "territories": []
+        },
+        {
+          "name": "sweden",
+          "territories": []
+        },
+        {
+          "name": "switzerland",
+          "territories": []
+        },
+        {
+          "name": "ukraine",
+          "territories": []
+        },
+        {
+          "name": "vatican city",
+          "territories": []
+        },
+        {
+          "name": "cyprus",
+          "territories": []
+        },
+        {
+          "name": "armenia",
+          "territories": []
+        },
+        {
+          "name": "georgia",
+          "territories": []
+        }
+      ]
+    },
+    {
+      "name": "africa",
+      "nations": [
+        {
+          "name": "algeria",
+          "territories": []
+        },
+        {
+          "name": "angola",
+          "territories": []
+        },
+        {
+          "name": "benin",
+          "territories": []
+        },
+        {
+          "name": "botswana",
+          "territories": []
+        },
+        {
+          "name": "burkina faso",
+          "territories": []
+        },
+        {
+          "name": "burundi",
+          "territories": []
+        },
+        {
+          "name": "cabo verde",
+          "territories": []
+        },
+        {
+          "name": "cameroon",
+          "territories": []
+        },
+        {
+          "name": "central african republic",
+          "territories": []
+        },
+        {
+          "name": "chad",
+          "territories": []
+        },
+        {
+          "name": "comoros",
+          "territories": []
+        },
+        {
+          "name": "democratic republic of the congo",
+          "territories": []
+        },
+        {
+          "name": "djibouti",
+          "territories": []
+        },
+        {
+          "name": "egypt",
+          "territories": []
+        },
+        {
+          "name": "equatorial guinea",
+          "territories": []
+        },
+        {
+          "name": "eritrea",
+          "territories": []
+        },
+        {
+          "name": "eswatini",
+          "territories": []
+        },
+        {
+          "name": "ethiopia",
+          "territories": []
+        },
+        {
+          "name": "gabon",
+          "territories": []
+        },
+        {
+          "name": "gambia",
+          "territories": []
+        },
+        {
+          "name": "ghana",
+          "territories": []
+        },
+        {
+          "name": "guinea",
+          "territories": []
+        },
+        {
+          "name": "guinea-bissau",
+          "territories": []
+        },
+        {
+          "name": "ivory coast",
+          "territories": []
+        },
+        {
+          "name": "kenya",
+          "territories": []
+        },
+        {
+          "name": "lesotho",
+          "territories": []
+        },
+        {
+          "name": "liberia",
+          "territories": []
+        },
+        {
+          "name": "libya",
+          "territories": []
+        },
+        {
+          "name": "madagascar",
+          "territories": []
+        },
+        {
+          "name": "malawi",
+          "territories": []
+        },
+        {
+          "name": "mali",
+          "territories": []
+        },
+        {
+          "name": "mauritania",
+          "territories": []
+        },
+        {
+          "name": "mauritius",
+          "territories": []
+        },
+        {
+          "name": "morocco",
+          "territories": []
+        },
+        {
+          "name": "mozambique",
+          "territories": []
+        },
+        {
+          "name": "namibia",
+          "territories": []
+        },
+        {
+          "name": "niger",
+          "territories": []
+        },
+        {
+          "name": "nigeria",
+          "territories": []
+        },
+        {
+          "name": "republic of the congo",
+          "territories": []
+        },
+        {
+          "name": "rwanda",
+          "territories": []
+        },
+        {
+          "name": "sao tome and principe",
+          "territories": []
+        },
+        {
+          "name": "senegal",
+          "territories": []
+        },
+        {
+          "name": "seychelles",
+          "territories": []
+        },
+        {
+          "name": "sierra leone",
+          "territories": []
+        },
+        {
+          "name": "somalia",
+          "territories": []
+        },
+        {
+          "name": "somaliland",
+          "territories": []
+        },
+        {
+          "name": "south africa",
+          "territories": []
+        },
+        {
+          "name": "south sudan",
+          "territories": []
+        },
+        {
+          "name": "sudan",
+          "territories": []
+        },
+        {
+          "name": "tanzania",
+          "territories": []
+        },
+        {
+          "name": "togo",
+          "territories": []
+        },
+        {
+          "name": "tunisia",
+          "territories": []
+        },
+        {
+          "name": "uganda",
+          "territories": []
+        },
+        {
+          "name": "western sahara",
+          "territories": []
+        },
+        {
+          "name": "zambia",
+          "territories": []
+        },
+        {
+          "name": "zimbabwe",
+          "territories": []
+        }
+      ]
+    },
+    {
+      "name": "west asia",
+      "nations": [
+        {
+          "name": "kazakhstan",
+          "territories": []
+        },
+        {
+          "name": "kyrgyzstan",
+          "territories": []
+        },
+        {
+          "name": "tajikistan",
+          "territories": []
+        },
+        {
+          "name": "turkmenistan",
+          "territories": []
+        },
+        {
+          "name": "uzbekistan",
+          "territories": []
+        },
+        {
+          "name": "azerbaijan",
+          "territories": []
+        }
+      ]
+    },
+    {
+      "name": "middle east",
+      "nations": [
+        {
+          "name": "bahrain",
+          "territories": []
+        },
+        {
+          "name": "iran",
+          "territories": []
+        },
+        {
+          "name": "iraq",
+          "territories": []
+        },
+        {
+          "name": "israel",
+          "territories": []
+        },
+        {
+          "name": "jordan",
+          "territories": []
+        },
+        {
+          "name": "kuwait",
+          "territories": []
+        },
+        {
+          "name": "lebanon",
+          "territories": []
+        },
+        {
+          "name": "oman",
+          "territories": []
+        },
+        {
+          "name": "palestine",
+          "territories": []
+        },
+        {
+          "name": "qatar",
+          "territories": []
+        },
+        {
+          "name": "saudi arabia",
+          "territories": []
+        },
+        {
+          "name": "syria",
+          "territories": []
+        },
+        {
+          "name": "turkey",
+          "territories": []
+        },
+        {
+          "name": "united arab emirates",
+          "territories": []
+        },
+        {
+          "name": "yemen",
+          "territories": []
+        },
+        {
+          "name": "afghanistan",
+          "territories": []
+        },
+        {
+          "name": "pakistan",
+          "territories": []
+        }
+      ]
+    },
+    {
+      "name": "asia",
+      "nations": [
+        {
+          "name": "bangladesh",
+          "territories": []
+        },
+        {
+          "name": "bhutan",
+          "territories": []
+        },
+        {
+          "name": "brunei",
+          "territories": []
+        },
+        {
+          "name": "cambodia",
+          "territories": []
+        },
+        {
+          "name": "china",
+          "territories": [
+            {
+              "name": "hong kong",
+              "type": "special administrative region"
+            },
+            {
+              "name": "macau",
+              "type": "special administrative region"
+            }
+          ]
+        },
+        {
+          "name": "india",
+          "territories": []
+        },
+        {
+          "name": "indonesia",
+          "territories": []
+        },
+        {
+          "name": "japan",
+          "territories": []
+        },
+        {
+          "name": "laos",
+          "territories": []
+        },
+        {
+          "name": "malaysia",
+          "territories": []
+        },
+        {
+          "name": "mongolia",
+          "territories": []
+        },
+        {
+          "name": "myanmar",
+          "territories": []
+        },
+        {
+          "name": "nepal",
+          "territories": []
+        },
+        {
+          "name": "north korea",
+          "territories": []
+        },
+        {
+          "name": "philippines",
+          "territories": []
+        },
+        {
+          "name": "singapore",
+          "territories": []
+        },
+        {
+          "name": "south korea",
+          "territories": []
+        },
+        {
+          "name": "sri lanka",
+          "territories": []
+        },
+        {
+          "name": "taiwan",
+          "territories": []
+        },
+        {
+          "name": "thailand",
+          "territories": []
+        },
+        {
+          "name": "timor-leste",
+          "territories": []
+        },
+        {
+          "name": "vietnam",
+          "territories": []
+        },
+        {
+          "name": "maldives",
+          "territories": []
+        }
+      ]
+    },
+    {
+      "name": "oceania",
+      "nations": [
+        {
+          "name": "australia",
+          "territories": [
+            {
+              "name": "ashmore and cartier islands",
+              "type": "external territory"
+            },
+            {
+              "name": "australian antarctic territory",
+              "type": "external territory"
+            },
+            {
+              "name": "christmas island",
+              "type": "external territory"
+            },
+            {
+              "name": "cocos (keeling) islands",
+              "type": "external territory"
+            },
+            {
+              "name": "coral sea islands",
+              "type": "external territory"
+            },
+            {
+              "name": "heard island and mcdonald islands",
+              "type": "external territory"
+            },
+            {
+              "name": "indian ocean territories",
+              "type": "dependent territory"
+            },
+            {
+              "name": "norfolk island",
+              "type": "external territory"
+            }
+          ]
+        },
+        {
+          "name": "new zealand",
+          "territories": [
+            {
+              "name": "cook islands",
+              "type": "self-governing state in free association"
+            },
+            {
+              "name": "niue",
+              "type": "self-governing state in free association"
+            },
+            {
+              "name": "tokelau",
+              "type": "dependent territory"
+            },
+            {
+              "name": "ross dependency",
+              "type": "territorial claim"
+            }
+          ]
+        },
+        {
+          "name": "federated states of micronesia",
+          "territories": []
+        },
+        {
+          "name": "fiji",
+          "territories": []
+        },
+        {
+          "name": "kiribati",
+          "territories": []
+        },
+        {
+          "name": "marshall islands",
+          "territories": []
+        },
+        {
+          "name": "nauru",
+          "territories": []
+        },
+        {
+          "name": "palau",
+          "territories": []
+        },
+        {
+          "name": "papua new guinea",
+          "territories": []
+        },
+        {
+          "name": "samoa",
+          "territories": []
+        },
+        {
+          "name": "solomon islands",
+          "territories": []
+        },
+        {
+          "name": "tonga",
+          "territories": []
+        },
+        {
+          "name": "tuvalu",
+          "territories": []
+        },
+        {
+          "name": "vanuatu",
+          "territories": []
+        }
+      ]
+    },
+    {
+      "name": "antarctica",
+      "nations": [
+        {
+          "name": "antarctica",
+          "territories": []
+        }
+      ]
+    }
+  ]
+}

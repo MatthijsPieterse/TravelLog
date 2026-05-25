@@ -1,0 +1,30 @@
+{
+  "name": "andorra",
+  "data": [],
+  "places": [
+    {
+      "name": "Andorra la Vella",
+      "englishName": "",
+      "coordinates": [
+        1.521246,
+        42.506938
+      ]
+    },
+    {
+      "name": "les Escaldes",
+      "englishName": "",
+      "coordinates": [
+        1.540407,
+        42.509002
+      ]
+    },
+    {
+      "name": "Engordany",
+      "englishName": "",
+      "coordinates": [
+        1.541891,
+        42.512051
+      ]
+    }
+  ]
+}

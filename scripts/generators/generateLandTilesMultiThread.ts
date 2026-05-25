@@ -3,18 +3,18 @@ import { Worker, isMainThread, parentPort, workerData } from "worker_threads";
 import os from "os";
 import type { Feature } from "geojson";
 import * as martinez from "martinez-polygon-clipping";
-import type { Point } from "../types.ts";
+import type { Coordinates } from "../types.ts";
 import { encodeTile } from "../utils/tileUtils.ts";
 import {
   writeJSON,
   joinPath,
   DIR_TILES,
-  COUNTRIESPOLYGONS_FILE,
+  NATIONSPOLYGONS_FILE,
 } from "../utils/fileUtils.ts";
 
 const GRID_SIZES = [1];
 
-const getTileXY = (coord: Point, gridSize: number) => {
+const getTileXY = (coord: Coordinates, gridSize: number) => {
   const [lon, lat] = coord;
   const x = Math.floor((lon + 180) / gridSize);
   const y = Math.floor((lat + 90) / gridSize);
@@ -22,7 +22,7 @@ const getTileXY = (coord: Point, gridSize: number) => {
 };
 
 if (isMainThread) {
-  const countries = JSON.parse(fs.readFileSync(COUNTRIESPOLYGONS_FILE, "utf8"));
+  const nations = JSON.parse(fs.readFileSync(NATIONSPOLYGONS_FILE, "utf8"));
   const numWorkers = Math.max(1, os.cpus().length - 1);
 
   GRID_SIZES.forEach((gridSize) => {
@@ -30,12 +30,12 @@ if (isMainThread) {
       `\nGenerating land tiles for grid size ${gridSize}° with ${numWorkers} workers...`,
     );
     const startTime = Date.now();
-    const chunkSize = Math.ceil(countries.features.length / numWorkers);
+    const chunkSize = Math.ceil(nations.features.length / numWorkers);
     const workers: Worker[] = [];
     const results: Set<number> = new Set();
 
     for (let i = 0; i < numWorkers; i++) {
-      const chunk = countries.features.slice(
+      const chunk = nations.features.slice(
         i * chunkSize,
         (i + 1) * chunkSize,
       );

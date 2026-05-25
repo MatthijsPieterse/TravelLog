@@ -1,0 +1,14 @@
+{
+  "name": "estonia",
+  "data": [],
+  "places": [
+    {
+      "name": "Tallinn",
+      "englishName": "",
+      "coordinates": [
+        24.74537,
+        59.437216
+      ]
+    }
+  ]
+}

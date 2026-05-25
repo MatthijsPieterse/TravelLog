@@ -1,0 +1,134 @@
+{
+  "name": "germany",
+  "data": [],
+  "places": [
+    {
+      "name": "Köln",
+      "englishName": "",
+      "coordinates": [
+        6.95999,
+        50.938356
+      ]
+    },
+    {
+      "name": "Hannover",
+      "englishName": "",
+      "coordinates": [
+        9.738544,
+        52.37449
+      ]
+    },
+    {
+      "name": "Kalkar",
+      "englishName": "",
+      "coordinates": [
+        6.292742,
+        51.738873
+      ]
+    },
+    {
+      "name": "Kaldenkirchen",
+      "englishName": "",
+      "coordinates": [
+        6.197919,
+        51.320725
+      ]
+    },
+    {
+      "name": "Grefrath",
+      "englishName": "",
+      "coordinates": [
+        6.343737,
+        51.336078
+      ]
+    },
+    {
+      "name": "Gunderath",
+      "englishName": "",
+      "coordinates": [
+        6.979675,
+        50.254485
+      ]
+    },
+    {
+      "name": "Cochem",
+      "englishName": "",
+      "coordinates": [
+        7.166319,
+        50.148392
+      ]
+    },
+    {
+      "name": "München",
+      "englishName": "",
+      "coordinates": [
+        11.575383,
+        48.137108
+      ]
+    },
+    {
+      "name": "Gersthofen",
+      "englishName": "",
+      "coordinates": [
+        10.877856,
+        48.424814
+      ]
+    },
+    {
+      "name": "Augsburg",
+      "englishName": "",
+      "coordinates": [
+        10.897953,
+        48.369035
+      ]
+    },
+    {
+      "name": "Stuttgart",
+      "englishName": "",
+      "coordinates": [
+        9.180012,
+        48.778448
+      ]
+    },
+    {
+      "name": "Mannheim",
+      "englishName": "",
+      "coordinates": [
+        8.467309,
+        49.48929
+      ]
+    },
+    {
+      "name": "Frankfurt am Main",
+      "englishName": "",
+      "coordinates": [
+        8.682092,
+        50.110645
+      ]
+    },
+    {
+      "name": "Mainz",
+      "englishName": "",
+      "coordinates": [
+        8.276252,
+        50.001231
+      ]
+    },
+    {
+      "name": "Düsseldorf",
+      "englishName": "",
+      "coordinates": [
+        6.776313,
+        51.225403
+      ]
+    },
+    {
+      "name": "Hommersum",
+      "englishName": "",
+      "coordinates": [
+        6.034636,
+        51.682323
+      ]
+    }
+  ]
+}

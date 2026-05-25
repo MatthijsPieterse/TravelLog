@@ -1,0 +1,144 @@
+{
+  "name": "spain",
+  "coverImg": "2_20240213_150135.jpg",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★★☆",
+        "affordability": "★★★☆☆",
+        "transportRating": "★★★☆☆",
+        "foodRating": "★★★★☆",
+        "returnInterest": {
+          "level": "★★★★☆",
+          "note": "Definitely want to come back to see more of the country."
+        }
+      },
+      "description": {
+        "intro": "Spain offers a good combination of lively cities, rich history, excellent food culture, and a very relaxed atmosphere, making it perfect for both exploring and relaxing.",
+        "pros": [
+          "Excellent food culture with many regional specialties",
+          "Very affordable compared to many western European countries"
+        ],
+        "cons": [],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [
+          "Dinner time is very late; typically between 21:00 and 23:00",
+          "Nightlife starts late; people often go out to party around 01:00 or later"
+        ],
+        "personalNotes": []
+      },
+      "travelPracticalities": {
+        "visaNotes": "I didn't need a visa.",
+        "currency": "Euro (€)",
+        "paymentCulture": [
+          "Both cash and card payments are widely accepted"
+        ],
+        "transportTips": [
+          "You can easily travel between major cities by train",
+          "Book long-distance train tickets in advance for better prices",
+          "Spain’s high-speed AVE network is fast and convenient for transportation between major cities",
+          "Connections between smaller cities are often very slow",
+          "You usually have to pass through a security check before accessing high-speed train platforms"
+        ],
+        "languageTips": [
+          "Learning basic Spanish makes getting around much easier",
+          "English is widely spoken in major cities, but less common in smaller towns",
+          "Regional languages such as Catalan and Valencian are commonly used alongside Spanish in some areas"
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Winter",
+            "notes": [
+              "Late winter (around February) had very comfortable temperatures, especially along the east coast."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Paella",
+          "Tortilla española",
+          "Croquetas de Jamón",
+          "Patatas bravas"
+        ],
+        "foodNotes": [
+          "There are many tapas bars where you can share small plates of different dishes—definitely worth trying.",
+          "Many restaurants offer a daily set menu (menú del día), and sometimes even breakfast menus, which are usually very affordable."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "València",
+          "knownFor": [
+            "Paella (Valenciana)",
+            "Orange and citrus farms",
+            "Beaches"
+          ],
+          "notes": [
+            "Besides Spanish, Valencian (valencià), a dialect of Catalan, is widely spoken."
+          ]
+        },
+        {
+          "name": "Madrid",
+          "knownFor": [
+            "Museums"
+          ],
+          "notes": [
+            ""
+          ]
+        }
+      ],
+      "recommendedApps": [
+        {
+          "name": "Renfe",
+          "category": "Transport",
+          "purpose": "The app of the national train service.",
+          "notes": "",
+          "links": [
+            {
+              "url": "https://play.google.com/store/apps/details?id=com.renfeviajeros.ticket",
+              "title": "PlayStore"
+            },
+            {
+              "url": "https://apps.apple.com/nl/app/renfe/id1544224672",
+              "title": "AppStore"
+            }
+          ]
+        }
+      ],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      },
+      "images": [
+        "1_20240213_112220.jpg",
+        "2_20240213_150135.jpg",
+        "3_20240216_174524.jpg",
+        "4_20240216_173805.jpg",
+        "5_20240216_164907.jpg",
+        "6_20240216_174529.jpg"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "name": "Madrid",
+      "englishName": "",
+      "coordinates": [-3.703573, 40.416718]
+    },
+    {
+      "name": "València",
+      "englishName": "",
+      "coordinates": [-0.376346, 39.469715]
+    },
+    {
+      "name": "Alacant / Alicante",
+      "englishName": "",
+      "coordinates": [-0.488184, 38.343629]
+    }
+  ]
+}

@@ -1,15 +1,15 @@
-import type { Point, VisitedGeoJSON } from "../../types.ts";
+import type { Coordinates, VisitedGeoJSON } from "../../types.ts";
 
 const encodeTile = (x: number, y: number) => (x << 16) | y;
 
-const getTileXY = (coord: Point, gridSize: number) => {
+const getTileXY = (coord: Coordinates, gridSize: number) => {
   const [lon, lat] = coord;
   const x = Math.floor((lon + 180) / gridSize);
   const y = Math.floor((lat + 90) / gridSize);
   return [x, y];
 };
 
-const getTileKey = (coord: Point, gridSize: number) => {
+const getTileKey = (coord: Coordinates, gridSize: number) => {
   const [x, y] = getTileXY(coord, gridSize);
   return encodeTile(x, y);
 };

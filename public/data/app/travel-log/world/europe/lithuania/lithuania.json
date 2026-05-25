@@ -1,0 +1,22 @@
+{
+  "name": "lithuania",
+  "data": [],
+  "places": [
+    {
+      "name": "Vilnius",
+      "englishName": "",
+      "coordinates": [
+        25.282911,
+        54.687045
+      ]
+    },
+    {
+      "name": "Trakai",
+      "englishName": "",
+      "coordinates": [
+        24.935399,
+        54.644991
+      ]
+    }
+  ]
+}

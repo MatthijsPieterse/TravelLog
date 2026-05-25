@@ -1,16 +1,15 @@
 {
-  "name": "traveldashboard",
+  "name": "travellog",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build && npm run process-data",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "build": "npm run process-data && tsc -b && vite build && copy dist\\index.html dist\\404.html",
+    "deploy": "npm run build && gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview",
-    "process-data": "tsx scripts/runDashboardBuild.ts"
+    "process-data": "tsx scripts/runBuildScripts.ts"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.96.2",
@@ -24,7 +23,7 @@
     "react-leaflet": "^5.0.0",
     "react-router-dom": "^7.13.2",
     "react-spinners": "^0.17.0",
-    "tailwindcss-animated": "^2.0.0"
+    "vite-plugin-svgr": "^5.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
@@ -42,7 +41,6 @@
     "globals": "^17.4.0",
     "postcss": "^8.5.8",
     "tailwindcss": "^4.2.2",
-    "ts-node": "^10.9.2",
     "tsx": "^4.21.0",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.57.0",

@@ -1,0 +1,126 @@
+{
+  "name": "",
+  "englishName": "",
+  "coverImg": "",
+  "coordinates": [0, 0],
+  "data": [
+    {
+      "type": "",
+      "summary": {
+        "overallRating": "",
+        "affordability": "",
+        "foodRating": "",
+        "nightlife": "",
+        "walkability": "",
+        "publicTransport": "",
+        "returnInterest": {
+          "level": null,
+          "note": ""
+        }
+      },
+      "description": {
+        "intro": "",
+        "pros": [],
+        "cons": [],
+        "tips": [],
+        "personalNotes": [],
+        "thingsToKnow": [],
+        "transportTips": []
+      },
+      "lists": {
+        "activities": [
+          {
+            "haveDone": [
+              {
+                "name": "",
+                "type": "",
+                "price": "Cheap / Normal / Expensive",
+                "comments": [],
+                "recommend": "",
+                "lastUpdated": ""
+              }
+            ]
+          },
+          {
+            "wantToDo": [
+              {
+                "name": "",
+                "type": "",
+                "price": "Cheap / Normal / Expensive",
+                "comments": [],
+                "recommend": "",
+                "lastUpdated": ""
+              }
+            ]
+          }
+        ],
+        "food_and_drinks": [
+          {
+            "haveBeen": [
+              {
+                "name": "",
+                "type": "",
+                "cuisine": "",
+                "price": "Cheap / Normal / Expensive",
+                "comments": [],
+                "recommend": "",
+                "lastUpdated": ""
+              }
+            ]
+          },
+          {
+            "wantToGo": [
+              {
+                "name": "",
+                "type": "",
+                "cuisine": "",
+                "price": "Cheap / Normal / Expensive",
+                "comments": [],
+                "recommendend": "",
+                "lastUpdated": ""
+              }
+            ]
+          }
+        ],
+        "accommodations": [
+          {
+            "haveStayed": [
+              {
+                "name": "",
+                "type": "Hotel / Hostel / Airbnb / Apartment / Guesthouse",
+                "price": "Cheap / Normal / Expensive",
+                "area": "",
+                "comments": [],
+                "recommend": "",
+                "lastUpdated": ""
+              }
+            ]
+          }
+        ],
+        "recommendedApps": [
+          {
+            "name": "",
+            "category": "",
+            "purpose": "",
+            "notes": ""
+          }
+        ],
+        "recommendationsFromOthers": {
+          "<list>": [
+            {
+              "name": "",
+              "notes": [],
+              "area": ""
+            }
+          ]
+        }
+      },
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      },
+      "images": []
+    }
+  ]
+}

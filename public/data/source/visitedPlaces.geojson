@@ -5,10 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.873846,
-          51.607283
-        ]
+        "coordinates": [5.873846, 51.607283]
       },
       "properties": {
         "name": "Oploo",
@@ -19,10 +16,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.7035732,
-          40.416718
-        ]
+        "coordinates": [-3.703573, 40.416718]
       },
       "properties": {
         "name": "Madrid",
@@ -33,10 +27,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.9599899,
-          50.938356
-        ]
+        "coordinates": [6.95999, 50.938356]
       },
       "properties": {
         "name": "Köln",
@@ -47,10 +38,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.1215822,
-          52.090705
-        ]
+        "coordinates": [5.121582, 52.090705]
       },
       "properties": {
         "name": "Utrecht",
@@ -61,10 +49,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.975383,
-          51.527026
-        ]
+        "coordinates": [5.975383, 51.527026]
       },
       "properties": {
         "name": "Venray",
@@ -75,10 +60,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9154417,
-          51.604063
-        ]
+        "coordinates": [5.915442, 51.604063]
       },
       "properties": {
         "name": "Stevensbeek",
@@ -89,10 +71,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8637448,
-          51.582219
-        ]
+        "coordinates": [5.863745, 51.582219]
       },
       "properties": {
         "name": "Westerbeek",
@@ -103,10 +82,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8816754,
-          51.626922
-        ]
+        "coordinates": [5.881675, 51.626922]
       },
       "properties": {
         "name": "Sint Anthonis",
@@ -117,10 +93,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8725961,
-          51.636561
-        ]
+        "coordinates": [5.872596, 51.636561]
       },
       "properties": {
         "name": "Ledeacker",
@@ -131,10 +104,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8850174,
-          51.65762
-        ]
+        "coordinates": [5.885017, 51.65762]
       },
       "properties": {
         "name": "Rijkevoort",
@@ -145,10 +115,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9450962,
-          51.648649
-        ]
+        "coordinates": [5.945096, 51.648649]
       },
       "properties": {
         "name": "Boxmeer",
@@ -159,10 +126,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9657492,
-          51.635687
-        ]
+        "coordinates": [5.965749, 51.635687]
       },
       "properties": {
         "name": "Sambeek",
@@ -173,10 +137,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.978192,
-          51.620834
-        ]
+        "coordinates": [5.978192, 51.620834]
       },
       "properties": {
         "name": "Vortum-Mullem",
@@ -187,10 +148,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.946963,
-          51.571118
-        ]
+        "coordinates": [5.946963, 51.571118]
       },
       "properties": {
         "name": "Overloon",
@@ -201,10 +159,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0052233,
-          51.57403
-        ]
+        "coordinates": [6.005223, 51.57403]
       },
       "properties": {
         "name": "Holthees",
@@ -215,10 +170,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0091527,
-          51.596439
-        ]
+        "coordinates": [6.009153, 51.596439]
       },
       "properties": {
         "name": "Vierlingsbeek",
@@ -229,10 +181,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0348644,
-          51.570759
-        ]
+        "coordinates": [6.034864, 51.570759]
       },
       "properties": {
         "name": "Maashees",
@@ -243,24 +192,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0468995,
-          51.601257
-        ]
-      },
-      "properties": {
-        "name": "Bergen",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.032555,
-          51.599945
-        ]
+        "coordinates": [6.032555, 51.599945]
       },
       "properties": {
         "name": "Oud Bergen",
@@ -271,10 +203,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.053149,
-          51.604972
-        ]
+        "coordinates": [6.053149, 51.604972]
       },
       "properties": {
         "name": "Nieuw Bergen",
@@ -285,10 +214,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0142301,
-          51.634625
-        ]
+        "coordinates": [6.01423, 51.634625]
       },
       "properties": {
         "name": "Afferden",
@@ -299,10 +225,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9805148,
-          51.674211
-        ]
+        "coordinates": [5.980515, 51.674211]
       },
       "properties": {
         "name": "Heijen",
@@ -313,10 +236,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9400107,
-          51.67385
-        ]
+        "coordinates": [5.940011, 51.67385]
       },
       "properties": {
         "name": "Beugen",
@@ -327,10 +247,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9734552,
-          51.695085
-        ]
+        "coordinates": [5.973455, 51.695085]
       },
       "properties": {
         "name": "Gennep",
@@ -341,10 +258,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9824031,
-          51.702532
-        ]
+        "coordinates": [5.982403, 51.702532]
       },
       "properties": {
         "name": "Ottersum",
@@ -355,10 +269,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9499483,
-          51.724361
-        ]
+        "coordinates": [5.949948, 51.724361]
       },
       "properties": {
         "name": "Milsbeek",
@@ -369,10 +280,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9156268,
-          51.724044
-        ]
+        "coordinates": [5.915627, 51.724044]
       },
       "properties": {
         "name": "Middelaar",
@@ -383,10 +291,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9223645,
-          51.737237
-        ]
+        "coordinates": [5.922364, 51.737237]
       },
       "properties": {
         "name": "Plasmolen",
@@ -397,10 +302,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0233684,
-          51.711892
-        ]
+        "coordinates": [6.023368, 51.711892]
       },
       "properties": {
         "name": "Ven-Zelderheide",
@@ -411,10 +313,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9336137,
-          51.699643
-        ]
+        "coordinates": [5.933614, 51.699643]
       },
       "properties": {
         "name": "Oeffelt",
@@ -425,10 +324,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9104635,
-          51.713989
-        ]
+        "coordinates": [5.910463, 51.713989]
       },
       "properties": {
         "name": "Sint Agatha",
@@ -439,10 +335,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8800446,
-          51.729938
-        ]
+        "coordinates": [5.880045, 51.729938]
       },
       "properties": {
         "name": "Cuijk",
@@ -453,10 +346,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8842235,
-          51.752582
-        ]
+        "coordinates": [5.884224, 51.752582]
       },
       "properties": {
         "name": "Mook",
@@ -467,10 +357,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8727704,
-          51.750643
-        ]
+        "coordinates": [5.87277, 51.750643]
       },
       "properties": {
         "name": "Katwijk",
@@ -481,10 +368,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8716117,
-          51.766294
-        ]
+        "coordinates": [5.871612, 51.766294]
       },
       "properties": {
         "name": "Molenhoek",
@@ -495,10 +379,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8539172,
-          51.780224
-        ]
+        "coordinates": [5.853917, 51.780224]
       },
       "properties": {
         "name": "Malden",
@@ -509,10 +390,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8442264,
-          51.765381
-        ]
+        "coordinates": [5.844226, 51.765381]
       },
       "properties": {
         "name": "Heumen",
@@ -523,10 +401,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8281599,
-          51.748521
-        ]
+        "coordinates": [5.82816, 51.748521]
       },
       "properties": {
         "name": "Linden",
@@ -537,10 +412,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8299114,
-          51.724853
-        ]
+        "coordinates": [5.829911, 51.724853]
       },
       "properties": {
         "name": "Beers",
@@ -551,10 +423,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7841154,
-          51.68632
-        ]
+        "coordinates": [5.784115, 51.68632]
       },
       "properties": {
         "name": "Mill",
@@ -565,10 +434,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8101435,
-          51.678196
-        ]
+        "coordinates": [5.810143, 51.678196]
       },
       "properties": {
         "name": "Sint Hubert",
@@ -579,10 +445,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7286795,
-          51.700557
-        ]
+        "coordinates": [5.72868, 51.700557]
       },
       "properties": {
         "name": "Langenboom",
@@ -593,10 +456,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7739015,
-          51.65533
-        ]
+        "coordinates": [5.773902, 51.65533]
       },
       "properties": {
         "name": "Wilbertoord",
@@ -607,10 +467,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8201857,
-          51.656976
-        ]
+        "coordinates": [5.820186, 51.656976]
       },
       "properties": {
         "name": "Wanroij",
@@ -621,10 +478,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8628624,
-          51.688648
-        ]
+        "coordinates": [5.862862, 51.688648]
       },
       "properties": {
         "name": "Haps",
@@ -635,10 +489,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7898258,
-          51.617695
-        ]
+        "coordinates": [5.789826, 51.617695]
       },
       "properties": {
         "name": "Landhorst",
@@ -649,10 +500,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7386922,
-          51.608153
-        ]
+        "coordinates": [5.738692, 51.608153]
       },
       "properties": {
         "name": "Venhorst",
@@ -663,10 +511,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.768698,
-          51.581331
-        ]
+        "coordinates": [5.768698, 51.581331]
       },
       "properties": {
         "name": "Elsendorp",
@@ -677,10 +522,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8106183,
-          51.55079
-        ]
+        "coordinates": [5.810618, 51.55079]
       },
       "properties": {
         "name": "De Rips",
@@ -691,10 +533,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7135572,
-          51.579408
-        ]
+        "coordinates": [5.713557, 51.579408]
       },
       "properties": {
         "name": "Handel",
@@ -705,10 +544,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.6864588,
-          51.558983
-        ]
+        "coordinates": [5.686459, 51.558983]
       },
       "properties": {
         "name": "Gemert",
@@ -719,10 +555,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.6726803,
-          51.6029
-        ]
+        "coordinates": [5.67268, 51.6029]
       },
       "properties": {
         "name": "Boekel",
@@ -733,10 +566,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7089062,
-          51.540329
-        ]
+        "coordinates": [5.708906, 51.540329]
       },
       "properties": {
         "name": "De Mortel",
@@ -747,10 +577,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7792874,
-          51.502777
-        ]
+        "coordinates": [5.779287, 51.502777]
       },
       "properties": {
         "name": "Milheeze",
@@ -761,10 +588,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7397087,
-          51.503653
-        ]
+        "coordinates": [5.739709, 51.503653]
       },
       "properties": {
         "name": "Bakel",
@@ -775,10 +599,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8694928,
-          51.540973
-        ]
+        "coordinates": [5.869493, 51.540973]
       },
       "properties": {
         "name": "Vredepeel",
@@ -789,10 +610,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9280293,
-          51.528333
-        ]
+        "coordinates": [5.928029, 51.528333]
       },
       "properties": {
         "name": "Merselo",
@@ -803,10 +621,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8961566,
-          51.489904
-        ]
+        "coordinates": [5.896157, 51.489904]
       },
       "properties": {
         "name": "Ysselsteyn",
@@ -817,10 +632,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0184654,
-          51.529164
-        ]
+        "coordinates": [6.018465, 51.529164]
       },
       "properties": {
         "name": "Oostrum",
@@ -831,10 +643,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0041853,
-          51.566286
-        ]
+        "coordinates": [6.004185, 51.566286]
       },
       "properties": {
         "name": "Smakt",
@@ -845,10 +654,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.09313,
-          51.554565
-        ]
+        "coordinates": [6.09313, 51.554565]
       },
       "properties": {
         "name": "Well",
@@ -859,10 +665,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0539242,
-          51.4525
-        ]
+        "coordinates": [6.053924, 51.4525]
       },
       "properties": {
         "name": "Horst",
@@ -873,10 +676,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0854079,
-          51.461723
-        ]
+        "coordinates": [6.085408, 51.461723]
       },
       "properties": {
         "name": "Melderslo",
@@ -887,10 +687,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0370021,
-          51.412351
-        ]
+        "coordinates": [6.037002, 51.412351]
       },
       "properties": {
         "name": "Sevenum",
@@ -901,10 +698,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9994834,
-          51.415755
-        ]
+        "coordinates": [5.999483, 51.415755]
       },
       "properties": {
         "name": "Kronenberg",
@@ -915,10 +709,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0474869,
-          51.358674
-        ]
+        "coordinates": [6.047487, 51.358674]
       },
       "properties": {
         "name": "Maasbree",
@@ -929,10 +720,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9950953,
-          51.356518
-        ]
+        "coordinates": [5.995095, 51.356518]
       },
       "properties": {
         "name": "Koningslust",
@@ -943,10 +731,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9407242,
-          51.361563
-        ]
+        "coordinates": [5.940724, 51.361563]
       },
       "properties": {
         "name": "Grashoek",
@@ -957,10 +742,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9584322,
-          51.40391
-        ]
+        "coordinates": [5.958432, 51.40391]
       },
       "properties": {
         "name": "Evertsoord",
@@ -971,10 +753,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9478911,
-          51.336825
-        ]
+        "coordinates": [5.947891, 51.336825]
       },
       "properties": {
         "name": "Beringe",
@@ -985,10 +764,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9819417,
-          51.328799
-        ]
+        "coordinates": [5.981942, 51.328799]
       },
       "properties": {
         "name": "Panningen",
@@ -999,10 +775,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0001673,
-          51.320333
-        ]
+        "coordinates": [6.000167, 51.320333]
       },
       "properties": {
         "name": "Helden",
@@ -1013,10 +786,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0573413,
-          51.291249
-        ]
+        "coordinates": [6.057341, 51.291249]
       },
       "properties": {
         "name": "Kessel",
@@ -1027,10 +797,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0967242,
-          51.331955
-        ]
+        "coordinates": [6.096724, 51.331955]
       },
       "properties": {
         "name": "Baarlo",
@@ -1041,10 +808,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1269446,
-          51.359877
-        ]
+        "coordinates": [6.126945, 51.359877]
       },
       "properties": {
         "name": "Hout-Blerick",
@@ -1055,10 +819,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1491614,
-          51.367649
-        ]
+        "coordinates": [6.149161, 51.367649]
       },
       "properties": {
         "name": "Blerick",
@@ -1069,10 +830,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1688944,
-          51.370211
-        ]
+        "coordinates": [6.168894, 51.370211]
       },
       "properties": {
         "name": "Venlo",
@@ -1083,10 +841,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1171948,
-          51.378025
-        ]
+        "coordinates": [6.117195, 51.378025]
       },
       "properties": {
         "name": "Boekend",
@@ -1097,10 +852,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1484211,
-          51.419531
-        ]
+        "coordinates": [6.148421, 51.419531]
       },
       "properties": {
         "name": "Grubbenvorst",
@@ -1111,10 +863,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1633234,
-          51.415593
-        ]
+        "coordinates": [6.163323, 51.415593]
       },
       "properties": {
         "name": "Velden",
@@ -1125,10 +874,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1617195,
-          51.461042
-        ]
+        "coordinates": [6.16172, 51.461042]
       },
       "properties": {
         "name": "Lottum",
@@ -1139,10 +885,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1785074,
-          51.476261
-        ]
+        "coordinates": [6.178507, 51.476261]
       },
       "properties": {
         "name": "Arcen",
@@ -1153,10 +896,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1631759,
-          51.487711
-        ]
+        "coordinates": [6.163176, 51.487711]
       },
       "properties": {
         "name": "Broekhuizen",
@@ -1167,10 +907,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1065786,
-          51.649476
-        ]
+        "coordinates": [6.106579, 51.649476]
       },
       "properties": {
         "name": "Siebengewald",
@@ -1181,10 +918,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1362197,
-          51.342931
-        ]
+        "coordinates": [6.13622, 51.342931]
       },
       "properties": {
         "name": "Tegelen",
@@ -1195,10 +929,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1212154,
-          51.332235
-        ]
+        "coordinates": [6.121215, 51.332235]
       },
       "properties": {
         "name": "Steyl",
@@ -1209,10 +940,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0356503,
-          51.231394
-        ]
+        "coordinates": [6.03565, 51.231394]
       },
       "properties": {
         "name": "Swalmen",
@@ -1223,10 +951,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1128174,
-          51.310963
-        ]
+        "coordinates": [6.112817, 51.310963]
       },
       "properties": {
         "name": "Belfeld",
@@ -1237,10 +962,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9882637,
-          51.19339
-        ]
+        "coordinates": [5.988264, 51.19339]
       },
       "properties": {
         "name": "Roermond",
@@ -1251,10 +973,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8719765,
-          51.107302
-        ]
+        "coordinates": [5.871976, 51.107302]
       },
       "properties": {
         "name": "Echt",
@@ -1265,10 +984,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9704726,
-          51.312632
-        ]
+        "coordinates": [5.970473, 51.312632]
       },
       "properties": {
         "name": "Egchel",
@@ -1279,10 +995,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9009256,
-          51.250199
-        ]
+        "coordinates": [5.900926, 51.250199]
       },
       "properties": {
         "name": "Heythuysen",
@@ -1293,10 +1006,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9799006,
-          51.437149
-        ]
+        "coordinates": [5.979901, 51.437149]
       },
       "properties": {
         "name": "America",
@@ -1307,10 +1017,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8312525,
-          50.864753
-        ]
+        "coordinates": [5.831252, 50.864753]
       },
       "properties": {
         "name": "Valkenburg",
@@ -1321,10 +1028,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.6909757,
-          50.851244
-        ]
+        "coordinates": [5.690976, 50.851244]
       },
       "properties": {
         "name": "Maastricht",
@@ -1335,10 +1039,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8692058,
-          50.85246
-        ]
+        "coordinates": [5.869206, 50.85246]
       },
       "properties": {
         "name": "Schin op Geul",
@@ -1349,10 +1050,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8539735,
-          50.854823
-        ]
+        "coordinates": [5.853974, 50.854823]
       },
       "properties": {
         "name": "Oud-Valkenburg",
@@ -1363,10 +1061,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0190501,
-          50.771016
-        ]
+        "coordinates": [6.01905, 50.771016]
       },
       "properties": {
         "name": "Vaals",
@@ -1377,10 +1072,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.964384,
-          50.787811
-        ]
+        "coordinates": [5.964384, 50.787811]
       },
       "properties": {
         "name": "Vijlen",
@@ -1391,10 +1083,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7065613,
-          51.253849
-        ]
+        "coordinates": [5.706561, 51.253849]
       },
       "properties": {
         "name": "Weert",
@@ -1405,10 +1094,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7496034,
-          51.285641
-        ]
+        "coordinates": [5.749603, 51.285641]
       },
       "properties": {
         "name": "Nederweert",
@@ -1419,10 +1105,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7133668,
-          51.385888
-        ]
+        "coordinates": [5.713367, 51.385888]
       },
       "properties": {
         "name": "Someren",
@@ -1433,10 +1116,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.655769,
-          51.479096
-        ]
+        "coordinates": [5.655769, 51.479096]
       },
       "properties": {
         "name": "Helmond",
@@ -1447,10 +1127,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7946296,
-          51.463853
-        ]
+        "coordinates": [5.79463, 51.463853]
       },
       "properties": {
         "name": "Deurne",
@@ -1461,10 +1138,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.4786379,
-          51.439261
-        ]
+        "coordinates": [5.478638, 51.439261]
       },
       "properties": {
         "name": "Eindhoven",
@@ -1475,10 +1149,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.3031141,
-          51.688938
-        ]
+        "coordinates": [5.303114, 51.688938]
       },
       "properties": {
         "name": "'s-Hertogenbosch",
@@ -1489,10 +1160,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          3.6137514,
-          51.499678
-        ]
+        "coordinates": [3.613751, 51.499678]
       },
       "properties": {
         "name": "Middelburg",
@@ -1503,10 +1171,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.2896475,
-          51.821921
-        ]
+        "coordinates": [4.289648, 51.821921]
       },
       "properties": {
         "name": "Simonshaven",
@@ -1517,10 +1182,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.4777508,
-          51.924442
-        ]
+        "coordinates": [4.477751, 51.924442]
       },
       "properties": {
         "name": "Rotterdam",
@@ -1531,10 +1193,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.4019141,
-          51.91718
-        ]
+        "coordinates": [4.401914, 51.91718]
       },
       "properties": {
         "name": "Schiedam",
@@ -1545,10 +1204,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.5883598,
-          51.931255
-        ]
+        "coordinates": [4.58836, 51.931255]
       },
       "properties": {
         "name": "Capelle aan den IJssel",
@@ -1559,10 +1215,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.3113466,
-          52.079983
-        ]
+        "coordinates": [4.311347, 52.079983]
       },
       "properties": {
         "name": "Den Haag",
@@ -1573,24 +1226,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.2736937,
-          52.106745
-        ]
-      },
-      "properties": {
-        "name": "Scheveningen",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3896744,
-          52.15626
-        ]
+        "coordinates": [5.389674, 52.15626]
       },
       "properties": {
         "name": "Amersfoort",
@@ -1601,10 +1237,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0943873,
-          52.508978
-        ]
+        "coordinates": [6.094387, 52.508978]
       },
       "properties": {
         "name": "Zwolle",
@@ -1615,10 +1248,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1584599,
-          52.253229
-        ]
+        "coordinates": [6.15846, 52.253229]
       },
       "properties": {
         "name": "Deventer",
@@ -1629,10 +1259,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8637602,
-          51.847488
-        ]
+        "coordinates": [5.86376, 51.847488]
       },
       "properties": {
         "name": "Nijmegen",
@@ -1643,10 +1270,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8452563,
-          51.918792
-        ]
+        "coordinates": [5.845256, 51.918792]
       },
       "properties": {
         "name": "Elst",
@@ -1657,10 +1281,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1947723,
-          52.139694
-        ]
+        "coordinates": [6.194772, 52.139694]
       },
       "properties": {
         "name": "Zutphen",
@@ -1671,10 +1292,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.6636165,
-          52.356356
-        ]
+        "coordinates": [6.663616, 52.356356]
       },
       "properties": {
         "name": "Almelo",
@@ -1685,10 +1303,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.7967379,
-          53.055232
-        ]
+        "coordinates": [4.796738, 53.055232]
       },
       "properties": {
         "name": "Den Burg",
@@ -1699,10 +1314,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.8456909,
-          53.038389
-        ]
+        "coordinates": [4.845691, 53.038389]
       },
       "properties": {
         "name": "Oudeschild",
@@ -1713,10 +1325,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.7854646,
-          53.005644
-        ]
+        "coordinates": [4.785465, 53.005644]
       },
       "properties": {
         "name": "'t Horntje",
@@ -1727,10 +1336,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.7602786,
-          52.957976
-        ]
+        "coordinates": [4.760279, 52.957976]
       },
       "properties": {
         "name": "Den Helder",
@@ -1741,10 +1347,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.80446,
-          52.788239
-        ]
+        "coordinates": [4.80446, 52.788239]
       },
       "properties": {
         "name": "Schagen",
@@ -1755,10 +1358,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.8111119,
-          52.703125
-        ]
+        "coordinates": [4.811112, 52.703125]
       },
       "properties": {
         "name": "Noord-Scharwoude",
@@ -1769,10 +1369,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.809355,
-          52.691674
-        ]
+        "coordinates": [4.809355, 52.691674]
       },
       "properties": {
         "name": "Zuid-Scharwoude",
@@ -1783,10 +1380,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.8381941,
-          52.743716
-        ]
+        "coordinates": [4.838194, 52.743716]
       },
       "properties": {
         "name": "Zijdewind",
@@ -1797,10 +1391,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.8031082,
-          52.675121
-        ]
+        "coordinates": [4.803108, 52.675121]
       },
       "properties": {
         "name": "Broek op Langedijk",
@@ -1811,10 +1402,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.8326661,
-          52.663148
-        ]
+        "coordinates": [4.832666, 52.663148]
       },
       "properties": {
         "name": "Heerhugowaard",
@@ -1825,10 +1413,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.7503786,
-          52.631259
-        ]
+        "coordinates": [4.750379, 52.631259]
       },
       "properties": {
         "name": "Alkmaar",
@@ -1839,10 +1424,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.8924571,
-          52.373075
-        ]
+        "coordinates": [4.892457, 52.373075]
       },
       "properties": {
         "name": "Amsterdam",
@@ -1853,10 +1435,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.3015591,
-          52.157282
-        ]
+        "coordinates": [6.301559, 52.157282]
       },
       "properties": {
         "name": "Almen",
@@ -1867,10 +1446,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.8939008,
-          52.788937
-        ]
+        "coordinates": [6.893901, 52.788937]
       },
       "properties": {
         "name": "Emmen",
@@ -1881,10 +1457,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.7979341,
-          52.793196
-        ]
+        "coordinates": [6.797934, 52.793196]
       },
       "properties": {
         "name": "Noord-Sleen",
@@ -1895,10 +1468,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.8031295,
-          52.772369
-        ]
+        "coordinates": [6.803129, 52.772369]
       },
       "properties": {
         "name": "Sleen",
@@ -1909,10 +1479,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.365967,
-          53.09465
-        ]
+        "coordinates": [6.365967, 53.09465]
       },
       "properties": {
         "name": "Amerika",
@@ -1923,10 +1490,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.254119,
-          51.921991
-        ]
+        "coordinates": [4.254119, 51.921991]
       },
       "properties": {
         "name": "Maassluis",
@@ -1937,10 +1501,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.5722362,
-          51.960866
-        ]
+        "coordinates": [5.572236, 51.960866]
       },
       "properties": {
         "name": "Rhenen",
@@ -1951,10 +1512,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.2893383,
-          51.656815
-        ]
+        "coordinates": [5.289338, 51.656815]
       },
       "properties": {
         "name": "Vught",
@@ -1965,10 +1523,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.6662806,
-          51.966302
-        ]
+        "coordinates": [5.666281, 51.966302]
       },
       "properties": {
         "name": "Wageningen",
@@ -1979,10 +1534,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          9.7385442,
-          52.37449
-        ]
+        "coordinates": [9.738544, 52.37449]
       },
       "properties": {
         "name": "Hannover",
@@ -1993,10 +1545,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.292742,
-          51.738873
-        ]
+        "coordinates": [6.292742, 51.738873]
       },
       "properties": {
         "name": "Kalkar",
@@ -2007,10 +1556,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1979186,
-          51.320725
-        ]
+        "coordinates": [6.197919, 51.320725]
       },
       "properties": {
         "name": "Kaldenkirchen",
@@ -2021,10 +1567,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.3437368,
-          51.336078
-        ]
+        "coordinates": [6.343737, 51.336078]
       },
       "properties": {
         "name": "Grefrath",
@@ -2035,10 +1578,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.9796752,
-          50.254485
-        ]
+        "coordinates": [6.979675, 50.254485]
       },
       "properties": {
         "name": "Gunderath",
@@ -2049,10 +1589,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.1663194,
-          50.148392
-        ]
+        "coordinates": [7.166319, 50.148392]
       },
       "properties": {
         "name": "Cochem",
@@ -2063,10 +1600,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          19.040232,
-          47.497884
-        ]
+        "coordinates": [19.040232, 47.497884]
       },
       "properties": {
         "name": "Budapest",
@@ -2077,10 +1611,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          18.750466,
-          47.444881
-        ]
+        "coordinates": [18.750466, 47.444881]
       },
       "properties": {
         "name": "Etyek",
@@ -2091,10 +1622,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          3.7250309,
-          51.053823
-        ]
+        "coordinates": [3.725031, 51.053823]
       },
       "properties": {
         "name": "Gent",
@@ -2105,10 +1633,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.4730006,
-          50.880621
-        ]
+        "coordinates": [4.473001, 50.880621]
       },
       "properties": {
         "name": "Zaventem",
@@ -2119,10 +1644,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.7585138,
-          51.350371
-        ]
+        "coordinates": [4.758514, 51.350371]
       },
       "properties": {
         "name": "Rijkevorsel",
@@ -2133,10 +1655,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1833937,
-          48.693727
-        ]
+        "coordinates": [6.183394, 48.693727]
       },
       "properties": {
         "name": "Nancy",
@@ -2147,10 +1666,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.37634616,
-          39.469715
-        ]
+        "coordinates": [-0.376346, 39.469715]
       },
       "properties": {
         "name": "València",
@@ -2161,10 +1677,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.48818356,
-          38.343629
-        ]
+        "coordinates": [-0.488184, 38.343629]
       },
       "properties": {
         "name": "Alacant / Alicante",
@@ -2175,10 +1688,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          12.482938,
-          41.893321
-        ]
+        "coordinates": [12.482938, 41.893321]
       },
       "properties": {
         "name": "Roma",
@@ -2189,10 +1699,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          13.397979,
-          42.348923
-        ]
+        "coordinates": [13.397979, 42.348923]
       },
       "properties": {
         "name": "L'Aquila",
@@ -2203,10 +1710,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          12.227892,
-          41.771204
-        ]
+        "coordinates": [12.227892, 41.771204]
       },
       "properties": {
         "name": "Fiumicino",
@@ -2217,10 +1721,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          28.085479,
-          36.091557
-        ]
+        "coordinates": [28.085479, 36.091557]
       },
       "properties": {
         "name": "Λίνδος",
@@ -2231,10 +1732,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          28.016549,
-          36.093915
-        ]
+        "coordinates": [28.016549, 36.093915]
       },
       "properties": {
         "name": "Λάρδος",
@@ -2245,10 +1743,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.58003709,
-          44.841226
-        ]
+        "coordinates": [-0.580037, 44.841226]
       },
       "properties": {
         "name": "Bordeaux",
@@ -2259,10 +1754,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.52398697,
-          44.855288
-        ]
+        "coordinates": [-0.523987, 44.855288]
       },
       "properties": {
         "name": "Cenon",
@@ -2273,10 +1765,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.52082196,
-          44.832701
-        ]
+        "coordinates": [-0.520822, 44.832701]
       },
       "properties": {
         "name": "Floirac",
@@ -2287,10 +1776,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          2.3483923,
-          48.853496
-        ]
+        "coordinates": [2.348392, 48.853496]
       },
       "properties": {
         "name": "Paris",
@@ -2301,10 +1787,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          0.61761216,
-          44.201583
-        ]
+        "coordinates": [0.617612, 44.201583]
       },
       "properties": {
         "name": "Agen",
@@ -2315,10 +1798,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.5212457,
-          42.506938
-        ]
+        "coordinates": [1.521246, 42.506938]
       },
       "properties": {
         "name": "Andorra la Vella",
@@ -2329,10 +1809,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.5404074,
-          42.509002
-        ]
+        "coordinates": [1.540407, 42.509002]
       },
       "properties": {
         "name": "les Escaldes",
@@ -2343,10 +1820,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.5418907,
-          42.512051
-        ]
+        "coordinates": [1.541891, 42.512051]
       },
       "properties": {
         "name": "Engordany",
@@ -2357,10 +1831,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.4442517,
-          43.604468
-        ]
+        "coordinates": [1.444252, 43.604468]
       },
       "properties": {
         "name": "Toulouse",
@@ -2371,10 +1842,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.3600689,
-          43.837424
-        ]
+        "coordinates": [4.360069, 43.837424]
       },
       "properties": {
         "name": "Nîmes",
@@ -2385,10 +1853,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.3699528,
-          43.296175
-        ]
+        "coordinates": [5.369953, 43.296175]
       },
       "properties": {
         "name": "Marseille",
@@ -2399,10 +1864,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.2683909,
-          43.700936
-        ]
+        "coordinates": [7.268391, 43.700936]
       },
       "properties": {
         "name": "Nice",
@@ -2413,10 +1875,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.4197586,
-          43.731142
-        ]
+        "coordinates": [7.419759, 43.731142]
       },
       "properties": {
         "name": "Monaco",
@@ -2427,10 +1886,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.6033339,
-          43.791749
-        ]
+        "coordinates": [7.603334, 43.791749]
       },
       "properties": {
         "name": "Ventimiglia",
@@ -2441,10 +1897,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          8.933863,
-          44.40726
-        ]
+        "coordinates": [8.933863, 44.40726]
       },
       "properties": {
         "name": "Genova",
@@ -2455,10 +1908,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          9.189614,
-          45.464183
-        ]
+        "coordinates": [9.189614, 45.464183]
       },
       "properties": {
         "name": "Milano",
@@ -2469,10 +1919,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          8.9520269,
-          46.00501
-        ]
+        "coordinates": [8.952027, 46.00501]
       },
       "properties": {
         "name": "Lugano",
@@ -2483,10 +1930,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          8.5410343,
-          47.374455
-        ]
+        "coordinates": [8.541034, 47.374455]
       },
       "properties": {
         "name": "Zürich",
@@ -2497,10 +1941,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          9.4401997,
-          47.048264
-        ]
+        "coordinates": [9.4402, 47.048264]
       },
       "properties": {
         "name": "Sargans",
@@ -2511,10 +1952,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          9.5227956,
-          47.139287
-        ]
+        "coordinates": [9.522796, 47.139287]
       },
       "properties": {
         "name": "Vaduz",
@@ -2525,10 +1963,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          9.5103126,
-          47.166339
-        ]
+        "coordinates": [9.510313, 47.166339]
       },
       "properties": {
         "name": "Schaan",
@@ -2539,10 +1974,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          9.5981737,
-          47.237567
-        ]
+        "coordinates": [9.598174, 47.237567]
       },
       "properties": {
         "name": "Feldkirch",
@@ -2553,10 +1985,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          14.286198,
-          48.305909
-        ]
+        "coordinates": [14.286198, 48.305909]
       },
       "properties": {
         "name": "Linz",
@@ -2567,10 +1996,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          16.372503,
-          48.208353
-        ]
+        "coordinates": [16.372503, 48.208353]
       },
       "properties": {
         "name": "Wien",
@@ -2581,10 +2007,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          17.109306,
-          48.1517
-        ]
+        "coordinates": [17.109306, 48.1517]
       },
       "properties": {
         "name": "Bratislava",
@@ -2595,10 +2018,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          17.112329,
-          48.140589
-        ]
+        "coordinates": [17.112329, 48.140589]
       },
       "properties": {
         "name": "Staré Mesto",
@@ -2609,10 +2029,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          16.611338,
-          49.192244
-        ]
+        "coordinates": [16.611338, 49.192244]
       },
       "properties": {
         "name": "Brno",
@@ -2623,10 +2040,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          14.421252,
-          50.087466
-        ]
+        "coordinates": [14.421252, 50.087466]
       },
       "properties": {
         "name": "Praha",
@@ -2637,10 +2051,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          13.377524,
-          49.747741
-        ]
+        "coordinates": [13.377524, 49.747741]
       },
       "properties": {
         "name": "Plzeň",
@@ -2651,10 +2062,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          11.575383,
-          48.137108
-        ]
+        "coordinates": [11.575383, 48.137108]
       },
       "properties": {
         "name": "München",
@@ -2665,10 +2073,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          10.877856,
-          48.424814
-        ]
+        "coordinates": [10.877856, 48.424814]
       },
       "properties": {
         "name": "Gersthofen",
@@ -2679,10 +2084,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          10.897953,
-          48.369035
-        ]
+        "coordinates": [10.897953, 48.369035]
       },
       "properties": {
         "name": "Augsburg",
@@ -2693,10 +2095,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          9.180012,
-          48.778448
-        ]
+        "coordinates": [9.180012, 48.778448]
       },
       "properties": {
         "name": "Stuttgart",
@@ -2707,10 +2106,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          8.4673088,
-          49.48929
-        ]
+        "coordinates": [8.467309, 49.48929]
       },
       "properties": {
         "name": "Mannheim",
@@ -2721,10 +2117,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          8.682092,
-          50.110645
-        ]
+        "coordinates": [8.682092, 50.110645]
       },
       "properties": {
         "name": "Frankfurt am Main",
@@ -2735,10 +2128,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          8.2762524,
-          50.001231
-        ]
+        "coordinates": [8.276252, 50.001231]
       },
       "properties": {
         "name": "Mainz",
@@ -2749,10 +2139,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.7763128,
-          51.225403
-        ]
+        "coordinates": [6.776313, 51.225403]
       },
       "properties": {
         "name": "Düsseldorf",
@@ -2763,10 +2150,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0426991,
-          51.584143
-        ]
+        "coordinates": [6.042699, 51.584143]
       },
       "properties": {
         "name": "Aijen",
@@ -2777,66 +2161,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0923495,
-          51.642083
-        ]
-      },
-      "properties": {
-        "name": "Groote Horst",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0756205,
-          51.642322
-        ]
-      },
-      "properties": {
-        "name": "Kleine Horst",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0736599,
-          51.65987
-        ]
-      },
-      "properties": {
-        "name": "Vrij",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0411595,
-          51.66552
-        ]
-      },
-      "properties": {
-        "name": "Op de Belt",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0779755,
-          51.283932
-        ]
+        "coordinates": [6.077975, 51.283932]
       },
       "properties": {
         "name": "Reuver",
@@ -2847,10 +2172,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8572726,
-          51.717783
-        ]
+        "coordinates": [5.857273, 51.717783]
       },
       "properties": {
         "name": "Vianen",
@@ -2861,10 +2183,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8588256,
-          51.734101
-        ]
+        "coordinates": [5.858826, 51.734101]
       },
       "properties": {
         "name": "Ewinkel",
@@ -2875,66 +2194,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.8316146,
-          51.734766
-        ]
-      },
-      "properties": {
-        "name": "Dommelsvoort",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0290011,
-          51.634156
-        ]
-      },
-      "properties": {
-        "name": "Rimpelt",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0514512,
-          51.636486
-        ]
-      },
-      "properties": {
-        "name": "Bleijenbeek",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0245298,
-          51.625963
-        ]
-      },
-      "properties": {
-        "name": "Gening",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0786997,
-          51.535821
-        ]
+        "coordinates": [6.0787, 51.535821]
       },
       "properties": {
         "name": "Wanssum",
@@ -2945,24 +2205,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9324389,
-          51.66596
-        ]
-      },
-      "properties": {
-        "name": "Startwijk",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.9990006,
-          51.607273
-        ]
+        "coordinates": [5.999001, 51.607273]
       },
       "properties": {
         "name": "Groeningen",
@@ -2973,10 +2216,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9897872,
-          51.588481
-        ]
+        "coordinates": [5.989787, 51.588481]
       },
       "properties": {
         "name": "Schafferden",
@@ -2987,10 +2227,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0346364,
-          51.682323
-        ]
+        "coordinates": [6.034636, 51.682323]
       },
       "properties": {
         "name": "Hommersum",
@@ -3001,52 +2238,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0522987,
-          51.616744
-        ]
-      },
-      "properties": {
-        "name": "Smal",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.7063125,
-          51.588701
-        ]
-      },
-      "properties": {
-        "name": "Huize Padua",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.6948032,
-          51.595434
-        ]
-      },
-      "properties": {
-        "name": "Arendnest",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.8087971,
-          51.668983
-        ]
+        "coordinates": [5.808797, 51.668983]
       },
       "properties": {
         "name": "De Boer",
@@ -3057,38 +2249,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7605039,
-          51.685863
-        ]
-      },
-      "properties": {
-        "name": "Meeren",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.7363452,
-          51.69626
-        ]
-      },
-      "properties": {
-        "name": "Zuid-Carolina",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0501127,
-          51.550683
-        ]
+        "coordinates": [6.050113, 51.550683]
       },
       "properties": {
         "name": "Geijsteren",
@@ -3099,24 +2260,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9961091,
-          51.565246
-        ]
-      },
-      "properties": {
-        "name": "Loobeek",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.9108578,
-          51.984257
-        ]
+        "coordinates": [5.910858, 51.984257]
       },
       "properties": {
         "name": "Arnhem",
@@ -3127,10 +2271,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0363611,
-          51.510947
-        ]
+        "coordinates": [6.036361, 51.510947]
       },
       "properties": {
         "name": "Oirlo",
@@ -3141,10 +2282,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.7760232,
-          51.588784
-        ]
+        "coordinates": [4.776023, 51.588784]
       },
       "properties": {
         "name": "Breda",
@@ -3155,10 +2293,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0348081,
-          51.489486
-        ]
+        "coordinates": [6.034808, 51.489486]
       },
       "properties": {
         "name": "Castenray",
@@ -3169,10 +2304,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.7471385,
-          51.743408
-        ]
+        "coordinates": [5.747139, 51.743408]
       },
       "properties": {
         "name": "Escharen",
@@ -3183,10 +2315,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          106.70114,
-          10.776391
-        ]
+        "coordinates": [106.70114, 10.776391]
       },
       "properties": {
         "name": "Thành phố Hồ Chí Minh",
@@ -3197,10 +2326,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          123.90192,
-          10.293564
-        ]
+        "coordinates": [123.90192, 10.293564]
       },
       "properties": {
         "name": "Cebu City",
@@ -3211,10 +2337,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          124.60908,
-          11.005292
-        ]
+        "coordinates": [124.60908, 11.005292]
       },
       "properties": {
         "name": "Ormoc",
@@ -3225,10 +2348,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          124.79775,
-          10.677803
-        ]
+        "coordinates": [124.79775, 10.677803]
       },
       "properties": {
         "name": "Baybay",
@@ -3239,10 +2359,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          124.49049,
-          10.680663
-        ]
+        "coordinates": [124.49049, 10.680663]
       },
       "properties": {
         "name": "Puertobello",
@@ -3253,10 +2370,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          124.40734,
-          10.628766
-        ]
+        "coordinates": [124.40734, 10.628766]
       },
       "properties": {
         "name": "Poro",
@@ -3267,10 +2381,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          124.34241,
-          10.688578
-        ]
+        "coordinates": [124.34241, 10.688578]
       },
       "properties": {
         "name": "Cabonga-an",
@@ -3281,10 +2392,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          124.32474,
-          10.715539
-        ]
+        "coordinates": [124.32474, 10.715539]
       },
       "properties": {
         "name": "Tulang Diot",
@@ -3295,10 +2403,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          123.94273,
-          10.326906
-        ]
+        "coordinates": [123.94273, 10.326906]
       },
       "properties": {
         "name": "Mandaue",
@@ -3309,10 +2414,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          123.99876,
-          10.399849
-        ]
+        "coordinates": [123.99876, 10.399849]
       },
       "properties": {
         "name": "Liloan",
@@ -3323,10 +2425,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          108.43758,
-          11.940241
-        ]
+        "coordinates": [108.43758, 11.940241]
       },
       "properties": {
         "name": "Đà Lạt",
@@ -3337,10 +2436,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          108.34599,
-          11.921099
-        ]
+        "coordinates": [108.34599, 11.921099]
       },
       "properties": {
         "name": "Tà Nung",
@@ -3351,10 +2447,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          108.37425,
-          11.731988
-        ]
+        "coordinates": [108.37425, 11.731988]
       },
       "properties": {
         "name": "Liên Nghĩa",
@@ -3365,10 +2458,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          106.36584,
-          10.36062
-        ]
+        "coordinates": [106.36584, 10.36062]
       },
       "properties": {
         "name": "Mỹ Tho",
@@ -3379,10 +2469,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          106.52302,
-          11.034453
-        ]
+        "coordinates": [106.52302, 11.034453]
       },
       "properties": {
         "name": "Phạm Văn Cội",
@@ -3393,10 +2480,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.6729083,
-          51.694642
-        ]
+        "coordinates": [5.672908, 51.694642]
       },
       "properties": {
         "name": "Zeeland",
@@ -3407,10 +2491,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.02755,
-          50.054791
-        ]
+        "coordinates": [6.02755, 50.054791]
       },
       "properties": {
         "name": "Clervaux",
@@ -3421,10 +2502,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.1297985,
-          49.611276
-        ]
+        "coordinates": [6.129798, 49.611276]
       },
       "properties": {
         "name": "Luxembourg",
@@ -3435,10 +2513,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.9321009,
-          49.966691
-        ]
+        "coordinates": [5.932101, 49.966691]
       },
       "properties": {
         "name": "Wiltz",
@@ -3449,10 +2524,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0180925,
-          49.952835
-        ]
+        "coordinates": [6.018092, 49.952835]
       },
       "properties": {
         "name": "Kautenbach",
@@ -3463,10 +2535,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.3071059,
-          49.790269
-        ]
+        "coordinates": [6.307106, 49.790269]
       },
       "properties": {
         "name": "Mullerthal",
@@ -3477,10 +2546,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.421486,
-          49.812096
-        ]
+        "coordinates": [6.421486, 49.812096]
       },
       "properties": {
         "name": "Echternach",
@@ -3491,10 +2557,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.35096,
-          49.822329
-        ]
+        "coordinates": [6.35096, 49.822329]
       },
       "properties": {
         "name": "Berdorf",
@@ -3505,10 +2568,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.0984649,
-          49.847002
-        ]
+        "coordinates": [6.098465, 49.847002]
       },
       "properties": {
         "name": "Ettelbruck",
@@ -3519,10 +2579,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.6557046,
-          51.644077
-        ]
+        "coordinates": [5.655705, 51.644077]
       },
       "properties": {
         "name": "Volkel",
@@ -3533,10 +2590,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.0885803,
-          51.556253
-        ]
+        "coordinates": [5.08858, 51.556253]
       },
       "properties": {
         "name": "Tilburg",
@@ -3547,10 +2601,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          23.760313,
-          61.498021
-        ]
+        "coordinates": [23.760313, 61.498021]
       },
       "properties": {
         "name": "Tampere",
@@ -3561,24 +2612,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          23.852892,
-          61.483953
-        ]
-      },
-      "properties": {
-        "name": "Messukylä",
-        "marker-color": "red"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.942748,
-          60.167488
-        ]
+        "coordinates": [24.942748, 60.167488]
       },
       "properties": {
         "name": "Helsinki",
@@ -3589,10 +2623,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          24.74537,
-          59.437216
-        ]
+        "coordinates": [24.74537, 59.437216]
       },
       "properties": {
         "name": "Tallinn",
@@ -3603,10 +2634,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          24.466541,
-          60.994858
-        ]
+        "coordinates": [24.466541, 60.994858]
       },
       "properties": {
         "name": "Hämeenlinna",
@@ -3617,10 +2645,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          24.105186,
-          56.949398
-        ]
+        "coordinates": [24.105186, 56.949398]
       },
       "properties": {
         "name": "Rīga",
@@ -3631,10 +2656,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          25.282911,
-          54.687045
-        ]
+        "coordinates": [25.282911, 54.687045]
       },
       "properties": {
         "name": "Vilnius",
@@ -3645,10 +2667,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          24.935399,
-          54.644991
-        ]
+        "coordinates": [24.935399, 54.644991]
       },
       "properties": {
         "name": "Trakai",
@@ -3659,10 +2678,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          27.534811,
-          68.658818
-        ]
+        "coordinates": [27.534811, 68.658818]
       },
       "properties": {
         "name": "Ivalo",
@@ -3673,10 +2689,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          27.026076,
-          68.906245
-        ]
+        "coordinates": [27.026076, 68.906245]
       },
       "properties": {
         "name": "Inari",
@@ -3687,10 +2700,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          25.731221,
-          66.502566
-        ]
+        "coordinates": [25.731221, 66.502566]
       },
       "properties": {
         "name": "Rovaniemi",
@@ -3701,10 +2711,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          22.267052,
-          60.451754
-        ]
+        "coordinates": [22.267052, 60.451754]
       },
       "properties": {
         "name": "Turku",
@@ -3715,10 +2722,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          18.071092,
-          59.325117
-        ]
+        "coordinates": [18.071092, 59.325117]
       },
       "properties": {
         "name": "Stockholm",
@@ -3729,10 +2733,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          10.738971,
-          59.91333
-        ]
+        "coordinates": [10.738971, 59.91333]
       },
       "properties": {
         "name": "Oslo",
@@ -3743,10 +2744,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          12.570072,
-          55.686724
-        ]
+        "coordinates": [12.570072, 55.686724]
       },
       "properties": {
         "name": "København",
@@ -3757,10 +2755,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.1038938,
-          51.914272
-        ]
+        "coordinates": [4.103894, 51.914272]
       },
       "properties": {
         "name": "Oostvoorne",
@@ -3771,10 +2766,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.1626288,
-          51.901663
-        ]
+        "coordinates": [4.162629, 51.901663]
       },
       "properties": {
         "name": "Brielle",
@@ -3785,13 +2777,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          28.08374113,
-          36.39976035
-        ]
+        "coordinates": [28.083741, 36.39976]
       },
       "properties": {
         "name": "Παραδείσι",
+        "marker-color": "red"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.45283538, 41.90349205]
+      },
+      "properties": {
+        "name": "Civitas Vaticana - Città del Vaticano",
         "marker-color": "red"
       }
     }

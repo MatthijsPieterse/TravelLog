@@ -1,8 +1,8 @@
 {
   "globalStats": {
-    "totalCountries": 26,
-    "totalCities": 271,
-    "totalContinents": 2
+    "totalNations": 26,
+    "totalPlaces": 254,
+    "totalRegions": 3
   },
   "tileStats": {
     "grid1": {
@@ -62,13 +62,13 @@
     "airlinesFlown": 9,
     "timeInAir": "57h 13m",
     "distanceTraveled": {
-      "plane": "37.300km",
-      "train": "10.364km",
-      "bus": "5.351km",
-      "boat": "914,6km",
-      "car": "157,4km",
-      "bike": "75,1km",
-      "total": "54.162km"
+      "plane": "37.300",
+      "train": "10.364",
+      "bus": "5.351",
+      "boat": "914,6",
+      "car": "157,4",
+      "bike": "75,1",
+      "total": "54.162"
     },
     "longest": {
       "Flight": {
@@ -131,14 +131,14 @@
   "personal": {
     "favouriteTravelDestinations": {
       "overall": {
-        "countries": [
+        "nations": [
           "Philippines",
           "Vietnam",
           "Andorra",
           "Italy",
           "Spain"
         ],
-        "cities": [
+        "places": [
           "Budapest",
           "Andorra la Vella",
           "Prague",
@@ -146,16 +146,16 @@
           "Valencia"
         ]
       },
-      "byContinent": {
+      "byRegion": {
         "Europe": {
-          "countries": [
+          "nations": [
             "Andorra",
             "Italy",
             "Spain",
             "Hungary",
             "Switzerland"
           ],
-          "cities": [
+          "places": [
             "Budapest",
             "Andorra la Vella",
             "Prague",
@@ -164,18 +164,18 @@
           ]
         },
         "Asia": {
-          "countries": [
+          "nations": [
             "Philippines",
             "Vietnam"
           ],
-          "cities": [
+          "places": [
             "Da Lat",
             "Ho Chi Minh City"
           ]
         }
       },
       "netherlands": {
-        "cities": [
+        "places": [
           "Valkenburg",
           "Utrecht",
           "Zutphen"

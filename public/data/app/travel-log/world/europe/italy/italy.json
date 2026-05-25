@@ -1,0 +1,54 @@
+{
+  "name": "italy",
+  "data": [],
+  "places": [
+    {
+      "name": "Roma",
+      "englishName": "",
+      "coordinates": [
+        12.482938,
+        41.893321
+      ]
+    },
+    {
+      "name": "L'Aquila",
+      "englishName": "",
+      "coordinates": [
+        13.397979,
+        42.348923
+      ]
+    },
+    {
+      "name": "Fiumicino",
+      "englishName": "",
+      "coordinates": [
+        12.227892,
+        41.771204
+      ]
+    },
+    {
+      "name": "Ventimiglia",
+      "englishName": "",
+      "coordinates": [
+        7.603334,
+        43.791749
+      ]
+    },
+    {
+      "name": "Genova",
+      "englishName": "",
+      "coordinates": [
+        8.933863,
+        44.40726
+      ]
+    },
+    {
+      "name": "Milano",
+      "englishName": "",
+      "coordinates": [
+        9.189614,
+        45.464183
+      ]
+    }
+  ]
+}

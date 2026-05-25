@@ -1,0 +1,70 @@
+{
+  "name": "luxembourg",
+  "data": [],
+  "places": [
+    {
+      "name": "Clervaux",
+      "englishName": "",
+      "coordinates": [
+        6.02755,
+        50.054791
+      ]
+    },
+    {
+      "name": "Luxembourg",
+      "englishName": "",
+      "coordinates": [
+        6.129798,
+        49.611276
+      ]
+    },
+    {
+      "name": "Wiltz",
+      "englishName": "",
+      "coordinates": [
+        5.932101,
+        49.966691
+      ]
+    },
+    {
+      "name": "Kautenbach",
+      "englishName": "",
+      "coordinates": [
+        6.018092,
+        49.952835
+      ]
+    },
+    {
+      "name": "Mullerthal",
+      "englishName": "",
+      "coordinates": [
+        6.307106,
+        49.790269
+      ]
+    },
+    {
+      "name": "Echternach",
+      "englishName": "",
+      "coordinates": [
+        6.421486,
+        49.812096
+      ]
+    },
+    {
+      "name": "Berdorf",
+      "englishName": "",
+      "coordinates": [
+        6.35096,
+        49.822329
+      ]
+    },
+    {
+      "name": "Ettelbruck",
+      "englishName": "",
+      "coordinates": [
+        6.098465,
+        49.847002
+      ]
+    }
+  ]
+}

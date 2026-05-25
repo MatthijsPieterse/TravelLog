@@ -1,12 +1,15 @@
 import type { VisitedGeoJSON } from "../../types.ts";
+import { readDir, TRAVEL_LOG_WORLD_DIR } from "../../utils/fileUtils.ts";
 
 export const getGlobalStats = (
-  visitedCountries: VisitedGeoJSON,
+  visitedNations: VisitedGeoJSON,
   visitedPlaces: VisitedGeoJSON,
 ) => {
   return {
-    totalCountries: visitedCountries.features.length,
-    totalCities: visitedPlaces.features.length,
-    totalContinents: 2, // set manually for now, might change it later (only if I'll specify which country and city belongs to which continent in the future)
+    totalNations: visitedNations.features.length,
+    totalPlaces: visitedPlaces.features.length,
+    totalRegions: readDir(TRAVEL_LOG_WORLD_DIR).filter(
+      (entry) => !entry.endsWith(".json"),
+    ).length,
   };
 };
