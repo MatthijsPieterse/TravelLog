@@ -12,7 +12,7 @@
         "commonTransportTypes": [
           {
             "type": "",
-            "notes": ""
+            "notes": []
           }
         ],
         "majorTravelCorridors": [
@@ -24,19 +24,11 @@
         ]
       },
       "favourites": {
-        "countries": [
-          {
-            "name": "",
-            "knownFor": [],
-            "notes": ""
-          }
-        ],
+        "nations": [""],
         "places": [
           {
             "name": "",
-            "country": "",
-            "knownFor": [],
-            "notes": ""
+            "country": ""
           }
         ]
       },

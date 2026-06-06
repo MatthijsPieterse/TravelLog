@@ -1,6 +1,145 @@
 {
   "name": "italy",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★★☆",
+        "affordability": "★★★⯪☆",
+        "transportRating": "★★☆☆☆",
+        "foodRating": "★★★★★",
+        "returnInterest": {
+          "level": "★★★★☆",
+          "note": "Definitely want to return, especially because of the food."
+        }
+      },
+      "description": {
+        "intro": "Italy is a Southern European country known for its exceptional cuisine, historic cities, wine culture, and beautiful countryside. What stood out most to me was the food, which I consider among the best in the world, along with the coffee, wine, and rich history. I really enjoyed my time there and would happily return.",
+        "standouts": [
+          "The food was outstanding.",
+          "Fantastic coffee culture.",
+          "The wines were amazing.",
+          "The countryside is beautiful.",
+          "The history was fascinating.",
+          "Unreliable public transport outside major cities."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [
+          "I noticed that people were very supportive of visitors trying to learn Italian.",
+          "Food, coffee, and wine seemed to be important sources of local pride."
+        ],
+        "personalNotes": [
+          "I consider Italy to have one of the best cuisines in the world.",
+          "I had some of the best coffee I have ever tasted here, often at surprisingly low prices.",
+          "The reputation of northern Italy being less friendly compared to the middle and south matched my personal experience.",
+          "I loved both the country and its food."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [
+          "Both cash and cards are widely accepted."
+        ],
+        "transportNotes": [
+          "There is a decent train network connecting the major cities.",
+          "Larger cities generally have bus and tram networks.",
+          "Outside major cities, I found that bus schedules are very unreliable."
+        ],
+        "languageNotes": [
+          "Italian is the official language.",
+          "Many people outside major cities often do not speak much English."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "The weather is generally very good, although it can become extremely hot."
+            ]
+          },
+          {
+            "season": "Winter",
+            "notes": [
+              "The weather is generally pleasant.",
+              "Nights can become quite cold."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Pizza (Bianca)",
+          "Risotto",
+          "Arancini",
+          "Bruschetta",
+          "Carpaccio",
+          "Melanzane alla Parmigiana",
+          "Lasagna",
+          "Pasta Carbonara",
+          "Gnocchi",
+          "Pasta al Pesto",
+          "Tiramisu",
+          "Panna Cotta",
+          "Gelato"
+        ],
+        "foodNotes": [
+          "I found the coffee exceptional.",
+          "Italy produces some amazing wines."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Lazio",
+          "knownFor": [
+            "Historical significance",
+            "Architecture",
+            "Landscapes",
+            "Rome"
+          ],
+          "notes": []
+        },
+        {
+          "name": "Abruzzo",
+          "knownFor": [
+            "Nature and wildlife",
+            "History",
+            "Mountains",
+            "Teramano Coast"
+          ],
+          "notes": []
+        },
+        {
+          "name": "Liguria",
+          "knownFor": [
+            "Italian Riviera",
+            "Genoa (Genova)",
+            "Pesto"
+          ],
+          "notes": []
+        },
+        {
+          "name": "Lombardy",
+          "knownFor": [
+            "Lakes",
+            "Milan",
+            "Alps",
+            "Art",
+            "Fashion"
+          ],
+          "notes": []
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Roma",

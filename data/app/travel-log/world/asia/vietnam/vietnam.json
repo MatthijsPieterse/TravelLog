@@ -4,65 +4,170 @@
   "data": [
     {
       "summary": {
-        "overallRating": null,
-        "affordability": null,
-        "transportRating": null,
-        "foodRating": null,
+        "overallRating": "★★★★★",
+        "affordability": "★★★★★",
+        "transportRating": "★★★★⯪",
+        "foodRating": "★★★★☆",
         "returnInterest": {
-          "level": null,
-          "note": ""
+          "level": "★★★★★",
+          "note": "I for sure want to come back and travel through the entire country."
         }
       },
       "description": {
-        "intro": "",
-        "pros": [],
-        "cons": [],
-        "tips": [],
-        "thingsToKnow": [],
-        "culturalNotes": [],
-        "personalNotes": []
+        "intro": "Vietnam is a Southeast Asian country known for its diverse landscapes, vibrant cities, rich food culture, and long coastline. I found it to be an amazing and extremely affordable place to visit, with beautiful nature, welcoming people, great cities, and excellent food. Even after my trip, I felt there was still so much more of the country left to explore.",
+        "standouts": [
+          "I found Vietnam extremely affordable.",
+          "The natural scenery was stunning.",
+          "The backpacking atmosphere was amazing.",
+          "Domestic travel was very cheap.",
+          "There was a huge variety of activities to experience.",
+          "I found the country very safe and easy to travel around.",
+          "Scams are fairly common, so it helps to stay alert.",
+          "Pickpocketing is common in crowded areas, but easy to deter if you keep everything in one place."
+        ],
+        "tips": [
+          "Try local restaurants even if the food looks unusual.",
+          "Use common sense when choosing places to eat, to not get hit with bad food poisoning.",
+          "Go on a food tour if you are nervous about trying unfamiliar food.",
+          "Do not be afraid to negotiate prices.",
+          "Practice negotiating at markets or souvenir shops.",
+          "Remember your own financial position when negotiating very small amounts and don't over do it; 30 cents is not worth continuing to negotiate for.",
+          "You can judge prices partly based on whether a place is in a city, has seating, has a nice view, or looks luxurious; as every one of those things adds a bit to the price."
+        ],
+        "thingsToKnow": [
+          "The south, especially Ho Chi Minh City/ Saigon, feels more modern.",
+          "The more north you go the cheaper it is.",
+          "Vietnam has many famous attractions such as Hang Sơn Đoòng, Ha Long Bay, and the Ha Giang Loop.",
+          "Food poisoning can happen relatively often but usually passes quickly, and is not really something to worry about.",
+          "Vietnam only has two seasons and when the rainy season starts and ends differs a lot between the north, centre, and south."
+        ],
+        "culturalNotes": [
+          "Negotiating prices is very common.",
+          "People are proactive about using Google Translate to communicate."
+        ],
+        "personalNotes": [
+          "Had an amazing time in Vietnam.",
+          "Regrettably didn't have enough time to visit many places.",
+          "Thought coconut coffee was the least enjoyable of the three special coffees.",
+          "Egg coffee was my absolute favorite.",
+          "Personally found Robusta coffee too bitter as plain black coffee, even though I usually only drink espresso and black coffee.",
+          "Thought drip coffee made with Moka beans is the best as the coffee made with those beans has a slight chocolate taste to it."
+        ]
       },
       "travelPracticalities": {
-        "visaNotes": "",
-        "currencyNotes": "",
-        "paymentMethods": [],
-        "transportTips": [],
-        "languageTips": [],
-        "packingNotes": [],
+        "visaNotes": "At the time I needed an E-visa which can be requested fairly easily online and lets you stay up to 90 days, with about a week or two of processing time. But now I can go Visa free for up to 45 days.",
+        "currency": "Vietnamese Dong (₫ or D, VND).",
+        "paymentNotes": [
+          "Cash is king in Vietnam.",
+          "Even in places that accept cards, I would recommend using cash, as there are places that will scam you through skimming your card.",
+          "VPBank and TPBank ATMs do not charge foreign transaction fees, so use them if you can find them.",
+          "Withdrawal limits are usually 5,000,000 or 20,000,000 VND and withdrawals are always given in 500,000 VND notes.",
+          "Large notes can be difficult to use with smaller vendors because they may not have enough change.", 
+          "A large wallet is useful because Vietnamese notes are physically larger than euros."
+        ],
+        "transportNotes": [
+          "Changing or inflated ride prices are one of the most common scams, but can be easily avoided through: discussing and agreeing on the fare in advance with taxi or other drivers when booking outside an app.",
+          "For taxi's and for other drivers that don't—want to—go through an app you can show the Grab price and usually knock a bit more off—as they don't have to pay commission. To get a good price for your ride.",
+          "You can ask drivers to wait for you if you go and do an activity outside the city where it is harder to find transport; you don't have to pay for the waiting time.",
+          "Apps like Grab or Gojek are among the easiest and most affordable ways to get around cities.",
+          "Motorcycle rides through Grab are cheaper and faster then the car options.",
+          "You can rent and drive a 50CC scooter without a driver's license.",
+          "Most driving licences are not valid in Vietnam, even if you have an international driving licence.",
+          "Hostel scooter rentals are usually safer and a lot less likely to result in scams.",
+          "Domestic flights are affordable for longer distances.",
+          "Night buses are the cheapest way to travel between cities.",
+          "VIP buses or buses with fewer than 30 seats are much more comfortable. As a third row of beds gets added from 30 seats and up.",
+          "The fewer seats a bus has, the more space and comfort you usually get.",
+          "Bus departure locations can be very confusing.",
+          "12GoAsia can be used for booking buses, but booking buses through hostels can often be cheaper and definitely less confusing.",
+          "When crossing roads; maintain a steady walking speed, avoid sudden stops, look in the direction of traffic and try to get eye contact with drivers.",
+          "Scooters and motorcycles usually drive around pedestrians.",
+          "Cars may stop, or you have to let them go in front of you.",
+          "Buses and large vehicles usually do not stop for pedestrians.",
+          "Traffic lights are usually followed, especially in the south."
+        ],
+        "languageNotes": [
+          "English proficiency is generally low.",
+          "Younger people often speak decent English.",
+          "Google Translate is commonly used for communication.",
+          "Learn some basic Vietnamese words and phrases, but be careful with pronunciation as it can completely change the meaning of words: Phở = A noodle dish, but Phò = Bitch."
+        ],
+        "packingNotes": [
+          "A rain jacket that doubles as a wind breaker, would be very usefull."
+        ],
         "seasonalNotes": [
           {
-            "season": "",
-            "notes": ""
+            "season": "Rainy Season (May to November (in the south))",
+            "notes": [
+              "Very hot and usually sunny weather, but with a lot of quick heavy downpours; usually nothing to worry about. I personally often liked the downpours as it cooled me down a bit."
+            ]
           }
         ]
       },
       "foodCulture": {
-        "mustTryDishes": [],
-        "foodNotes": []
+        "mustTryDishes": [
+          "Bánh mì",
+          "Pho",
+          "Spring rolls",
+          "Bánh xèo",
+          "Egg coffee",
+          "Salt coffee",
+          "Coconut coffee",
+          "Vietnamese drip coffee",
+          "Vietnamese iced coffee",
+          "Civet coffee"
+        ],
+        "foodNotes": [
+          "Local restaurants often have the best food.",
+          "Vietnam is one of the world's largest coffee exporters in the world.",
+          "Vietnamese iced coffee is very famous.",
+          "Robusta-based iced coffee is often better when ordered sweet, as the beans are quite bitter.",
+          "Good French bakeries and cheap French bread are common.",
+          "Civet coffee can be expensive at coffee farms."
+        ]
       },
       "regionsOverview": [
         {
-          "name": "",
-          "knownFor": [],
+          "name": "North Vietnam",
+          "knownFor": [
+            "The capital city of Hanoi",
+            "Ha Long Bay",
+            "Ha Giang Loop",
+            "Mountain landscapes",
+            "Traditional culture",
+            "Egg coffee"
+          ],
           "notes": []
+        },
+        {
+          "name": "Central Vietnam",
+          "knownFor": [
+            "Hang Sơn Đoòng",
+            "Caves and national parks",
+            "Historic cities",
+            "Beaches",
+            "Salt coffee"
+          ],
+          "notes": []
+        },
+        {
+          "name": "South Vietnam",
+          "knownFor": [
+            "Ho Chi Minh City/ Saigon",
+            "Mekong Delta",
+            "Beaches",
+            "Modern atmosphere",
+            "Bustling city life",
+            "Coconut coffee"
+          ],
+          "notes": [
+            "Represents the more modern, fast-paced and capitalistic part of Vietnam."
+          ]
         }
       ],
       "recommendedApps": [
-        {
-          "name": "",
-          "category": "",
-          "purpose": "",
-          "notes": ""
-        }
       ],
       "recommendationsFromOthers": {
-        "<list>": [
-          {
-            "name": "",
-            "notes": [],
-            "area": ""
-          }
-        ]
       },
       "metadata": {
         "tags": [],

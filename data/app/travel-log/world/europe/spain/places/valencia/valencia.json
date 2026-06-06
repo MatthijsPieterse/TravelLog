@@ -20,7 +20,7 @@
       },
       "description": {
         "intro": "",
-        "pros": [
+        "standouts": [
           "The city is easy to get around on foot while still feeling fairly spread out.",
           "Despite the surrounding hills and mountainous terrain, the city itself is mostly flat.",
           "It rarely rains here.",
@@ -28,7 +28,6 @@
           "There is decent biking infrastructure.",
           "The city has many nice parks."
         ],
-        "cons": [],
         "tips": [
           "Jardí del Túria is a great place for outdoor sports. It has separate lanes for walking, running, and biking, plus sports fields and simple outdoor gyms"
         ],
@@ -39,7 +38,7 @@
           "There are a lot of people, but it doesn’t feel overcrowded.",
           "There are many Dutch people here."
         ],
-        "transportTips": []
+        "transportNotes": []
       },
       "lists": {
         "activities": [

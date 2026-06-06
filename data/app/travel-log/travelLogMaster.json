@@ -489,13 +489,13 @@
                 }
               },
               "description": {
-                "intro": "The Philippines stood out for its amazing food, beautiful seas, nature, and relaxing atmosphere, especially outside the major cities in the province.",
-                "pros": [
-                  "Beautiful beaches and seas",
-                  "Great nature and island scenery",
-                  "Cheap overall costs"
+                "intro": "The Philippines is an archipelago in Southeast Asia known for its many islands, tropical landscapes, and coastal scenery. What stood out most to me was the combination of great food, beautiful seas, nature, and the relaxed atmosphere, especially outside the major cities. I had an amazing experience there and would love to return.",
+                "standouts": [
+                  "The beaches and sea views were beautiful.",
+                  "I loved the natural scenery and island landscapes.",
+                  "I found the overall cost of travel very affordable.",
+                  "There was a lot of amazing food."
                 ],
-                "cons": [],
                 "tips": [
                   "Visit the province outside the big cities for the best beaches, scenery, and atmosphere."
                 ],
@@ -506,7 +506,7 @@
                   "Indoor spaces are often kept very cool with strong ventilation and cooling."
                 ],
                 "personalNotes": [
-                  "Loved trying pork lechon, adobo, and pork sisig.",
+                  "Loved trying dishes like; pork lechon, adobo, and pork sisig.",
                   "Enjoyed boat rides and relaxing by the sea while looking at distant islands.",
                   "Personally really enjoyed the atmosphere in the Philippines.",
                   "Thought the experience felt absolutely amazing."
@@ -514,18 +514,17 @@
               },
               "travelPracticalities": {
                 "visaNotes": "Did not need a visa for entry, but needed to complete an Electronic Travel Declaration within 72 hours before the flight using https://etravel.gov.ph/. After arrival and scanning the declaration, I was allowed to stay up to 30 days visa-free.",
-                "currencyNotes": "The local currency is the Philippine Peso (PHP). Cash is the primary payment method; especially in the province, but cards are commonly accepted in cities.",
-                "paymentMethods": [
-                  "Cash",
-                  "Card"
+                "currency": "Philippine Peso (₱, PHP)",
+                "paymentNotes": [
+                  "Cash is more commonly used than cards, especially in the province, but cards are widely accepted in cities."
                 ],
-                "transportTips": [
+                "transportNotes": [
                   "Taxis near locations such as: airports, big malls, and boat ports usually charge higher prices; especially for foreigners",
                   "Ferries may depart on time but often arrive later than estimated.",
                   "Bangka (bangca) boats are commonly used by locals for island transport.",
                   "Due to heavy traffic in large cities, cars and taxis can be quite slow."
                 ],
-                "languageTips": [
+                "languageNotes": [
                   "The two official languages are Tagalog and English.",
                   "People usually speak perfect/very good English.",
                   "Some people in the province may not be able to speak English.",
@@ -538,7 +537,9 @@
                 "seasonalNotes": [
                   {
                     "season": "Rainy/Wet Season (June to October)",
-                    "notes": "Very hot and sunny weather, but very bearable near coastal island areas."
+                    "notes": [
+                      "Very hot and sunny weather, but very bearable near coastal island areas."
+                    ]
                   }
                 ]
               },
@@ -548,9 +549,7 @@
                   "Adobo",
                   "Pork sisig"
                 ],
-                "foodNotes": [
-                  "Food was amazing."
-                ]
+                "foodNotes": []
               },
               "regionsOverview": [
                 {
@@ -574,9 +573,7 @@
                 }
               ],
               "recommendedApps": [],
-              "recommendationsFromOthers": {
-                "<list>": []
-              },
+              "recommendationsFromOthers": {},
               "metadata": {
                 "tags": [],
                 "status": "",
@@ -675,66 +672,169 @@
           "data": [
             {
               "summary": {
-                "overallRating": null,
-                "affordability": null,
-                "transportRating": null,
-                "foodRating": null,
+                "overallRating": "★★★★★",
+                "affordability": "★★★★★",
+                "transportRating": "★★★★⯪",
+                "foodRating": "★★★★☆",
                 "returnInterest": {
-                  "level": null,
-                  "note": ""
+                  "level": "★★★★★",
+                  "note": "I for sure want to come back and travel through the entire country."
                 }
               },
               "description": {
-                "intro": "",
-                "pros": [],
-                "cons": [],
-                "tips": [],
-                "thingsToKnow": [],
-                "culturalNotes": [],
-                "personalNotes": []
+                "intro": "Vietnam is a Southeast Asian country known for its diverse landscapes, vibrant cities, rich food culture, and long coastline. I found it to be an amazing and extremely affordable place to visit, with beautiful nature, welcoming people, great cities, and excellent food. Even after my trip, I felt there was still so much more of the country left to explore.",
+                "standouts": [
+                  "I found Vietnam extremely affordable.",
+                  "The natural scenery was stunning.",
+                  "The backpacking atmosphere was amazing.",
+                  "Domestic travel was very cheap.",
+                  "There was a huge variety of activities to experience.",
+                  "I found the country very safe and easy to travel around.",
+                  "Scams are fairly common, so it helps to stay alert.",
+                  "Pickpocketing is common in crowded areas, but easy to deter if you keep everything in one place."
+                ],
+                "tips": [
+                  "Try local restaurants even if the food looks unusual.",
+                  "Use common sense when choosing places to eat, to not get hit with bad food poisoning.",
+                  "Go on a food tour if you are nervous about trying unfamiliar food.",
+                  "Do not be afraid to negotiate prices.",
+                  "Practice negotiating at markets or souvenir shops.",
+                  "Remember your own financial position when negotiating very small amounts and don't over do it; 30 cents is not worth continuing to negotiate for.",
+                  "You can judge prices partly based on whether a place is in a city, has seating, has a nice view, or looks luxurious; as every one of those things adds a bit to the price."
+                ],
+                "thingsToKnow": [
+                  "The south, especially Ho Chi Minh City/ Saigon, feels more modern.",
+                  "The more north you go the cheaper it is.",
+                  "Vietnam has many famous attractions such as Hang Sơn Đoòng, Ha Long Bay, and the Ha Giang Loop.",
+                  "Food poisoning can happen relatively often but usually passes quickly, and is not really something to worry about.",
+                  "Vietnam only has two seasons and when the rainy season starts and ends differs a lot between the north, centre, and south."
+                ],
+                "culturalNotes": [
+                  "Negotiating prices is very common.",
+                  "People are proactive about using Google Translate to communicate."
+                ],
+                "personalNotes": [
+                  "Had an amazing time in Vietnam.",
+                  "Regrettably didn't have enough time to visit many places.",
+                  "Thought coconut coffee was the least enjoyable of the three special coffees.",
+                  "Egg coffee was my absolute favorite.",
+                  "Personally found Robusta coffee too bitter as plain black coffee, even though I usually only drink espresso and black coffee.",
+                  "Thought drip coffee made with Moka beans is the best as the coffee made with those beans has a slight chocolate taste to it."
+                ]
               },
               "travelPracticalities": {
-                "visaNotes": "",
-                "currencyNotes": "",
-                "paymentMethods": [],
-                "transportTips": [],
-                "languageTips": [],
-                "packingNotes": [],
+                "visaNotes": "At the time I needed an E-visa which can be requested fairly easily online and lets you stay up to 90 days, with about a week or two of processing time. But now I can go Visa free for up to 45 days.",
+                "currency": "Vietnamese Dong (₫ or D, VND).",
+                "paymentNotes": [
+                  "Cash is king in Vietnam.",
+                  "Even in places that accept cards, I would recommend using cash, as there are places that will scam you through skimming your card.",
+                  "VPBank and TPBank ATMs do not charge foreign transaction fees, so use them if you can find them.",
+                  "Withdrawal limits are usually 5,000,000 or 20,000,000 VND and withdrawals are always given in 500,000 VND notes.",
+                  "Large notes can be difficult to use with smaller vendors because they may not have enough change.",
+                  "A large wallet is useful because Vietnamese notes are physically larger than euros."
+                ],
+                "transportNotes": [
+                  "Changing or inflated ride prices are one of the most common scams, but can be easily avoided through: discussing and agreeing on the fare in advance with taxi or other drivers when booking outside an app.",
+                  "For taxi's and for other drivers that don't—want to—go through an app you can show the Grab price and usually knock a bit more off—as they don't have to pay commission. To get a good price for your ride.",
+                  "You can ask drivers to wait for you if you go and do an activity outside the city where it is harder to find transport; you don't have to pay for the waiting time.",
+                  "Apps like Grab or Gojek are among the easiest and most affordable ways to get around cities.",
+                  "Motorcycle rides through Grab are cheaper and faster then the car options.",
+                  "You can rent and drive a 50CC scooter without a driver's license.",
+                  "Most driving licences are not valid in Vietnam, even if you have an international driving licence.",
+                  "Hostel scooter rentals are usually safer and a lot less likely to result in scams.",
+                  "Domestic flights are affordable for longer distances.",
+                  "Night buses are the cheapest way to travel between cities.",
+                  "VIP buses or buses with fewer than 30 seats are much more comfortable. As a third row of beds gets added from 30 seats and up.",
+                  "The fewer seats a bus has, the more space and comfort you usually get.",
+                  "Bus departure locations can be very confusing.",
+                  "12GoAsia can be used for booking buses, but booking buses through hostels can often be cheaper and definitely less confusing.",
+                  "When crossing roads; maintain a steady walking speed, avoid sudden stops, look in the direction of traffic and try to get eye contact with drivers.",
+                  "Scooters and motorcycles usually drive around pedestrians.",
+                  "Cars may stop, or you have to let them go in front of you.",
+                  "Buses and large vehicles usually do not stop for pedestrians.",
+                  "Traffic lights are usually followed, especially in the south."
+                ],
+                "languageNotes": [
+                  "English proficiency is generally low.",
+                  "Younger people often speak decent English.",
+                  "Google Translate is commonly used for communication.",
+                  "Learn some basic Vietnamese words and phrases, but be careful with pronunciation as it can completely change the meaning of words: Phở = A noodle dish, but Phò = Bitch."
+                ],
+                "packingNotes": [
+                  "A rain jacket that doubles as a wind breaker, would be very usefull."
+                ],
                 "seasonalNotes": [
                   {
-                    "season": "",
-                    "notes": ""
+                    "season": "Rainy Season (May to November (in the south))",
+                    "notes": [
+                      "Very hot and usually sunny weather, but with a lot of quick heavy downpours; usually nothing to worry about. I personally often liked the downpours as it cooled me down a bit."
+                    ]
                   }
                 ]
               },
               "foodCulture": {
-                "mustTryDishes": [],
-                "foodNotes": []
+                "mustTryDishes": [
+                  "Bánh mì",
+                  "Pho",
+                  "Spring rolls",
+                  "Bánh xèo",
+                  "Egg coffee",
+                  "Salt coffee",
+                  "Coconut coffee",
+                  "Vietnamese drip coffee",
+                  "Vietnamese iced coffee",
+                  "Civet coffee"
+                ],
+                "foodNotes": [
+                  "Local restaurants often have the best food.",
+                  "Vietnam is one of the world's largest coffee exporters in the world.",
+                  "Vietnamese iced coffee is very famous.",
+                  "Robusta-based iced coffee is often better when ordered sweet, as the beans are quite bitter.",
+                  "Good French bakeries and cheap French bread are common.",
+                  "Civet coffee can be expensive at coffee farms."
+                ]
               },
               "regionsOverview": [
                 {
-                  "name": "",
-                  "knownFor": [],
-                  "notes": ""
-                }
-              ],
-              "recommendedApps": [
+                  "name": "North Vietnam",
+                  "knownFor": [
+                    "The capital city of Hanoi",
+                    "Ha Long Bay",
+                    "Ha Giang Loop",
+                    "Mountain landscapes",
+                    "Traditional culture",
+                    "Egg coffee"
+                  ],
+                  "notes": []
+                },
                 {
-                  "name": "",
-                  "category": "",
-                  "purpose": "",
-                  "notes": ""
+                  "name": "Central Vietnam",
+                  "knownFor": [
+                    "Hang Sơn Đoòng",
+                    "Caves and national parks",
+                    "Historic cities",
+                    "Beaches",
+                    "Salt coffee"
+                  ],
+                  "notes": []
+                },
+                {
+                  "name": "South Vietnam",
+                  "knownFor": [
+                    "Ho Chi Minh City/ Saigon",
+                    "Mekong Delta",
+                    "Beaches",
+                    "Modern atmosphere",
+                    "Bustling city life",
+                    "Coconut coffee"
+                  ],
+                  "notes": [
+                    "Represents the more modern, fast-paced and capitalistic part of Vietnam."
+                  ]
                 }
               ],
-              "recommendationsFromOthers": {
-                "<list>": [
-                  {
-                    "name": "",
-                    "notes": [],
-                    "area": ""
-                  }
-                ]
-              },
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
               "metadata": {
                 "tags": [],
                 "status": "",
@@ -920,7 +1020,101 @@
       "nations": [
         {
           "name": "andorra",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★★★⯪",
+                "affordability": "★★★☆☆",
+                "transportRating": "★★⯪☆☆",
+                "foodRating": "★★★⯪☆",
+                "returnInterest": {
+                  "level": "★★★★⯪",
+                  "note": "Definitely want to return, preferably for a road trip or through-hike."
+                }
+              },
+              "description": {
+                "intro": "Andorra is a small country in the Pyrenees Mountains between Spain and France, known for its mountain landscapes, hiking trails, and ski resorts. I found it to be a beautiful and relaxing place, with stunning valleys, charming towns, and well-maintained outdoor infrastructure. It left a strong impression on me and remains my favorite country in Europe so far.",
+                "standouts": [
+                  "The mountain scenery was stunning.",
+                  "I loved the villages and towns.",
+                  "The hiking trails were nice.",
+                  "I really enjoyed the relaxed atmosphere.",
+                  "The weather was great during my visit.",
+                  "The architecture stood out to me.",
+                  "I enjoyed the food.",
+                  "The mountain paths directly adjacent to the city were very well maintained.",
+                  "It felt like a destination that can be enjoyed year-round."
+                ],
+                "tips": [
+                  "Consider visiting for hiking in summer, skiing in winter, or to enjoy the spas.",
+                  "A road trip would probably be a great way to explore the country."
+                ],
+                "thingsToKnow": [
+                  "Andorra is approximately 25 to 30 km in diameter.",
+                  "The highest point is Coma Pedrosa at 2,946 meters.",
+                  "The lowest point is Riu Runer at 840 meters.",
+                  "The country's largest agricultural export is tobacco.",
+                  "The country does not have an airport."
+                ],
+                "culturalNotes": [
+                  "The culture felt like a blend of Catalan, Spanish, and French influences.",
+                  "Although Catalan is the official language, I noticed that Spanish seemed to be spoken more commonly in everyday life, often mixed with some French."
+                ],
+                "personalNotes": [
+                  "I absolutely loved Andorra, and it is currently my favorite country in Europe.",
+                  "I really enjoyed the relaxed atmosphere.",
+                  "The architecture style I saw quite often; where they combine wood with rough stone looked very charming",
+                  "One thing that fascinated me was seeing multi-level apartment buildings built into the mountainsides, where people could live in an apartment while still having their own vegetable garden on the slope below."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "I did not need a visa to enter.",
+                "currency": "Euro (€, EUR)",
+                "paymentNotes": [
+                  "Both cards and cash are widely accepted."
+                ],
+                "transportNotes": [
+                  "The most practical way to reach Andorra is by bus or car from nearby cities in Spain or France, such as Barcelona or Toulouse, which usually takes around 3.5 to 4 hours.",
+                  "There are bus services within the country, but I didn't make use of them.",
+                  "Many places are close enough together to explore on foot."
+                ],
+                "languageNotes": [
+                  "Catalan is the official language.",
+                  "Spanish appeared to be the most commonly spoken language in daily life.",
+                  "French is also commonly heard.",
+                  "Many people speak English as well."
+                ],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Summer",
+                    "notes": [
+                      "The mountains offer beautiful hiking trails throughout the country."
+                    ]
+                  },
+                  {
+                    "season": "Winter",
+                    "notes": [
+                      "Skiing is one of the main attractions during the winter season."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [],
+                "foodNotes": []
+              },
+              "regionsOverview": [],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Andorra la Vella",
@@ -954,7 +1148,120 @@
         },
         {
           "name": "austria",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★⯪☆☆",
+                "affordability": "★★⯪☆☆",
+                "transportRating": "★★★⯪☆",
+                "foodRating": "★★★☆☆",
+                "returnInterest": {
+                  "level": "★★⯪☆☆",
+                  "note": "It's a nice country, but it doesn't come to mind when I think about future trips."
+                }
+              },
+              "description": {
+                "intro": "Austria is a Central European country known for its alpine landscapes, historic cities, and strong cultural traditions. During my visit, I appreciated the mountain scenery, infrastructure, and local food and drink culture. While I enjoyed my time there, it is not a destination I currently feel a strong urge to revisit.",
+                "standouts": [
+                  "The mountain landscapes were beautiful.",
+                  "The country has a rich history.",
+                  "The infrastructure was generally very good.",
+                  "The bakeries were very nice.",
+                  "I thought the beer was excellent.",
+                  "I found it reasonably affordable.",
+                  "The summer weather felt very comfortable."
+                ],
+                "tips": [],
+                "thingsToKnow": [],
+                "culturalNotes": [
+                  "People appeared to be proud of their country and culture."
+                ],
+                "personalNotes": [
+                  "In my experience, I did not always find people particularly welcoming toward tourists."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "I didn't need a visa.",
+                "currency": "Euro (€, EUR)",
+                "paymentNotes": [
+                  "Both cards and cash are generally accepted."
+                ],
+                "transportNotes": [
+                  "Austria has a good train network for traveling around the country.",
+                  "Train journeys through mountainous regions can be quite slow because trains often travel at reduced speeds (around 60km/h).",
+                  "Major cities have good tram systems.",
+                  "I found the bus networks in cities to be quite good."
+                ],
+                "languageNotes": [
+                  "Austrian German is the main language.",
+                  "Most people also speak English."
+                ],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Summer",
+                    "notes": [
+                      "The weather is generally comfortable and neither too hot nor too cold."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [
+                  "Apfelstrudel",
+                  "Kaiserschmarrn"
+                ],
+                "foodNotes": [
+                  "I found the bakeries particularly good.",
+                  "Beer culture is strong throughout the country.",
+                  "Many places serve their own local beer.",
+                  "I would definitely recommend trying a Wiener Schnitzel while in Austria, although I personally would not make a trip to the country just for that dish."
+                ]
+              },
+              "regionsOverview": [
+                {
+                  "name": "Vorarlberg",
+                  "knownFor": [
+                    "Winter sports",
+                    "Alpine cheese",
+                    "Timber architecture"
+                  ],
+                  "notes": []
+                },
+                {
+                  "name": "Oberösterreich",
+                  "knownFor": [
+                    "Nature",
+                    "Local dishes",
+                    "Agriculture",
+                    "History",
+                    "Castles",
+                    "Linz"
+                  ],
+                  "notes": []
+                },
+                {
+                  "name": "Niederösterreich",
+                  "knownFor": [
+                    "White wines",
+                    "Historical architecture",
+                    "River valleys",
+                    "Diverse nature",
+                    "Vienna"
+                  ],
+                  "notes": []
+                }
+              ],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Feldkirch",
@@ -1022,7 +1329,90 @@
         },
         {
           "name": "czechia",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★★⯪☆",
+                "affordability": "★★★⯪☆",
+                "transportRating": "★★★⯪☆",
+                "foodRating": "★★★⯪☆",
+                "returnInterest": {
+                  "level": "★★★⯪☆",
+                  "note": "Would love to see more of the country, although it's not the next thing on my list."
+                }
+              },
+              "description": {
+                "intro": "Czechia is a Central European country known for its beer, historic cities, impressive architecture, and relatively affordable prices. I really enjoyed my time there, especially the cities, food, and atmosphere. It also left me wanting to return and explore more of the country's nature and countryside.",
+                "standouts": [
+                  "The prices are quite affordable.",
+                  "The historic cities were a highlight for me.",
+                  "The architecture was beautiful.",
+                  "I enjoyed the food."
+                ],
+                "tips": [],
+                "thingsToKnow": [],
+                "culturalNotes": [
+                  "Overall, I found people to be friendly."
+                ],
+                "personalNotes": [
+                  "I really loved Czechia.",
+                  "I especially enjoyed the food, particularly the meat dishes.",
+                  "The cities and architecture were amazing.",
+                  "I wish I had spent more time exploring Czechia's countryside."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "I did not need a visa.",
+                "currency": "Czech Koruna (Kč, CZK)",
+                "paymentNotes": [
+                  "Both cards and cash are widely accepted."
+                ],
+                "transportNotes": [
+                  "The train network is quite extensive.",
+                  "Several of my train journeys did experience delays."
+                ],
+                "languageNotes": [
+                  "Czech is the main language.",
+                  "The younger generation generally speaks good English."
+                ],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Summer",
+                    "notes": [
+                      "The weather was pleasant and neither too hot nor too cold."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [],
+                "foodNotes": [
+                  "I noticed that hearty meat dishes were quite common, which I liked."
+                ]
+              },
+              "regionsOverview": [
+                {
+                  "name": "Prague",
+                  "knownFor": [
+                    "Historic city",
+                    "Architecture"
+                  ],
+                  "notes": [
+                    "It is one of my favorite cities in Europe."
+                  ]
+                }
+              ],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Brno",
@@ -1406,7 +1796,74 @@
         },
         {
           "name": "greece",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★★☆☆",
+                "affordability": "N/A",
+                "transportRating": "N/A",
+                "foodRating": "★★★⯪☆",
+                "returnInterest": {
+                  "level": "★★★⯪☆",
+                  "note": "I definitly want to return to actually see the country and gain a better understanding of it."
+                }
+              },
+              "description": {
+                "intro": "Greece is a Mediterranean country known for its long history, islands, coastline, beach towns, and traditional cuisine. My experience there was limited to a family vacation when I was younger, so I do not feel like I have truly explored the country yet. Even so, I remember enjoying the food and coastal atmosphere, and I would like to return for a more complete experience.",
+                "standouts": [
+                  "The country's long and interesting history.",
+                  "I enjoyed the food.",
+                  "The coastal areas were beautiful.",
+                  "Many areas can be very touristy."
+                ],
+                "tips": [],
+                "thingsToKnow": [],
+                "culturalNotes": [],
+                "personalNotes": [
+                  "I only visited Greece on a family vacation as a child and have not yet had a good opportunity to properly explore the country."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "I did not need a visa.",
+                "currency": "Euro (€, EUR)",
+                "paymentNotes": [],
+                "transportNotes": [],
+                "languageNotes": [
+                  "Greek is the official language."
+                ],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Summer",
+                    "notes": [
+                      "Summers can be very hot."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [
+                  "Tzatziki",
+                  "Moussaka",
+                  "Souvlaki",
+                  "Gyros",
+                  "Spanakopita"
+                ],
+                "foodNotes": [
+                  "Greece has an amazing cuisine."
+                ]
+              },
+              "regionsOverview": [],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Λίνδος",
@@ -1440,7 +1897,99 @@
         },
         {
           "name": "hungary",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★★★☆",
+                "affordability": "★★★⯪☆",
+                "transportRating": "★★★☆☆",
+                "foodRating": "★★★★☆",
+                "returnInterest": {
+                  "level": "★★★★☆",
+                  "note": "Would love to see more of the country."
+                }
+              },
+              "description": {
+                "intro": "Hungary is a Central European country known for its long history, thermal baths, distinctive language, wine regions, and hearty cuisine. I really enjoyed my time there, particularly the food, culture, and historical aspects. The trip left me wanting to return and explore much more of the country.",
+                "standouts": [
+                  "The history of the country was quite fascinating.",
+                  "I enjoyed the natural scenery.",
+                  "The wines were excellent.",
+                  "The language and culture felt unique.",
+                  "I really enjoyed the food.",
+                  "The summer weather was very comfortable."
+                ],
+                "tips": [],
+                "thingsToKnow": [
+                  "Hungary has 22 wine regions.",
+                  "Hungarian is a Uralic language.",
+                  "Hungarian is not related to the surrounding Slavic, Germanic, or Romance languages.",
+                  "The closest languages to Hungarian are Finnish and Estonian, although they are not mutually intelligible."
+                ],
+                "culturalNotes": [],
+                "personalNotes": [
+                  "I really loved Hungary.",
+                  "I would love to explore more of the country.",
+                  "I especially enjoyed the food, history, and culture."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "I didn't need a visa to enter.",
+                "currency": "Hungarian Forint (Ft, HUF)",
+                "paymentNotes": [
+                  "Cash is widely accepted and often preferred, especially in smaller establishments.",
+                  "Credit and debit cards are accepted in almost every place in Budapest."
+                ],
+                "transportNotes": [],
+                "languageNotes": [
+                  "Hungarian is the official language.",
+                  "English proficiency in Budapest seemed quite high.",
+                  "I have no experience with English proficiency outside the capital."
+                ],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Summer",
+                    "notes": [
+                      "The weather is generally comfortable and neither too hot nor too cold."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [
+                  "Gulyás (Goulash)",
+                  "Lángos",
+                  "Töltött káposzta",
+                  "Galuska/Nokedli",
+                  "Palacsinta"
+                ],
+                "foodNotes": [
+                  "I found Hungarian food to be hearty and filling.",
+                  "Paprika is used extensively throughout Hungarian cuisine."
+                ]
+              },
+              "regionsOverview": [
+                {
+                  "name": "Central Hungary",
+                  "knownFor": [
+                    "Budapest",
+                    "Thermal baths",
+                    "Architecture"
+                  ],
+                  "notes": []
+                }
+              ],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Budapest",
@@ -1465,7 +2014,146 @@
         },
         {
           "name": "italy",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★★★☆",
+                "affordability": "★★★⯪☆",
+                "transportRating": "★★☆☆☆",
+                "foodRating": "★★★★★",
+                "returnInterest": {
+                  "level": "★★★★☆",
+                  "note": "Definitely want to return, especially because of the food."
+                }
+              },
+              "description": {
+                "intro": "Italy is a Southern European country known for its exceptional cuisine, historic cities, wine culture, and beautiful countryside. What stood out most to me was the food, which I consider among the best in the world, along with the coffee, wine, and rich history. I really enjoyed my time there and would happily return.",
+                "standouts": [
+                  "The food was outstanding.",
+                  "Fantastic coffee culture.",
+                  "The wines were amazing.",
+                  "The countryside is beautiful.",
+                  "The history was fascinating.",
+                  "Unreliable public transport outside major cities."
+                ],
+                "tips": [],
+                "thingsToKnow": [],
+                "culturalNotes": [
+                  "I noticed that people were very supportive of visitors trying to learn Italian.",
+                  "Food, coffee, and wine seemed to be important sources of local pride."
+                ],
+                "personalNotes": [
+                  "I consider Italy to have one of the best cuisines in the world.",
+                  "I had some of the best coffee I have ever tasted here, often at surprisingly low prices.",
+                  "The reputation of northern Italy being less friendly compared to the middle and south matched my personal experience.",
+                  "I loved both the country and its food."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "I did not need a visa.",
+                "currency": "Euro (€, EUR)",
+                "paymentNotes": [
+                  "Both cash and cards are widely accepted."
+                ],
+                "transportNotes": [
+                  "There is a decent train network connecting the major cities.",
+                  "Larger cities generally have bus and tram networks.",
+                  "Outside major cities, I found that bus schedules are very unreliable."
+                ],
+                "languageNotes": [
+                  "Italian is the official language.",
+                  "Many people outside major cities often do not speak much English."
+                ],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Summer",
+                    "notes": [
+                      "The weather is generally very good, although it can become extremely hot."
+                    ]
+                  },
+                  {
+                    "season": "Winter",
+                    "notes": [
+                      "The weather is generally pleasant.",
+                      "Nights can become quite cold."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [
+                  "Pizza (Bianca)",
+                  "Risotto",
+                  "Arancini",
+                  "Bruschetta",
+                  "Carpaccio",
+                  "Melanzane alla Parmigiana",
+                  "Lasagna",
+                  "Pasta Carbonara",
+                  "Gnocchi",
+                  "Pasta al Pesto",
+                  "Tiramisu",
+                  "Panna Cotta",
+                  "Gelato"
+                ],
+                "foodNotes": [
+                  "I found the coffee exceptional.",
+                  "Italy produces some amazing wines."
+                ]
+              },
+              "regionsOverview": [
+                {
+                  "name": "Lazio",
+                  "knownFor": [
+                    "Historical significance",
+                    "Architecture",
+                    "Landscapes",
+                    "Rome"
+                  ],
+                  "notes": []
+                },
+                {
+                  "name": "Abruzzo",
+                  "knownFor": [
+                    "Nature and wildlife",
+                    "History",
+                    "Mountains",
+                    "Teramano Coast"
+                  ],
+                  "notes": []
+                },
+                {
+                  "name": "Liguria",
+                  "knownFor": [
+                    "Italian Riviera",
+                    "Genoa (Genova)",
+                    "Pesto"
+                  ],
+                  "notes": []
+                },
+                {
+                  "name": "Lombardy",
+                  "knownFor": [
+                    "Lakes",
+                    "Milan",
+                    "Alps",
+                    "Art",
+                    "Fashion"
+                  ],
+                  "notes": []
+                }
+              ],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Roma",
@@ -1542,7 +2230,84 @@
         },
         {
           "name": "liechtenstein",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★★⯪☆",
+                "affordability": "☆☆☆☆☆",
+                "transportRating": "★★★⯪☆",
+                "foodRating": "N/A",
+                "returnInterest": {
+                  "level": "★☆☆☆☆",
+                  "note": "Maybe if I happened to be in the area, mainly to see more of the forests and mountains."
+                }
+              },
+              "description": {
+                "intro": "Liechtenstein is a small country between Austria and Switzerland known for its mountain scenery, wealthy atmosphere, and unique history. I found it easy to explore in a short amount of time, and the landscapes were the highlight of my visit. Although I am not planning a dedicated return trip, I would not mind coming back if I were nearby.",
+                "standouts": [
+                  "The mountains and hills were beautiful.",
+                  "I found the country's history interesting.",
+                  "It was easy to travel through in a single day.",
+                  "The summer weather was pleasant.",
+                  "It felt even more expensive than Switzerland."
+                ],
+                "tips": [
+                  "I would recommend taking bus route 11 between Sargans (Switzerland) and Feldkirch (Austria), as it passes through most of the country and is an efficient way to explore it.",
+                  "The ruins up on the mountain behind the castle in Vaduz are worth visiting for the views and the hike."
+                ],
+                "thingsToKnow": [
+                  "Liechtenstein is double landlocked.",
+                  "The country can only be reached through nearby cities by train, bus, or car.",
+                  "It is very narrow and can be crossed in a relatively straight line.",
+                  "Liechtenstein is known for having the highest GDP per capita in the world, at around €194,715 in 05/2026."
+                ],
+                "culturalNotes": [
+                  "The overall atmosphere felt very wealthy."
+                ],
+                "personalNotes": [
+                  "There were a lot of expensive and rare cars driving around.",
+                  "I found it interesting that several villas were divided into multiple addresses like an apartment building."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "I didn't need a visa to enter.",
+                "currency": "Swiss Franc (₣/S.Fr/Fr, CHF)",
+                "paymentNotes": [],
+                "transportNotes": [
+                  "There is no airport in Liechtenstein.",
+                  "You can reach the country through nearby cities in Switzerland or Austria.",
+                  "Bus route 11 between Sargans and Feldkirch passes through almost every town in Liechtenstein and takes around 82 minutes.",
+                  "There is also a train station in Schaan with connections to Feldkirch in Austria and Buchs in Switzerland."
+                ],
+                "languageNotes": [
+                  "German is the official language.",
+                  "Most people seemed to be able to speak English."
+                ],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Summer",
+                    "notes": [
+                      "The weather was pleasant, although cooler than in the surrounding countries."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [],
+                "foodNotes": []
+              },
+              "regionsOverview": [],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Vaduz",
@@ -1671,7 +2436,68 @@
         },
         {
           "name": "monaco",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★☆☆☆",
+                "affordability": "★☆☆☆☆",
+                "transportRating": "★★★☆☆",
+                "foodRating": "N/A",
+                "returnInterest": {
+                  "level": "★☆☆☆☆",
+                  "note": "Maybe if I want to visit the casino or if I ever become rich enough."
+                }
+              },
+              "description": {
+                "intro": "Monaco is a tiny Mediterranean city-state known for its wealth, luxury lifestyle, yachts, and famous casino. My impression was that the country revolves heavily around luxury experiences and high-end living. While it was interesting to see, it is not a place I currently feel a strong desire to revisit.",
+                "standouts": [
+                  "Everything felt extremely expensive."
+                ],
+                "tips": [],
+                "thingsToKnow": [],
+                "culturalNotes": [],
+                "personalNotes": [
+                  "I felt like there was not much to do besides eating at expensive restaurants and visiting the casino.",
+                  "It did not seem to offer many activities outside of luxury-oriented experiences.",
+                  "The atmosphere felt extremely luxurious."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "",
+                "currency": "",
+                "paymentNotes": [],
+                "transportNotes": [
+                  "Monaco is easily accessible by train from both France and Italy.",
+                  "Once there, most places can be reached on foot, although cars are also commonly used."
+                ],
+                "languageNotes": [],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Summer",
+                    "notes": [
+                      "The weather can become extremely hot."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [],
+                "foodNotes": [
+                  "Luxury and high-end restaurants are common."
+                ]
+              },
+              "regionsOverview": [],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Monaco",
@@ -3114,7 +3940,80 @@
         },
         {
           "name": "slovakia",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★★⯪☆",
+                "affordability": "★★★⯪☆",
+                "transportRating": "★★⯪☆☆",
+                "foodRating": "★★★⯪☆",
+                "returnInterest": {
+                  "level": "★★★⯪☆",
+                  "note": "Definitely want to return, but it's not a top priority for me"
+                }
+              },
+              "description": {
+                "intro": "Slovakia is a Central European country known for its historic towns, mountain landscapes, and cultural heritage. I have only explored a small part of it so far, but I really enjoyed the time I spent there. I found it very affordable, and it felt like there was still plenty left for me to discover.",
+                "standouts": [
+                  "I found Slovakia very affordable.",
+                  "I really enjoyed the food.",
+                  "The natural scenery was beautiful."
+                ],
+                "tips": [],
+                "thingsToKnow": [],
+                "culturalNotes": [],
+                "personalNotes": [
+                  "I have unfortunatly not explored much of Slovakia yet.",
+                  "I loved my time there."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "I didn't need a visa.",
+                "currency": "Euro (€, EUR)",
+                "paymentNotes": [],
+                "transportNotes": [
+                  "I noticed that train times were not particularly reliable.",
+                  "The rail system felt poorly organized to me, as platform information was often only announced shortly before departure.",
+                  "At least in Bratislava, I found the bus system to be quite good."
+                ],
+                "languageNotes": [
+                  "The primary language is Slovak.",
+                  "In my experience the English proficiency was generally not very high, although many younger people spoke it quite well."
+                ],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Summer",
+                    "notes": [
+                      "The weather was quite nice, it felt like a relief compared to the heat in the south of Europe."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [
+                  "Bryndzové halušky",
+                  "Pirohy"
+                ],
+                "foodNotes": []
+              },
+              "regionsOverview": [],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [
+                  "history",
+                  "food",
+                  "nature",
+                  "culture",
+                  "budget-friendly"
+                ],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Bratislava",
@@ -3153,44 +4052,42 @@
                 }
               },
               "description": {
-                "intro": "Spain offers a good combination of lively cities, rich history, excellent food culture, and a very relaxed atmosphere, making it perfect for both exploring and relaxing.",
-                "pros": [
-                  "Excellent food culture with many regional specialties",
-                  "Very affordable compared to many western European countries"
+                "intro": "Spain combines lively cities, rich history, excellent food, and a relaxed atmosphere. I found it to be a great destination for both sightseeing and slowing down to enjoy everyday life. The mix of culture, food, and affordability left me wanting to explore much more of the country.",
+                "standouts": [
+                  "I really enjoyed the food culture and the variety of regional specialties.",
+                  "I found Spain quite affordable."
                 ],
-                "cons": [],
                 "tips": [],
                 "thingsToKnow": [],
                 "culturalNotes": [
-                  "Dinner time is very late; typically between 21:00 and 23:00",
-                  "Nightlife starts late; people often go out to party around 01:00 or later"
+                  "Dinner is usually eaten very late, often between 21:00 and 23:00.",
+                  "Nightlife starts late, and people often start going out around 01:00 or even later."
                 ],
                 "personalNotes": []
               },
               "travelPracticalities": {
                 "visaNotes": "I didn't need a visa.",
-                "currency": "Euro (€)",
-                "paymentCulture": [
-                  "Both cash and card payments are widely accepted"
+                "currency": "Euro (€, EUR)",
+                "paymentNotes": [
+                  "Both cash and card payments are widely accepted."
                 ],
-                "transportTips": [
-                  "You can easily travel between major cities by train",
-                  "Book long-distance train tickets in advance for better prices",
-                  "Spain’s high-speed AVE network is fast and convenient for transportation between major cities",
-                  "Connections between smaller cities are often very slow",
-                  "You usually have to pass through a security check before accessing high-speed train platforms"
+                "transportNotes": [
+                  "Spain's high-speed AVE network is fast and convenient for traveling between major cities.",
+                  "Connections between smaller cities can be quite slow.",
+                  "I would recommend booking long-distance train tickets in advance to get better prices.",
+                  "You usually need to pass through a security check before accessing high-speed train platforms."
                 ],
-                "languageTips": [
-                  "Learning basic Spanish makes getting around much easier",
-                  "English is widely spoken in major cities, but less common in smaller towns",
-                  "Regional languages such as Catalan and Valencian are commonly used alongside Spanish in some areas"
+                "languageNotes": [
+                  "Learning some basic Spanish makes getting around much easier.",
+                  "English is widely spoken in major cities, but it is less common in smaller towns.",
+                  "Regional languages such as Catalan and Valencian are commonly used alongside Spanish in some parts of the country."
                 ],
                 "packingNotes": [],
                 "seasonalNotes": [
                   {
                     "season": "Winter",
                     "notes": [
-                      "Late winter (around February) had very comfortable temperatures, especially along the east coast."
+                      "I found late winter, around February, to have very comfortable temperatures, especially along the east coast."
                     ]
                   }
                 ]
@@ -3203,8 +4100,10 @@
                   "Patatas bravas"
                 ],
                 "foodNotes": [
-                  "There are many tapas bars where you can share small plates of different dishes—definitely worth trying.",
-                  "Many restaurants offer a daily set menu (menú del día), and sometimes even breakfast menus, which are usually very affordable."
+                  "There are many tapas bars where you can share small plates of different dishes, which I would definitely recommend trying.",
+                  "Many restaurants offer a daily set menu (menú del día), and sometimes even breakfast menus, which are usually very affordable.",
+                  "I found the wines excellent, and many restaurants offered a good selection of local wines at reasonable prices.",
+                  "I was disappointed by the apparent lack of a craft beer culture in bars and restaurants. I could only find local craft beers in supermarkets."
                 ]
               },
               "regionsOverview": [
@@ -3224,16 +4123,14 @@
                   "knownFor": [
                     "Museums"
                   ],
-                  "notes": [
-                    ""
-                  ]
+                  "notes": []
                 }
               ],
               "recommendedApps": [
                 {
                   "name": "Renfe",
                   "category": "Transport",
-                  "purpose": "The app of the national train service.",
+                  "purpose": "Official app of the national rail operator.",
                   "notes": "",
                   "links": [
                     {
@@ -3298,7 +4195,7 @@
                   },
                   "description": {
                     "intro": "",
-                    "pros": [
+                    "standouts": [
                       "The city is easy to get around on foot while still feeling fairly spread out.",
                       "Despite the surrounding hills and mountainous terrain, the city itself is mostly flat.",
                       "It rarely rains here.",
@@ -3306,7 +4203,6 @@
                       "There is decent biking infrastructure.",
                       "The city has many nice parks."
                     ],
-                    "cons": [],
                     "tips": [
                       "Jardí del Túria is a great place for outdoor sports. It has separate lanes for walking, running, and biking, plus sports fields and simple outdoor gyms"
                     ],
@@ -3317,7 +4213,7 @@
                       "There are a lot of people, but it doesn’t feel overcrowded.",
                       "There are many Dutch people here."
                     ],
-                    "transportTips": []
+                    "transportNotes": []
                   },
                   "lists": {
                     "activities": [
@@ -3847,7 +4743,118 @@
         },
         {
           "name": "switzerland",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★★★⯪",
+                "affordability": "☆☆☆☆☆",
+                "transportRating": "★★★★☆",
+                "foodRating": "★★★⯪☆",
+                "returnInterest": {
+                  "level": "★★★★⯪",
+                  "note": "I definitely want to see more of the country, although next time I would come with a car and a tent."
+                }
+              },
+              "description": {
+                "intro": "Switzerland is known for its dramatic mountain landscapes, lakes, picturesque cities, and high standard of living. I found it to be one of the most beautiful countries I have ever visited, with stunning scenery almost everywhere I went. The only major downside for me was the cost, which can make traveling there feel difficult without camping or budget accommodation far outside of the major cities.",
+                "standouts": [
+                  "The mountains, cities, and lakes were incredibly beautiful.",
+                  "The public transport network was very good.",
+                  "I liked the architecture.",
+                  "The train journeys offered amazing views.",
+                  "Without camping or very budget-friendly accommodation, the country is completely unaffordable."
+                ],
+                "tips": [
+                  "Staying outside major cities can reduce accommodation costs significantly."
+                ],
+                "thingsToKnow": [
+                  "Almost everything in Switzerland is very expensive."
+                ],
+                "culturalNotes": [
+                  "People are required to learn at least two of the country's official languages in school, but in practice this doesn't mean they are all fluent in the two languages that they learned."
+                ],
+                "personalNotes": [
+                  "I consider Switzerland one of the most beautiful countries in the world and easily the most beautiful country I have visited in Europe.",
+                  "It felt like it would be a wonderful place to live if I could afford it.",
+                  "The cost of almost everything really stood out to me."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "I did not need a visa to enter.",
+                "currency": "Swiss Franc (₣/S.Fr/Fr, CHF)",
+                "paymentNotes": [
+                  "Cards seemed to be used more often than cash.",
+                  "Both cash and cards were usually accepted."
+                ],
+                "transportNotes": [
+                  "Trains are the easiest way to travel between cities.",
+                  "I found the train network excellent, and many routes offered incredible scenery.",
+                  "Cities generally have buses and trams that make local travel easy.",
+                  "A car can be useful, or even necessary, for reaching less touristy areas and cheaper accommodation."
+                ],
+                "languageNotes": [
+                  "English proficiency is generally very high.",
+                  "English may be less common outside tourist-focused areas.",
+                  "The official languages are German, French, Italian, and Romansh.",
+                  "Swiss German can be difficult for speakers of standard German to understand."
+                ],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Summer",
+                    "notes": [
+                      "I found the weather very pleasant and comfortable, especially compared to Southern Europe."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [
+                  "Fondue",
+                  "Raclette",
+                  "Rösti",
+                  "Zürcher Geschnetzeltes",
+                  "Swiss chocolate",
+                  "Swiss cheese"
+                ],
+                "foodNotes": [
+                  "Switzerland has many varieties of high-quality cheese.",
+                  "I enjoyed the chocolate.",
+                  "Swiss wine is excellent."
+                ]
+              },
+              "regionsOverview": [
+                {
+                  "name": "Ticino",
+                  "knownFor": [
+                    "Mild climate",
+                    "Mediterranean atmosphere",
+                    "Lake Maggiore",
+                    "Lake Lugano"
+                  ],
+                  "notes": []
+                },
+                {
+                  "name": "Zürich",
+                  "knownFor": [
+                    "Beautiful old town",
+                    "Lake Zürich",
+                    "Regional food",
+                    "Nature around the city"
+                  ],
+                  "notes": []
+                }
+              ],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Lugano",
@@ -3881,7 +4888,96 @@
         },
         {
           "name": "vatican city",
-          "data": [],
+          "coverImg": "",
+          "data": [
+            {
+              "summary": {
+                "overallRating": "★★★☆☆",
+                "affordability": "★☆☆☆☆",
+                "transportRating": "★★★★★",
+                "foodRating": "N/A",
+                "returnInterest": {
+                  "level": "★☆☆☆☆",
+                  "note": "If I ever happen to be back in Rome, I will go and see the inside of the Basilica and museum."
+                }
+              },
+              "description": {
+                "intro": "Vatican City is a small independent city-state surrounded by Rome and is known for its religious significance, historic influence, and remarkable architecture. Although I only spent a limited amount of time there, I was impressed by the scale and appearance of its landmarks. The experience left me interested in returning someday to see more of the interior attractions.",
+                "standouts": [
+                  "The architecture and landmarks were very impressive.",
+                  "The line to enter the Basilica was extremely long."
+                ],
+                "tips": [
+                  "Consider getting a skip-the-line ticket if you want to visit the main attractions."
+                ],
+                "thingsToKnow": [
+                  "The main visitor-accessible sites are St. Peter's Square, St. Peter's Basilica, and the Vatican Museums."
+                ],
+                "culturalNotes": [],
+                "personalNotes": [
+                  "I only visited St. Peter's Square because the queue to enter the Basilica wrapped around the entire square.",
+                  "Everything looked very impressive from the outside."
+                ]
+              },
+              "travelPracticalities": {
+                "visaNotes": "I didn't need a visa.",
+                "currency": "Euro (€, EUR)",
+                "paymentNotes": [],
+                "transportNotes": [
+                  "The Vatican is really small, so you can easily walk around."
+                ],
+                "languageNotes": [
+                  "The official languages are Latin and Italian."
+                ],
+                "packingNotes": [],
+                "seasonalNotes": [
+                  {
+                    "season": "Winter",
+                    "notes": [
+                      "Visited early January and the weather was quite nice, although the wind could get a little chilly."
+                    ]
+                  }
+                ]
+              },
+              "foodCulture": {
+                "mustTryDishes": [],
+                "foodNotes": []
+              },
+              "regionsOverview": [
+                {
+                  "name": "St. Peter’s Square",
+                  "knownFor": [
+                    "Religious landmark",
+                    "Large public square"
+                  ],
+                  "notes": []
+                },
+                {
+                  "name": "St. Peter’s Basilica",
+                  "knownFor": [
+                    "Religious landmark",
+                    "Historic basilica"
+                  ],
+                  "notes": []
+                },
+                {
+                  "name": "Vatican Museums",
+                  "knownFor": [
+                    "Museums",
+                    "Religious and historical collections"
+                  ],
+                  "notes": []
+                }
+              ],
+              "recommendedApps": [],
+              "recommendationsFromOthers": {},
+              "metadata": {
+                "tags": [],
+                "status": "",
+                "lastUpdated": ""
+              }
+            }
+          ],
           "places": [
             {
               "name": "Civitas Vaticana - Città del Vaticano",

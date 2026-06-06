@@ -15,8 +15,7 @@
       },
       "description": {
         "intro": "",
-        "pros": [],
-        "cons": [],
+        "standouts": [],
         "tips": [],
         "thingsToKnow": [],
         "culturalNotes": [],
@@ -24,15 +23,15 @@
       },
       "travelPracticalities": {
         "visaNotes": "",
-        "currencyNotes": "",
-        "paymentMethods": [],
-        "transportTips": [],
-        "languageTips": [],
+        "currency": "",
+        "paymentNotes": [],
+        "transportNotes": [],
+        "languageNotes": [],
         "packingNotes": [],
         "seasonalNotes": [
           {
             "season": "",
-            "notes": ""
+            "notes": []
           }
         ]
       },
@@ -55,15 +54,7 @@
           "notes": ""
         }
       ],
-      "recommendationsFromOthers": {
-        "<list>": [
-          {
-            "name": "",
-            "notes": [],
-            "area": ""
-          }
-        ]
-      },
+      "recommendationsFromOthers": {},
       "metadata": {
         "tags": [],
         "status": "",
