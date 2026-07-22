@@ -1,6 +1,100 @@
 {
   "name": "andorra",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★★⯪",
+        "affordability": "★★★☆☆",
+        "transportRating": "★★⯪☆☆",
+        "foodRating": "★★★⯪☆",
+        "returnInterest": {
+          "level": "★★★★⯪",
+          "note": "Definitely want to return, preferably for a road trip or through-hike."
+        }
+      },
+      "description": {
+        "intro": "Andorra is a small country in the Pyrenees Mountains between Spain and France, known for its mountain landscapes, hiking trails, and ski resorts. I found it to be a beautiful and relaxing place, with stunning valleys, charming towns, and well-maintained outdoor infrastructure. It left a strong impression on me and remains my favorite country in Europe so far.",
+        "standouts": [
+          "The mountain scenery was stunning.",
+          "I loved the villages and towns.",
+          "The hiking trails were nice.",
+          "I really enjoyed the relaxed atmosphere.",
+          "The weather was great during my visit.",
+          "The architecture stood out to me.",
+          "I enjoyed the food.",
+          "The mountain paths directly adjacent to the city were very well maintained.",
+          "It felt like a destination that can be enjoyed year-round."
+        ],
+        "tips": [
+          "Consider visiting for hiking in summer, skiing in winter, or to enjoy the spas.",
+          "A road trip would probably be a great way to explore the country."
+        ],
+        "thingsToKnow": [
+          "Andorra is approximately 25 to 30 km in diameter.",
+          "The highest point is Coma Pedrosa at 2,946 meters.",
+          "The lowest point is Riu Runer at 840 meters.",
+          "The country's largest agricultural export is tobacco.",
+          "The country does not have an airport."
+        ],
+        "culturalNotes": [
+          "The culture felt like a blend of Catalan, Spanish, and French influences.",
+          "Although Catalan is the official language, I noticed that Spanish seemed to be spoken more commonly in everyday life, often mixed with some French."
+        ],
+        "personalNotes": [
+          "I absolutely loved Andorra, and it is currently my favorite country in Europe.",
+          "I really enjoyed the relaxed atmosphere.",
+          "The architecture style I saw quite often; where they combine wood with rough stone looked very charming",
+          "One thing that fascinated me was seeing multi-level apartment buildings built into the mountainsides, where people could live in an apartment while still having their own vegetable garden on the slope below."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa to enter.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [
+          "Both cards and cash are widely accepted."
+        ],
+        "transportNotes": [
+          "The most practical way to reach Andorra is by bus or car from nearby cities in Spain or France, such as Barcelona or Toulouse, which usually takes around 3.5 to 4 hours.",
+          "There are bus services within the country, but I didn't make use of them.",
+          "Many places are close enough together to explore on foot."
+        ],
+        "languageNotes": [
+          "Catalan is the official language.",
+          "Spanish appeared to be the most commonly spoken language in daily life.",
+          "French is also commonly heard.",
+          "Many people speak English as well."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "The mountains offer beautiful hiking trails throughout the country."
+            ]
+          },
+          {
+            "season": "Winter",
+            "notes": [
+              "Skiing is one of the main attractions during the winter season."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [],
+        "foodNotes": []
+      },
+      "regionsOverview": [],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Andorra la Vella",

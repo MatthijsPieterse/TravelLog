@@ -1,6 +1,92 @@
 {
   "name": "norway",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★⯪☆",
+        "affordability": "★☆☆☆☆",
+        "transportRating": "N/A",
+        "foodRating": "N/A",
+        "returnInterest": {
+          "level": "★★★★⯪",
+          "note": "I would really like to return; preferably for a road trip, and explore the nature and landscapes of Norway."
+        }
+      },
+      "description": {
+        "intro": "Norway is a Scandinavian country known for its dramatic fjords, mountains, and northern landscapes. I have not explored much of the country yet, so it is hard for me to judge it as a whole. Despite being sick for the entire trip and arriving sleep deprived after a night bus from Stockholm to Oslo, I still came away with a very positive impression.",
+        "standouts": [
+          "Modern architecture mixed with historic areas.",
+          "Very expensive.",
+          "Sunny winter weather made the cold feel manageable."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [],
+        "personalNotes": [
+          "I was sick and sleep deprived for the entire time I was in Norway, so I didn't get to enjoy it as much as I wanted to."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa.",
+        "currency": "Norwegian Krone (kr, NOK)",
+        "paymentNotes": [
+          "Card was the most commonly used payment method.",
+          "I believe most places also accepted cash."
+        ],
+        "transportNotes": [
+          "Norway has quite an extensive train network."
+        ],
+        "languageNotes": [
+          "The official languages are Norwegian and Sami.",
+          "Norwegian has two offical written forms: Bokmål and Nynorsk.",
+          "Sami is a Uralic language spoken by small groups of indiginous people in the north of the country.",
+          "Although Sami is counted as one language there are actually several different Sami languages, which are not mutually intelligible and around 4 of them are spoken in Norway.",
+          "English was widely spoken and communication was very easy."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Winter",
+            "notes": [
+              "I visited in mid-winter.",
+              "It was not extremely cold because I got lucky with a lot of sunshine."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [],
+        "foodNotes": []
+      },
+      "regionsOverview": [
+        {
+          "name": "Oslo",
+          "knownFor": [
+            "Modern architecture",
+            "Historic areas",
+            "Capital city"
+          ],
+          "notes": [
+            "I enjoyed Oslo much more than I expected.",
+            "The city felt relaxed and modern.",
+            "It was quite walkable and felt smaller than its actual size.",
+            "I found it expensive."
+          ]
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [
+          "winter",
+          "expensive"
+        ],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Oslo",

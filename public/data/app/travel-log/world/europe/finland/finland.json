@@ -1,6 +1,240 @@
 {
   "name": "finland",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★★☆",
+        "affordability": "★☆☆☆☆",
+        "transportRating": "★★★★☆",
+        "foodRating": "★★☆☆☆",
+        "returnInterest": {
+          "level": "★★★☆☆",
+          "note": "I would gladly spend a few more months living in Finland, although I'm not sure I would return for a dedicated trip just to see more of the country."
+        }
+      },
+      "description": {
+        "intro": "Finland is a northern European country known for its vast forests and countless lakes. I lived here for five months and absolutely loved my time in the country. Some of my favorite memories were spending time at lakeside saunas with friends and experiencing the unique student culture. For me, Finland felt peaceful, beautiful, and nice to live in.",
+        "standouts": [
+          "Excellent sauna culture.",
+          "Unique and well-organized student culture.",
+          "Beautiful forests and lakes.",
+          "The nature is generally more impressive than the cities.",
+          "Quite expensive.",
+          "Very cloudy during autumn and winter.",
+          "Good nationwide public transport."
+        ],
+        "tips": [
+          "Book long-distance and night train tickets in advance to get much lower prices.",
+          "If visiting Lapland in winter by car, make sure your car has winter tires.",
+          "If driving to Lapland, bring groceries from elsewhere because local stores can be expensive and have limited stock.",
+          "For students, get the Kide app to find student events and parties.",
+          "Buffets are often one of the cheapest ways to eat out, especially on weekdays.",
+          "If you plan to spend time in Lapland, having access to a car makes getting around much easier."
+        ],
+        "thingsToKnow": [
+          "Around 86% of the country's land area is covered by forest.",
+          "Finland has around 187,888 lakes — when counting bodies of water larger than 500 m².",
+          "Finland has 41 national parks.",
+          "Alcohol above 8% can only be sold at Alko stores.",
+          "Stores cannot sell alcohol after 21:00.",
+          "The legal age to buy distilled alcohol above 22% is 20.",
+          "Santa Claus lives in Lapland, in the town of Rovaniemi."
+        ],
+        "culturalNotes": [
+          "Sauna culture is a major part of everyday life.",
+          "Student culture is highly organized and centered around student overalls (haalarit) and collectible patches (haalarimerkit).",
+          "Students attend events, complete challenges, and collect or buy patches for their overalls.",
+          "Finland has a strong drinking culture.",
+          "Finnish breweries often sell the same beer in many different alcohol percentages because of alcohol taxation."
+        ],
+        "personalNotes": [
+          "Some of my favorite memories were going to the sauna by the lake with friends and spending time around lakes in general, so I highly recommend people to go to a sauna by a lake (and bring some beer).",
+          "The student culture was one of my favorite aspects of living in Finland.",
+          "I found Finland's nature absolutely stunning, especially the forests, lakes, and snow-covered landscapes in Lapland.",
+          "I only saw the aurora properly three times during my five months there because it was constantly cloudy.",
+          "Despite the constant cloudiness, it didn't rain that often.",
+          "I noticed that fruit and vegetables in supermarkets were often in surprisingly poor condition compared to what I am used to in the Netherlands.",
+          "I found it annoying that local public transport systems were managed separately by city, requiring different apps in different places, but this did make the apps specialised for each indivdual city which made them a lot better then google maps; which is very hard to do.",
+          "I found Finland to be a very peaceful and enjoyable place to live, although I don't think I would want to live here permenantly myself."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa to enter. As an EU citizen, I did need to complete an EU registration to stay longer than three months, which cost me 53 euros.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [
+          "Card was the most common form of payment, but cash was usually accepted aswell.",
+          "Students studying in Finland can often receive discounts on many services and purchases, inluding a 50% discount on trains and long distance busses."
+        ],
+        "transportNotes": [
+          "Finland is easy to travel around by public transport.",
+          "There are good train connections throughout much of the country (especially in the south and west).",
+          "There are also many bus services.",
+          "Eastern Finland can be more difficult to reach by public transport because connections are much weaker.",
+          "Night trains are common, but sleeping in the regular seating areas can be difficult because the bright lights remain on throughout the night.",
+          "Public transport in Lapland can be limited, with some bus routes only operating once or twice per day.",
+          "The VR app is very useful for booking and managing train tickets nation wide.",
+          "Different cities and regions use different local public transport apps.",
+          "Local transport is devided into zones which allowes you to get tickets for only the zones that you need, which reduces the cost of tickets.",
+          "Tickets in general are valid for a specific amount of time after purchase within the selected zones, rather than for a specific trip."
+        ],
+        "languageNotes": [
+          "Finland has two official languages: Finnish and Swedish.",
+          "They also consider the Sami languages as a whole as official languages, but as they are indiginous languages they are only rarley spoken in the northernmost parts of the country.",
+          "Everything is generally available in both Finnish and Swedish, including place names and street names.",
+          "The dual-language naming system can be confusing when navigating.",
+          "In most of Finland, very few people actually speak Swedish fluently.",
+          "More people speak Swedish on the west coast and in the finnish independant terretory of Åland it is the most common language."
+        ],
+        "packingNotes": [
+          "If temperatures are below -20°C, bring a scarf, Buff, or something similar to cover your mouth and nose while outside, otherwise the air will freeze the inside of your nose."
+        ],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "I found the weather quite pleasant during summer.",
+              "The weather was amazing for going swimming in the lakes."
+            ]
+          },
+          {
+            "season": "Autumn",
+            "notes": [
+              "Temperatures can become very cold depending on where you are in the country.",
+              "The weather can be extremely cloudy.",
+              "Cloud coverage can significantly affect temperatures, as it keeps the heath in place like a blanket."
+            ]
+          },
+          {
+            "season": "Winter",
+            "notes": [
+              "Temperatures in northern Finland can remain between -30°C and -40°C for weeks.",
+              "Cloud coverage can significantly affect temperatures, as it keeps the heath in place like a blanket.",
+              "Snow-covered forests in Lapland are particularly beautiful.",
+              "The weather can be extremely cloudy, making aurora viewing difficult."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Lohikeitto",
+          "Karjalanpiirakka",
+          "Korvapuusti",
+          "Makkaraperunat",
+          "Salmiakki",
+          "Ruisleipä",
+          "Mustamakkara",
+          "Reindeer"
+        ],
+        "foodNotes": [
+          "Finnish cuisine is very rustic and hearty.",
+          "Salmiakki ( the pure form of black liquorice) is extremely popular throughout Finland.",
+          "Rye bread is an important part of Finnish food culture.",
+          "The supermarkets didn't have any good regular (non rye) breads.",
+          "Buffets are very common and often surprisingly affordable.",
+          "Student and weekday discounts often make buffets even cheaper.",
+          "I tried a munkki (donut) at Pyynikin Munkkikahvila in Tampere and thought it was good, though not worth a special trip on its own.",
+          "Reindeer meat is relatively common, but other unusual meats such as elk, moose, or bear seemed to be rare to find.",
+          "Meats such as reindeer, elk, moose, and bear are generally very expensive.",
+          "In Tamperre you can try Mustamakkara, I unfortunatly haven't tried it myself, but I heard it is best to get it from this market: Tammelantori, and to order it with perunamuusi (mashed potatoes) and puolukkahillo (lingonberry jam) ."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Lapland (Lappi/Lappland)",
+          "knownFor": [
+            "Snow-covered forests",
+            "Nature",
+            "Tourism",
+            "Santa Claus",
+            "Aurora Borealis",
+            "Cold winters"
+          ],
+          "notes": [
+            "Lapland is even more expensive than the rest of Finland because of tourism.",
+            "Accommodation and daily expenses can become very costly.",
+            "Having access to a cabin you can use, can greatly reduce costs.",
+            "A car is often the easiest way to get around.",
+            "Public transport is very limited in remote areas.",
+            "Grocery stores may have limited supplies and higher prices."
+          ]
+        },
+        {
+          "name": "Pirkanmaa (Pirkanmaa/Birkaland)",
+          "knownFor": [
+            "Student life",
+            "Mustamakkara"
+          ],
+          "notes": [
+            "It was very warm when I was there, as the coldest temperature I experienced in Tampere was around -11°C.",
+            "I enjoyed spending time around the lakes in and around the city.",
+            "Mustamakkara is a local specialty that is best purchased fresh from a market."
+          ]
+        },
+        {
+          "name": "Uusimaa (Uusimaa/Nyland)",
+          "knownFor": [
+            "Capital city",
+            "Islands",
+            "Ruïnes"
+          ],
+          "notes": [
+            "Reindeer meat did not seem excessively expensive compared to other foods because Helsinki was already generally expensive."
+          ]
+        }
+      ],
+      "recommendedApps": [
+        {
+          "name": "VR",
+          "category": "Transport",
+          "purpose": "Book and manage train tickets.",
+          "notes": "I found it very easy to use for booking and managing train travel."
+        },
+        {
+          "name": "Kide",
+          "category": "Activities",
+          "purpose": "Find student activities, events, and parties.",
+          "notes": "I would strongly recommend it for students in Finland."
+        },
+        {
+          "name": "Tuudo",
+          "category": "Utilities",
+          "purpose": "Access university services such as schedules, campus maps, student restaurant menus, and study information.",
+          "notes": "Many Finnish universities use Tuudo, making it a convenient all-in-one app for student life."
+        },
+        {
+          "name": "Tori.fi",
+          "category": "Store",
+          "purpose": "Buy and sell second-hand items, furniture, and other goods.",
+          "notes": "Very useful for finding affordable second-hand items, especially when moving in or out."
+        },
+        {
+          "name": "Zadaa",
+          "category": "Store",
+          "purpose": "Buy and sell second-hand clothing and fashion items.",
+          "notes": "A great option for affordable second-hand fashion and a more curated experience than general marketplaces."
+        }
+      ],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [
+          "nature",
+          "sauna",
+          "student-life",
+          "lakes",
+          "forests",
+          "public-transport",
+          "winter",
+          "lapland",
+          "expensive",
+          "northern-europe"
+        ],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Tampere",

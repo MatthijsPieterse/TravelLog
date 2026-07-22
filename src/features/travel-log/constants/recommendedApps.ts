@@ -7,6 +7,7 @@ export const RECOMMENDED_APP_CATEGORY_COLORS: Record<string, string> = {
   language: "bg-rose-50 text-rose-700 border-rose-200",
   activities: "bg-purple-50 text-purple-700 border-purple-200",
   utilities: "bg-stone-50 text-stone-700 border-stone-200",
+  store: "bg-orange-50 text-orange-700 border-orange-200",
 };
 
 export const DEFAULT_RECOMMENDED_APP_CATEGORY_COLOR = "bg-stone-50 text-stone-600 border-stone-200";

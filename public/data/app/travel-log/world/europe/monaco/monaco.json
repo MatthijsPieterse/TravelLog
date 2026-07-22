@@ -1,6 +1,67 @@
 {
   "name": "monaco",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★☆☆☆",
+        "affordability": "★☆☆☆☆",
+        "transportRating": "★★★☆☆",
+        "foodRating": "N/A",
+        "returnInterest": {
+          "level": "★☆☆☆☆",
+          "note": "Maybe if I want to visit the casino or if I ever become rich enough."
+        }
+      },
+      "description": {
+        "intro": "Monaco is a tiny Mediterranean city-state known for its wealth, luxury lifestyle, yachts, and famous casino. My impression was that the country revolves heavily around luxury experiences and high-end living. While it was interesting to see, it is not a place I currently feel a strong desire to revisit.",
+        "standouts": [
+          "Everything felt extremely expensive."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [],
+        "personalNotes": [
+          "I felt like there was not much to do besides eating at expensive restaurants and visiting the casino.",
+          "It did not seem to offer many activities outside of luxury-oriented experiences.",
+          "The atmosphere felt extremely luxurious."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "",
+        "currency": "",
+        "paymentNotes": [],
+        "transportNotes": [
+          "Monaco is easily accessible by train from both France and Italy.",
+          "Once there, most places can be reached on foot, although cars are also commonly used."
+        ],
+        "languageNotes": [],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "The weather can become extremely hot."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [],
+        "foodNotes": [
+          "Luxury and high-end restaurants are common."
+        ]
+      },
+      "regionsOverview": [],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Monaco",

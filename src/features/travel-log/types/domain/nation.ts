@@ -13,8 +13,7 @@ export type NationSummary = {
 
 export type NationDescription = {
   intro?: string;
-  pros?: string[];
-  cons?: string[];
+  standouts?: string[];
   tips?: string[];
   thingsToKnow?: string[];
   culturalNotes?: string[];
@@ -24,9 +23,10 @@ export type NationDescription = {
 export type TravelPracticalities = {
   visaNotes?: string;
   currency?: string;
+  paymentNotes?: string[];
   paymentCulture?: string[];
-  transportTips?: string[];
-  languageTips?: string[];
+  transportNotes?: string[];
+  languageNotes?: string[];
   packingNotes?: string[];
   seasonalNotes?: SeasonalNote[];
 };

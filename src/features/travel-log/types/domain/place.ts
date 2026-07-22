@@ -30,12 +30,11 @@ export type PlaceEntry = {
   };
   description?: {
     intro?: string;
-    pros?: string[];
-    cons?: string[];
+    standouts?: string[];
     tips?: string[];
     personalNotes?: string[];
     thingsToKnow?: string[];
-    transportTips?: string[];
+    transportNotes?: string[];
   };
   lists?: {
     activities?: Array<PlaceListGroup<ActivityItem>>;

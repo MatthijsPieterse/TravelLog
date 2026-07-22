@@ -1,6 +1,77 @@
 {
   "name": "slovakia",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★⯪☆",
+        "affordability": "★★★⯪☆",
+        "transportRating": "★★⯪☆☆",
+        "foodRating": "★★★⯪☆",
+        "returnInterest": {
+          "level": "★★★⯪☆",
+          "note": "Definitely want to return, but it's not a top priority for me"
+        }
+      },
+      "description": {
+        "intro": "Slovakia is a Central European country known for its historic towns, mountain landscapes, and cultural heritage. I have only explored a small part of it so far, but I really enjoyed the time I spent there. I found it very affordable, and it felt like there was still plenty left for me to discover.",
+        "standouts": [
+          "I found Slovakia very affordable.",
+          "I really enjoyed the food.",
+          "The natural scenery was beautiful."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [],
+        "personalNotes": [
+          "I have unfortunatly not explored much of Slovakia yet.",
+          "I loved my time there."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I didn't need a visa.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [],
+        "transportNotes": [
+          "I noticed that train times were not particularly reliable.",
+          "The rail system felt poorly organized to me, as platform information was often only announced shortly before departure.",
+          "At least in Bratislava, I found the bus system to be quite good."
+        ],
+        "languageNotes": [
+          "The primary language is Slovak.",
+          "In my experience the English proficiency was generally not very high, although many younger people spoke it quite well."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": ["The weather was quite nice, it felt like a relief compared to the heat in the south of Europe."]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Bryndzové halušky",
+          "Pirohy"
+        ],
+        "foodNotes": []
+      },
+      "regionsOverview": [],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [
+          "history",
+          "food",
+          "nature",
+          "culture",
+          "budget-friendly"
+        ],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Bratislava",

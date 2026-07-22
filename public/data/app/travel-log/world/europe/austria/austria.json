@@ -1,6 +1,119 @@
 {
   "name": "austria",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★⯪☆☆",
+        "affordability": "★★⯪☆☆",
+        "transportRating": "★★★⯪☆",
+        "foodRating": "★★★☆☆",
+        "returnInterest": {
+          "level": "★★⯪☆☆",
+          "note": "It's a nice country, but it doesn't come to mind when I think about future trips."
+        }
+      },
+      "description": {
+        "intro": "Austria is a Central European country known for its alpine landscapes, historic cities, and strong cultural traditions. During my visit, I appreciated the mountain scenery, infrastructure, and local food and drink culture. While I enjoyed my time there, it is not a destination I currently feel a strong urge to revisit.",
+        "standouts": [
+          "The mountain landscapes were beautiful.",
+          "The country has a rich history.",
+          "The infrastructure was generally very good.",
+          "The bakeries were very nice.",
+          "I thought the beer was excellent.",
+          "I found it reasonably affordable.",
+          "The summer weather felt very comfortable."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [
+          "People appeared to be proud of their country and culture."
+        ],
+        "personalNotes": [
+          "In my experience, I did not always find people particularly welcoming toward tourists."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I didn't need a visa.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [
+          "Both cards and cash are generally accepted."
+        ],
+        "transportNotes": [
+          "Austria has a good train network for traveling around the country.",
+          "Train journeys through mountainous regions can be quite slow because trains often travel at reduced speeds (around 60km/h).",
+          "Major cities have good tram systems.",
+          "I found the bus networks in cities to be quite good."
+        ],
+        "languageNotes": [
+          "Austrian German is the main language.",
+          "Most people also speak English."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "The weather is generally comfortable and neither too hot nor too cold."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Apfelstrudel",
+          "Kaiserschmarrn"
+        ],
+        "foodNotes": [
+          "I found the bakeries particularly good.",
+          "Beer culture is strong throughout the country.",
+          "Many places serve their own local beer.",
+          "I would definitely recommend trying a Wiener Schnitzel while in Austria, although I personally would not make a trip to the country just for that dish."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Vorarlberg",
+          "knownFor": [
+            "Winter sports",
+            "Alpine cheese",
+            "Timber architecture"
+          ],
+          "notes": []
+        },
+        {
+          "name": "Oberösterreich",
+          "knownFor": [
+            "Nature",
+            "Local dishes",
+            "Agriculture",
+            "History",
+            "Castles",
+            "Linz"
+          ],
+          "notes": []
+        },
+        {
+          "name": "Niederösterreich",
+          "knownFor": [
+            "White wines",
+            "Historical architecture",
+            "River valleys",
+            "Diverse nature",
+            "Vienna"
+          ],
+          "notes": []
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Feldkirch",

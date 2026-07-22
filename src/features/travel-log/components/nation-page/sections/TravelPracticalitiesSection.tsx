@@ -6,8 +6,21 @@ type TravelPracticalitiesSectionProps = {
   practicalities?: TravelPracticalities;
 };
 
+const normalizeList = (value: unknown): string[] => {
+  if (Array.isArray(value)) {
+    return value.filter((item): item is string => typeof item === "string" && item.trim().length > 0);
+  }
+
+  if (typeof value === "string") {
+    return value.trim().length > 0 ? [value] : [];
+  }
+
+  return [];
+};
+
 export const TravelPracticalitiesSection = ({ practicalities }: TravelPracticalitiesSectionProps) => {
   if (!practicalities) return null;
+  const paymentItems = practicalities.paymentNotes ?? practicalities.paymentCulture ?? [];
 
   // Build tabs based on available data
   const tabs = [
@@ -15,19 +28,19 @@ export const TravelPracticalitiesSection = ({ practicalities }: TravelPracticali
       id: "visa-payments",
       label: "Visa & Payments",
       icon: "💳",
-      hasContent: !!(practicalities.visaNotes || practicalities.currency || practicalities.paymentCulture?.length),
+      hasContent: !!(practicalities.visaNotes || practicalities.currency || paymentItems.length),
     },
     {
       id: "transport",
       label: "Transport",
       icon: "🚆",
-      hasContent: !!(practicalities.transportTips?.length),
+      hasContent: !!(practicalities.transportNotes?.length),
     },
     {
       id: "language",
       label: "Language",
       icon: "🗣️",
-      hasContent: !!(practicalities.languageTips?.length),
+      hasContent: !!(practicalities.languageNotes?.length),
     },
     {
       id: "packing-seasonal",
@@ -59,17 +72,17 @@ export const TravelPracticalitiesSection = ({ practicalities }: TravelPracticali
                 </div>
               )}
 
-              <ListSection items={practicalities.paymentCulture} title="Payment Methods" layout="bullets" />
+              <ListSection items={paymentItems} title="Payment Methods" layout="bullets" />
             </div>
           );
         }
 
         if (activeTabId === "transport") {
-          return <ListSection items={practicalities.transportTips} title="Transport Tips" layout="bullets" />;
+          return <ListSection items={practicalities.transportNotes} title="Transport Notes" layout="bullets" />;
         }
 
         if (activeTabId === "language") {
-          return <ListSection items={practicalities.languageTips} title="Language Tips" layout="bullets" />;
+          return <ListSection items={practicalities.languageNotes} title="Language Notes" layout="bullets" />;
         }
 
         if (activeTabId === "packing-seasonal") {
@@ -84,7 +97,7 @@ export const TravelPracticalitiesSection = ({ practicalities }: TravelPracticali
                     {practicalities.seasonalNotes.map((season, idx) => (
                       <div key={idx} className="rounded-lg border border-stone-100 bg-stone-50 p-3">
                         <p className="text-xs font-semibold text-stone-700 uppercase tracking-wide">{season.season}</p>
-                        <ListSection items={season.notes} layout="bullets" />
+                        <ListSection items={normalizeList((season as { notes?: unknown }).notes)} layout="bullets" />
                       </div>
                     ))}
                   </div>

@@ -1,6 +1,106 @@
 {
   "name": "estonia",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★☆☆",
+        "affordability": "★★⯪☆☆",
+        "transportRating": "★★★⯪☆",
+        "foodRating": "★★★☆☆",
+        "returnInterest": {
+          "level": "★★⯪☆☆",
+          "note": "I would like to return and do a road trip through the Baltics to explore more of the nature and historic towns, but it's not at the top of my list."
+        }
+      },
+      "description": {
+        "intro": "Estonia is a Baltic country known for its forests, historic towns, and unique language. I have visited twice, although so far I have only explored the capital. From what I have seen, it is a pleasant country with interesting history, beautiful nature, and generally reasonable prices — at least outside the capital.",
+        "standouts": [
+          "Beautiful forests.",
+          "Bus travel was affordable.",
+          "Beautifull medieval architecture.",
+          "Good beer."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [],
+        "personalNotes": []
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [
+          "Both card and cash payments were widely accepted."
+        ],
+        "transportNotes": [
+          "I found it easy and affordable to travel around the country by bus.",
+          "For reaching more remote places, I think having a car would be more practical.",
+          "Most rental companies in the Baltics charge extra fees for crossing international borders, which can be around €100 per border."
+        ],
+        "languageNotes": [
+          "The official language is Estonian.",
+          "Estonian is a Uralic language and is closely related to Finnish.",
+          "Although Estonian and Finnish share many similar words, some words have completely different meanings and speakers cannot fully understand each other.",
+          "I found the English level in Tallinn to be quite good."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "The weather was very nice for two days with lot's of sun, but we also experienced very grey and cloudy days."
+            ]
+          },
+          {
+            "season": "Autumn",
+            "notes": [
+              "The weather was a little on the colder side, but I liked it.",
+              "The red and orange colours of the forests were beautiful."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Estonian pies",
+          "Estonian dumplings"
+        ],
+        "foodNotes": [
+          "I really enjoyed the hearty Estonian pies.",
+          "I also liked the Estonian dumplings.",
+          "The beer in estonia was very good."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Harju County",
+          "knownFor": [
+            "Capital city",
+            "Tourism"
+          ],
+          "notes": [
+            "This is the only part of Estonia I have explored so far.",
+            "I found the English level to be quite good.",
+            "Because of the large amount of tourism from Finland, I found Tallinn considerably more expensive than the rest of the country."
+          ]
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [
+          "history",
+          "forests",
+          "baltics",
+          "bus-travel",
+          "beer",
+          "nature"
+        ],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Tallinn",

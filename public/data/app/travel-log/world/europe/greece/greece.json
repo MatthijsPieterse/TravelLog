@@ -1,6 +1,73 @@
 {
   "name": "greece",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★☆☆",
+        "affordability": "N/A",
+        "transportRating": "N/A",
+        "foodRating": "★★★⯪☆",
+        "returnInterest": {
+          "level": "★★★⯪☆",
+          "note": "I definitly want to return to actually see the country and gain a better understanding of it."
+        }
+      },
+       "description": {
+        "intro": "Greece is a Mediterranean country known for its long history, islands, coastline, beach towns, and traditional cuisine. My experience there was limited to a family vacation when I was younger, so I do not feel like I have truly explored the country yet. Even so, I remember enjoying the food and coastal atmosphere, and I would like to return for a more complete experience.",
+        "standouts": [
+          "The country's long and interesting history.",
+          "I enjoyed the food.",
+          "The coastal areas were beautiful.",
+          "Many areas can be very touristy."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [],
+        "personalNotes": [
+          "I only visited Greece on a family vacation as a child and have not yet had a good opportunity to properly explore the country."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [],
+        "transportNotes": [],
+        "languageNotes": [
+          "Greek is the official language."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "Summers can be very hot."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Tzatziki",
+          "Moussaka",
+          "Souvlaki",
+          "Gyros",
+          "Spanakopita"
+        ],
+        "foodNotes": [
+          "Greece has an amazing cuisine."
+        ]
+      },
+      "regionsOverview": [],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Λίνδος",

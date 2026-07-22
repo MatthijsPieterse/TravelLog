@@ -1,6 +1,113 @@
 {
   "name": "luxembourg",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★⯪☆☆",
+        "affordability": "★⯪☆☆☆",
+        "transportRating": "★★★☆☆",
+        "foodRating": "★★★☆☆",
+        "returnInterest": {
+          "level": "★★☆☆☆",
+          "note": "Maybe it would be nice to drive through the country instead of taking public transport, but I would not make a dedicated trip to Luxembourg again."
+        }
+      },
+      "description": {
+        "intro": "Luxembourg is a small European country known for its castles, historic towns, and rolling landscapes. I spent about three days there, which felt like enough time to see much of the country. The peaceful atmosphere, grassy hills, forests, and historic sites made it enjoyable to explore, especially at a relaxed pace.",
+        "standouts": [
+          "Large number of castles and ruins.",
+          "Peaceful atmosphere.",
+          "Free public transport nationwide.",
+          "Luxembourg City is enjoyable to explore.",
+          "Good opportunities for walking, casual exploring, and climbing."
+        ],
+        "tips": [
+          "I think exploring Luxembourg is much more efficient with a car, especially if you want to visit rural areas.",
+          "I would mainly come for the castles, ruins, Luxembourg City, and the country's history.",
+          "Three days felt like enough time to travel through most of the country."
+        ],
+        "thingsToKnow": [
+          "Luxembourg is one of the richest countries in the world.",
+          "It is expensive, although I found it less expensive than Switzerland or the Nordic countries."
+        ],
+        "culturalNotes": [
+          "Luxembourg is closely connected historically to the Netherlands.",
+          "The royal families of Luxembourg and the Netherlands descend from the same dynasty and are connected through the Order of the Golden Lion of Nassau."
+        ],
+        "personalNotes": [
+          "Driving through the country (by bus) was pleasant because of the grassy hills, forests, and castle ruins.",
+          "The country felt peaceful and relaxing.",
+          "Although I liked the landscapes and nature, I personally would not visit Luxembourg primarily for them because I found similar scenery in Belgium and Germany at a lower cost.",
+          "By the time you leave Luxembourg you will be sick of seeing castles and ruïnes because there are so many of them."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [
+          "Card seemed to be the most widely accepted payment method.",
+          "Outside of Luxembourg City, there were more places that seemed to prefer cash."
+        ],
+        "transportNotes": [
+          "Public transport throughout the country is completely free.",
+          "There is a train line running through the middle of the country connecting Luxembourg City with Liège in Belgium.",
+          "Smaller train lines and buses branch off from the central railway corridor.",
+          "Connections from rural areas to Luxembourg City can be slow because services are infrequent and transfer timings are often poor.",
+          "In many rural areas, buses and trains seemed to run roughly once per hour.",
+          "Overall, public transport was usable, but I think a car would allow much more efficient exploration."
+        ],
+        "languageNotes": [
+          "The official languages are Luxembourgish, French, and German.",
+          "I personally heard French most often.",
+          "German seemed more common closer to the German border in the north, although I still heard a lot of French there.",
+          "English proficiency was very good.",
+          "Luxembourgish was described to me as a mix of French, German, and a bit of Dutch, but I didn't really notice it being spoken while I was there."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "The weather was pleasant, it wasn't too hot."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [],
+        "foodNotes": []
+      },
+      "regionsOverview": [
+        {
+          "name": "Luxembourg",
+          "knownFor": [
+            "Capital city",
+            "History",
+            "Urban exploration"
+          ],
+          "notes": [
+            "I found Luxembourg City quite enjoyable to explore."
+          ]
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [
+          "castles",
+          "ruins",
+          "history",
+          "nature",
+          "walking",
+          "public transport",
+          "luxembourg city"
+        ],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Clervaux",

@@ -1,6 +1,95 @@
 {
   "name": "vatican city",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★☆☆",
+        "affordability": "★☆☆☆☆",
+        "transportRating": "★★★★★",
+        "foodRating": "N/A",
+        "returnInterest": {
+          "level": "★☆☆☆☆",
+          "note": "If I ever happen to be back in Rome, I will go and see the inside of the Basilica and museum."
+        }
+      },
+      "description": {
+        "intro": "Vatican City is a small independent city-state surrounded by Rome and is known for its religious significance, historic influence, and remarkable architecture. Although I only spent a limited amount of time there, I was impressed by the scale and appearance of its landmarks. The experience left me interested in returning someday to see more of the interior attractions.",
+        "standouts": [
+          "The architecture and landmarks were very impressive.",
+          "The line to enter the Basilica was extremely long."
+        ],
+        "tips": [
+          "Consider getting a skip-the-line ticket if you want to visit the main attractions."
+        ],
+        "thingsToKnow": [
+          "The main visitor-accessible sites are St. Peter's Square, St. Peter's Basilica, and the Vatican Museums."
+        ],
+        "culturalNotes": [],
+        "personalNotes": [
+          "I only visited St. Peter's Square because the queue to enter the Basilica wrapped around the entire square.",
+          "Everything looked very impressive from the outside."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I didn't need a visa.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [],
+        "transportNotes": [
+          "The Vatican is really small, so you can easily walk around."
+        ],
+        "languageNotes": [
+          "The official languages are Latin and Italian."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Winter",
+            "notes": [
+              "Visited early January and the weather was quite nice, although the wind could get a little chilly."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [],
+        "foodNotes": []
+      },
+      "regionsOverview": [
+        {
+          "name": "St. Peter’s Square",
+          "knownFor": [
+            "Religious landmark",
+            "Large public square"
+          ],
+          "notes": []
+        },
+        {
+          "name": "St. Peter’s Basilica",
+          "knownFor": [
+            "Religious landmark",
+            "Historic basilica"
+          ],
+          "notes": []
+        },
+        {
+          "name": "Vatican Museums",
+          "knownFor": [
+            "Museums",
+            "Religious and historical collections"
+          ],
+          "notes": []
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Civitas Vaticana - Città del Vaticano",

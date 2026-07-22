@@ -1,6 +1,102 @@
 {
   "name": "latvia",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★⯪☆☆",
+        "affordability": "★★★☆☆",
+        "transportRating": "★★★☆☆",
+        "foodRating": "★★★⯪☆",
+        "returnInterest": {
+          "level": "★★★☆☆",
+          "note": "I would like to return and do a road trip through the Baltics to explore more of the nature and historic towns."
+        }
+      },
+      "description": {
+        "intro": "Latvia is one of the three Baltic countries and is known for its forests, historic sites, and long cultural history. So far I have only visited the capital, Riga, but I enjoyed my time there. From what I saw, the country has beautiful nature, interesting history, and food that I would happily return for. Although I probably wouldn't return to Riga specifically.",
+        "standouts": [
+          "Beautiful forests.",
+          "Historic castles.",
+          "I enjoyed learning about the history.",
+          "Food at markets was affordable.",
+          "Good beer."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [
+          "I found it interesting that many supermarkets sold beer in large plastic bottles, something you don't ever see in Western Europe."
+        ],
+        "personalNotes": []
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [
+          "Both card and cash payments were widely accepted."
+        ],
+        "transportNotes": [
+          "Most rental companies in the Baltics charge extra fees for crossing international borders, which can be around €100 per border."
+        ],
+        "languageNotes": [
+          "The official language is Latvian.",
+          "Latvian is a Baltic language and is closely related to Lithuanian.",
+          "I found the English level in Riga to be quite good."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Autumn",
+            "notes": [
+              "The weather was a little on the colder side, but I liked it.",
+              "The red and orange colours of the forests were beautiful."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Pončiki",
+          "Kartupeļu Pankūkas",
+          "Šašliks"
+        ],
+        "foodNotes": [
+          "I enjoyed the food, especially the different kinds of Pončiki.",
+          "I found very affordable food and beer at the markets.",
+          "I thought the beer was quite good."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Riga",
+          "knownFor": [
+            "Capital city",
+            "Markets",
+            "History"
+          ],
+          "notes": [
+            "This is the only part of Latvia I have explored so far.",
+            "I found it more expensive than I expected.",
+            "The markets offered very affordable food and beer."
+          ]
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [
+          "baltics",
+          "history",
+          "forests",
+          "castles",
+          "beer",
+          "road-trip"
+        ],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Rīga",

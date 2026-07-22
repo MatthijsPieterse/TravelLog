@@ -14,44 +14,42 @@
         }
       },
       "description": {
-        "intro": "Spain offers a good combination of lively cities, rich history, excellent food culture, and a very relaxed atmosphere, making it perfect for both exploring and relaxing.",
-        "pros": [
-          "Excellent food culture with many regional specialties",
-          "Very affordable compared to many western European countries"
+        "intro": "Spain combines lively cities, rich history, excellent food, and a relaxed atmosphere. I found it to be a great destination for both sightseeing and slowing down to enjoy everyday life. The mix of culture, food, and affordability left me wanting to explore much more of the country.",
+        "standouts": [
+          "I really enjoyed the food culture and the variety of regional specialties.",
+          "I found Spain quite affordable."
         ],
-        "cons": [],
         "tips": [],
         "thingsToKnow": [],
         "culturalNotes": [
-          "Dinner time is very late; typically between 21:00 and 23:00",
-          "Nightlife starts late; people often go out to party around 01:00 or later"
+          "Dinner is usually eaten very late, often between 21:00 and 23:00.",
+          "Nightlife starts late, and people often start going out around 01:00 or even later."
         ],
         "personalNotes": []
       },
       "travelPracticalities": {
         "visaNotes": "I didn't need a visa.",
-        "currency": "Euro (€)",
-        "paymentCulture": [
-          "Both cash and card payments are widely accepted"
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [
+          "Both cash and card payments are widely accepted."
         ],
-        "transportTips": [
-          "You can easily travel between major cities by train",
-          "Book long-distance train tickets in advance for better prices",
-          "Spain’s high-speed AVE network is fast and convenient for transportation between major cities",
-          "Connections between smaller cities are often very slow",
-          "You usually have to pass through a security check before accessing high-speed train platforms"
+        "transportNotes": [
+          "Spain's high-speed AVE network is fast and convenient for traveling between major cities.",
+          "Connections between smaller cities can be quite slow.",
+          "I would recommend booking long-distance train tickets in advance to get better prices.",
+          "You usually need to pass through a security check before accessing high-speed train platforms."
         ],
-        "languageTips": [
-          "Learning basic Spanish makes getting around much easier",
-          "English is widely spoken in major cities, but less common in smaller towns",
-          "Regional languages such as Catalan and Valencian are commonly used alongside Spanish in some areas"
+        "languageNotes": [
+          "Learning some basic Spanish makes getting around much easier.",
+          "English is widely spoken in major cities, but it is less common in smaller towns.",
+          "Regional languages such as Catalan and Valencian are commonly used alongside Spanish in some parts of the country."
         ],
         "packingNotes": [],
         "seasonalNotes": [
           {
             "season": "Winter",
             "notes": [
-              "Late winter (around February) had very comfortable temperatures, especially along the east coast."
+              "I found late winter, around February, to have very comfortable temperatures, especially along the east coast."
             ]
           }
         ]
@@ -64,8 +62,10 @@
           "Patatas bravas"
         ],
         "foodNotes": [
-          "There are many tapas bars where you can share small plates of different dishes—definitely worth trying.",
-          "Many restaurants offer a daily set menu (menú del día), and sometimes even breakfast menus, which are usually very affordable."
+          "There are many tapas bars where you can share small plates of different dishes, which I would definitely recommend trying.",
+          "Many restaurants offer a daily set menu (menú del día), and sometimes even breakfast menus, which are usually very affordable.",
+          "I found the wines excellent, and many restaurants offered a good selection of local wines at reasonable prices.",
+          "I was disappointed by the apparent lack of a craft beer culture in bars and restaurants. I could only find local craft beers in supermarkets."
         ]
       },
       "regionsOverview": [
@@ -85,16 +85,14 @@
           "knownFor": [
             "Museums"
           ],
-          "notes": [
-            ""
-          ]
+          "notes": []
         }
       ],
       "recommendedApps": [
         {
           "name": "Renfe",
           "category": "Transport",
-          "purpose": "The app of the national train service.",
+          "purpose": "Official app of the national rail operator.",
           "notes": "",
           "links": [
             {

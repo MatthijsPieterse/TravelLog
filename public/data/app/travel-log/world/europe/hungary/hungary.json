@@ -1,6 +1,98 @@
 {
   "name": "hungary",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★★☆",
+        "affordability": "★★★⯪☆",
+        "transportRating": "★★★☆☆",
+        "foodRating": "★★★★☆",
+        "returnInterest": {
+          "level": "★★★★☆",
+          "note": "Would love to see more of the country."
+        }
+      },
+      "description": {
+        "intro": "Hungary is a Central European country known for its long history, thermal baths, distinctive language, wine regions, and hearty cuisine. I really enjoyed my time there, particularly the food, culture, and historical aspects. The trip left me wanting to return and explore much more of the country.",
+        "standouts": [
+          "The history of the country was quite fascinating.",
+          "I enjoyed the natural scenery.",
+          "The wines were excellent.",
+          "The language and culture felt unique.",
+          "I really enjoyed the food.",
+          "The summer weather was very comfortable."
+        ],
+        "tips": [],
+        "thingsToKnow": [
+          "Hungary has 22 wine regions.",
+          "Hungarian is a Uralic language.",
+          "Hungarian is not related to the surrounding Slavic, Germanic, or Romance languages.",
+          "The closest languages to Hungarian are Finnish and Estonian, although they are not mutually intelligible."
+        ],
+        "culturalNotes": [],
+        "personalNotes": [
+          "I really loved Hungary.",
+          "I would love to explore more of the country.",
+          "I especially enjoyed the food, history, and culture."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I didn't need a visa to enter.",
+        "currency": "Hungarian Forint (Ft, HUF)",
+        "paymentNotes": [
+          "Cash is widely accepted and often preferred, especially in smaller establishments.",
+          "Credit and debit cards are accepted in almost every place in Budapest."
+        ],
+        "transportNotes": [],
+        "languageNotes": [
+          "Hungarian is the official language.",
+          "English proficiency in Budapest seemed quite high.",
+          "I have no experience with English proficiency outside the capital."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "The weather is generally comfortable and neither too hot nor too cold."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Gulyás (Goulash)",
+          "Lángos",
+          "Töltött káposzta",
+          "Galuska/Nokedli",
+          "Palacsinta"
+        ],
+        "foodNotes": [
+          "I found Hungarian food to be hearty and filling.",
+          "Paprika is used extensively throughout Hungarian cuisine."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Central Hungary",
+          "knownFor": [
+            "Budapest",
+            "Thermal baths",
+            "Architecture"
+          ],
+          "notes": []
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Budapest",

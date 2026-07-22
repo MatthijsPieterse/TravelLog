@@ -1,6 +1,99 @@
 {
   "name": "lithuania",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★⯪☆",
+        "affordability": "★★★☆☆",
+        "transportRating": "★★★☆☆",
+        "foodRating": "★★★☆☆",
+        "returnInterest": {
+          "level": "★★★⯪☆",
+          "note": "I would like to return and do a road trip through the Baltics to explore more of the nature and historic towns. I would also like to visit Vilnius again, as I really liked the city."
+        }
+      },
+      "description": {
+        "intro": "Lithuania is the southernmost of the Baltic countries and is known for its forests, historic sites, and cultural heritage. Although I unfortunately did not get to explore many places, I really enjoyed my visit. I liked both the capital city and the scenery I saw while travelling through the country.",
+        "standouts": [
+          "I found it affordable.",
+          "Beautiful forests.",
+          "Many castles and historic buildings.",
+          "Public transport was cheap.",
+          "Good food."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [],
+        "personalNotes": []
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa.",
+        "currency": "Euro (€, EUR)",
+        "paymentNotes": [
+          "Both card and cash payments were widely accepted."
+        ],
+        "transportNotes": [
+          "Buses were very cheap.",
+          "Local trains were also very cheap.",
+          "Most rental companies in the Baltics charge extra fees for crossing international borders, which can be around €100 per border."
+        ],
+        "languageNotes": [
+          "The official language is Lithuanian.",
+          "Lithuanian is a Baltic language and is closely related to Latvian.",
+          "The English level in Vilnius was good."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Autumn",
+            "notes": [
+              "The forests were beautiful with their red and orange colours.",
+              "The weather was a little on the colder side, but I liked it."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Cepelinai",
+          "Kibinai",
+          "Koldūnai"
+        ],
+        "foodNotes": [
+          "I loved the food in Lithuania.",
+          "The beer was decent, although I personally found it less good than the beer in the other two Baltic countries."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Vilnius County",
+          "knownFor": [
+            "Capital city",
+            "Historic sites",
+            "Castles"
+          ],
+          "notes": [
+            "I really liked the capital city."
+          ]
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [
+          "baltics",
+          "forests",
+          "history",
+          "castles",
+          "food",
+          "budget-friendly"
+        ],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Vilnius",

@@ -13,8 +13,7 @@ export const DescriptionSection = ({ description }: DescriptionSectionProps) => 
   const thingsToKnow = description.thingsToKnow?.filter(Boolean) ?? [];
   const hasContent =
     description.intro ||
-    (description.pros?.length ?? 0) > 0 ||
-    (description.cons?.length ?? 0) > 0 ||
+    (description.standouts?.length ?? 0) > 0 ||
     culturalNotes.length > 0 ||
     tips.length > 0 ||
     thingsToKnow.length > 0;
@@ -24,8 +23,7 @@ export const DescriptionSection = ({ description }: DescriptionSectionProps) => 
   return (
     <div className="space-y-4">
       <div className="space-y-2">
-        <ListSection items={description.pros} title="✓ Pros" layout="bullets" />
-        <ListSection items={description.cons} title="⚠ Cons" layout="bullets" />
+        <ListSection items={description.standouts} title="✨ Key Takeaways" layout="bullets" />
         <ListSection items={tips} title="💡 Tips" layout="bullets" />
         <ListSection items={thingsToKnow} title="📌 Things to Know" layout="bullets" />
         <ListSection items={culturalNotes} title="🎭 Cultural Notes" layout="bullets" />

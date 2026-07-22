@@ -20,12 +20,11 @@
       },
       "description": {
         "intro": "",
-        "pros": [],
-        "cons": [],
+        "standouts": [],
         "tips": [],
         "personalNotes": [],
         "thingsToKnow": [],
-        "transportTips": []
+        "transportNotes": []
       },
       "lists": {
         "activities": [
@@ -76,7 +75,7 @@
                 "cuisine": "",
                 "price": "Cheap / Normal / Expensive",
                 "comments": [],
-                "recommendend": "",
+                "recommend": "",
                 "lastUpdated": ""
               }
             ]

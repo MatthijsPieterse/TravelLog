@@ -1,6 +1,85 @@
 {
   "name": "denmark",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★⯪☆☆",
+        "affordability": "⯪☆☆☆☆",
+        "transportRating": "N/A",
+        "foodRating": "N/A",
+        "returnInterest": {
+          "level": "★★★☆☆",
+          "note": "I would like to return to Denmark and explore more of the country, although I probably would not rush back to Copenhagen specifically."
+        }
+      },
+      "description": {
+        "intro": "Denmark is a Scandinavian country known for its high quality of life and for being the home of LEGO. I unfortunately did not get the chance to explore much of the country, so my impressions are fairly limited. Overall, I thought it was alright—pleasant enough to visit, but it did not leave a particularly strong impression on me compared to some other destinations.",
+        "standouts": [
+          "I enjoyed the pastries."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [],
+        "personalNotes": [
+          "I unfortunately did not get the chance to explore much of the country.",
+          "I liked the pastries.",
+          "I was not particularly impressed by Copenhagen, but I still want to return to Denmark because I feel that there is a lot more to discover.",
+          "To my ears, Danish sounded a lot like Dutch when heard from a distance, but became completely incoherent once I was close enough to make out the words.",
+          "I visited a lot of grocery stores hoping to find some cheap food, but the grocery stores were not cheap nor did they have a lot of products in general."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa.",
+        "currency": "Danish Krone (kr, DKK)",
+        "paymentNotes": [
+          "Card seemed to be the most common payment method."
+        ],
+        "transportNotes": [],
+        "languageNotes": [
+          "The official language is Danish.",
+          "Everyone I met spoke great English."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Winter",
+            "notes": [
+              "It was ok temperature-wise, because of the amount of sun that there happened to be."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [],
+        "foodNotes": [
+          "I really enjoyed the pastries."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Hovedstaden",
+          "knownFor": [],
+          "notes": [
+            "I did not enjoy Copenhagen as much as I expected.",
+            "It was nice to visit Copenhagen once, but it is not somewhere I would want to live.",
+            "I am more interested in returning to explore other parts of Denmark than revisiting the capital."
+          ]
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [
+          "pastries",
+          "english-friendly",
+          "nordic"
+        ],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "København",

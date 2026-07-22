@@ -15,11 +15,20 @@ export const RegionsOverviewSection = ({ regions }: RegionsOverviewSectionProps)
       columns="sm"
       renderItem={(region) => {
         const typedRegion = region as RegionOverview;
+        const runtimeNotes = (typedRegion as { notes?: unknown }).notes;
+        const normalizedNotes = Array.isArray(runtimeNotes)
+          ? runtimeNotes.filter((note): note is string => typeof note === "string")
+          : typeof runtimeNotes === "string"
+            ? runtimeNotes.trim()
+              ? [runtimeNotes]
+              : []
+            : [];
+
         return (
           <ItemCard
             title={typedRegion.name}
             tags={typedRegion.knownFor}
-            content={typedRegion.notes?.join(" • ") || undefined}
+            content={normalizedNotes.length ? normalizedNotes.join(" • ") : undefined}
             className="bg-gradient-to-br from-stone-50 to-white hover:border-emerald-200"
           />
         );
@@ -27,4 +36,3 @@ export const RegionsOverviewSection = ({ regions }: RegionsOverviewSectionProps)
     />
   );
 };
-

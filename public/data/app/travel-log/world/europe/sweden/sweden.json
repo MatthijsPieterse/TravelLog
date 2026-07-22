@@ -1,6 +1,76 @@
 {
   "name": "sweden",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★⯪☆",
+        "affordability": "★☆☆☆☆",
+        "transportRating": "N/A",
+        "foodRating": "N/A",
+        "returnInterest": {
+          "level": "★★★★☆",
+          "note": "I would like to return for a road trip and to explore more of Sweden's nature."
+        }
+      },
+      "description": {
+        "intro": "Sweden is a Scandinavian country known for its forests, lakes, northern landscapes, music exports, and global brands such as IKEA. I unfortunately did not get the chance to explore much of the country during my visit. Even though I was sick and visited during a cold winter period, I still enjoyed my time there thanks to the beauty of the capital.",
+        "standouts": [
+          "The capital was beautiful.",
+          "Very expensive."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [],
+        "personalNotes": [
+          "I did not get the chance to explore much of the country.",
+          "I was very sick during my visit.",
+          "I would like to return in the future to see more of the country's nature."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa.",
+        "currency": "Swedish Krona (kr, SEK)",
+        "paymentNotes": [
+          "Paying by card seemed to be the most common method.",
+          "I believe cash was usually accepted as well."
+        ],
+        "transportNotes": [
+          "There pretty cheap busses you can take for long distances between cities.",
+          "There is also an extensive train network, but I did not use it."
+        ],
+        "languageNotes": [
+          "The sole official language is Swedish.",
+          "The level of English in Sweden is very good."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Winter",
+            "notes": [
+              "It was quite cold during my visit."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [],
+        "foodNotes": []
+      },
+      "regionsOverview": [],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [
+          "winter",
+          "expensive",
+          "nature"
+        ],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Stockholm",

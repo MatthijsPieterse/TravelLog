@@ -1,6 +1,89 @@
 {
   "name": "czechia",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★⯪☆",
+        "affordability": "★★★⯪☆",
+        "transportRating": "★★★⯪☆",
+        "foodRating": "★★★⯪☆",
+        "returnInterest": {
+          "level": "★★★⯪☆",
+          "note": "Would love to see more of the country, although it's not the next thing on my list."
+        }
+      },
+      "description": {
+        "intro": "Czechia is a Central European country known for its beer, historic cities, impressive architecture, and relatively affordable prices. I really enjoyed my time there, especially the cities, food, and atmosphere. It also left me wanting to return and explore more of the country's nature and countryside.",
+        "standouts": [
+          "The prices are quite affordable.",
+          "The historic cities were a highlight for me.",
+          "The architecture was beautiful.",
+          "I enjoyed the food."
+        ],
+        "tips": [],
+        "thingsToKnow": [],
+        "culturalNotes": [
+          "Overall, I found people to be friendly."
+        ],
+        "personalNotes": [
+          "I really loved Czechia.",
+          "I especially enjoyed the food, particularly the meat dishes.",
+          "The cities and architecture were amazing.",
+          "I wish I had spent more time exploring Czechia's countryside."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa.",
+        "currency": "Czech Koruna (Kč, CZK)",
+        "paymentNotes": [
+          "Both cards and cash are widely accepted."
+        ],
+        "transportNotes": [
+          "The train network is quite extensive.",
+          "Several of my train journeys did experience delays."
+        ],
+        "languageNotes": [
+          "Czech is the main language.",
+          "The younger generation generally speaks good English."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "The weather was pleasant and neither too hot nor too cold."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [],
+        "foodNotes": [
+          "I noticed that hearty meat dishes were quite common, which I liked."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Prague",
+          "knownFor": [
+            "Historic city",
+            "Architecture"
+          ],
+          "notes": [
+            "It is one of my favorite cities in Europe."
+          ]
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Brno",

@@ -1,6 +1,117 @@
 {
   "name": "switzerland",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★★⯪",
+        "affordability": "☆☆☆☆☆",
+        "transportRating": "★★★★☆",
+        "foodRating": "★★★⯪☆",
+        "returnInterest": {
+          "level": "★★★★⯪",
+          "note": "I definitely want to see more of the country, although next time I would come with a car and a tent."
+        }
+      },
+      "description": {
+        "intro": "Switzerland is known for its dramatic mountain landscapes, lakes, picturesque cities, and high standard of living. I found it to be one of the most beautiful countries I have ever visited, with stunning scenery almost everywhere I went. The only major downside for me was the cost, which can make traveling there feel difficult without camping or budget accommodation far outside of the major cities.",
+        "standouts": [
+          "The mountains, cities, and lakes were incredibly beautiful.",
+          "The public transport network was very good.",
+          "I liked the architecture.",
+          "The train journeys offered amazing views.",
+          "Without camping or very budget-friendly accommodation, the country is completely unaffordable."
+        ],
+        "tips": [
+          "Staying outside major cities can reduce accommodation costs significantly."
+        ],
+        "thingsToKnow": [
+          "Almost everything in Switzerland is very expensive."
+        ],
+        "culturalNotes": [
+          "People are required to learn at least two of the country's official languages in school, but in practice this doesn't mean they are all fluent in the two languages that they learned."
+        ],
+        "personalNotes": [
+          "I consider Switzerland one of the most beautiful countries in the world and easily the most beautiful country I have visited in Europe.",
+          "It felt like it would be a wonderful place to live if I could afford it.",
+          "The cost of almost everything really stood out to me."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I did not need a visa to enter.",
+        "currency": "Swiss Franc (₣/S.Fr/Fr, CHF)",
+        "paymentNotes": [
+          "Cards seemed to be used more often than cash.",
+          "Both cash and cards were usually accepted."
+        ],
+        "transportNotes": [
+          "Trains are the easiest way to travel between cities.",
+          "I found the train network excellent, and many routes offered incredible scenery.",
+          "Cities generally have buses and trams that make local travel easy.",
+          "A car can be useful, or even necessary, for reaching less touristy areas and cheaper accommodation."
+        ],
+        "languageNotes": [
+          "English proficiency is generally very high.",
+          "English may be less common outside tourist-focused areas.",
+          "The official languages are German, French, Italian, and Romansh.",
+          "Swiss German can be difficult for speakers of standard German to understand."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "I found the weather very pleasant and comfortable, especially compared to Southern Europe."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [
+          "Fondue",
+          "Raclette",
+          "Rösti",
+          "Zürcher Geschnetzeltes",
+          "Swiss chocolate",
+          "Swiss cheese"
+        ],
+        "foodNotes": [
+          "Switzerland has many varieties of high-quality cheese.",
+          "I enjoyed the chocolate.",
+          "Swiss wine is excellent."
+        ]
+      },
+      "regionsOverview": [
+        {
+          "name": "Ticino",
+          "knownFor": [
+            "Mild climate",
+            "Mediterranean atmosphere",
+            "Lake Maggiore",
+            "Lake Lugano"
+          ],
+          "notes": []
+        },
+        {
+          "name": "Zürich",
+          "knownFor": [
+            "Beautiful old town",
+            "Lake Zürich",
+            "Regional food",
+            "Nature around the city"
+          ],
+          "notes": []
+        }
+      ],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Lugano",

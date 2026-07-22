@@ -1,6 +1,83 @@
 {
   "name": "liechtenstein",
-  "data": [],
+  "coverImg": "",
+  "data": [
+    {
+      "summary": {
+        "overallRating": "★★★⯪☆",
+        "affordability": "☆☆☆☆☆",
+        "transportRating": "★★★⯪☆",
+        "foodRating": "N/A",
+        "returnInterest": {
+          "level": "☆☆☆☆☆",
+          "note": "Maybe if I happened to be in the area, mainly to see more of the forests and mountains."
+        }
+      },
+      "description": {
+        "intro": "Liechtenstein is a small country between Austria and Switzerland known for its mountain scenery, wealthy atmosphere, and unique history. I found it easy to explore in a short amount of time, and the landscapes were the highlight of my visit. Although I am not planning a dedicated return trip, I would not mind coming back if I were nearby.",
+        "standouts": [
+          "The mountains and hills were beautiful.",
+          "I found the country's history interesting.",
+          "It was easy to travel through in a single day.",
+          "The summer weather was pleasant.",
+          "It felt even more expensive than Switzerland."
+        ],
+        "tips": [
+          "I would recommend taking bus route 11 between Sargans (Switzerland) and Feldkirch (Austria), as it passes through most of the country and is an efficient way to explore it.",
+          "The ruins up on the mountain behind the castle in Vaduz are worth visiting for the views and the hike."
+        ],
+        "thingsToKnow": [
+          "Liechtenstein is double landlocked.",
+          "The country can only be reached through nearby cities by train, bus, or car.",
+          "It is very narrow and can be crossed in a relatively straight line.",
+          "Liechtenstein is known for having the highest GDP per capita in the world, at around €194,715 in 05/2026."
+        ],
+        "culturalNotes": [
+          "The overall atmosphere felt very wealthy."
+        ],
+        "personalNotes": [
+          "There were a lot of expensive and rare cars driving around.",
+          "I found it interesting that several villas were divided into multiple addresses like an apartment building."
+        ]
+      },
+      "travelPracticalities": {
+        "visaNotes": "I didn't need a visa to enter.",
+        "currency": "Swiss Franc (₣/S.Fr/Fr, CHF)",
+        "paymentNotes": [],
+        "transportNotes": [
+          "There is no airport in Liechtenstein.",
+          "You can reach the country through nearby cities in Switzerland or Austria.",
+          "Bus route 11 between Sargans and Feldkirch passes through almost every town in Liechtenstein and takes around 82 minutes.",
+          "There is also a train station in Schaan with connections to Feldkirch in Austria and Buchs in Switzerland."
+        ],
+        "languageNotes": [
+          "German is the official language.",
+          "Most people seemed to be able to speak English."
+        ],
+        "packingNotes": [],
+        "seasonalNotes": [
+          {
+            "season": "Summer",
+            "notes": [
+              "The weather was pleasant, although cooler than in the surrounding countries."
+            ]
+          }
+        ]
+      },
+      "foodCulture": {
+        "mustTryDishes": [],
+        "foodNotes": []
+      },
+      "regionsOverview": [],
+      "recommendedApps": [],
+      "recommendationsFromOthers": {},
+      "metadata": {
+        "tags": [],
+        "status": "",
+        "lastUpdated": ""
+      }
+    }
+  ],
   "places": [
     {
       "name": "Vaduz",
